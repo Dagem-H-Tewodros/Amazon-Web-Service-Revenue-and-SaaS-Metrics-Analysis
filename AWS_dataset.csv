@@ -20,8 +20,8 @@ Row ID,Order ID,Order Date,Date Key,Contact Name,Country,City,Region,Subregion,C
 19,AMER-2020-143336,8/27/2020,20200827,Blake Hughes,United States,Los Angeles,AMER,NAMER,Wells Fargo,1099,Finance,SMB,ChatBot Plugin,ZYL9KDTY68,8.56,2,0,2.4824
 20,AMER-2020-143336,8/27/2020,20200827,Blake Hughes,United States,Los Angeles,AMER,NAMER,Wells Fargo,1099,Finance,SMB,Site Analytics,I54O29EW1T,213.48,3,0.2,16.011
 21,AMER-2020-143336,8/27/2020,20200827,Blake Hughes,United States,Los Angeles,AMER,NAMER,Wells Fargo,1099,Finance,SMB,ContactMatcher,E3TF1V9DE8,22.72,4,0.2,7.384
-22,AMER-2022-137330,12/10/2022,20221210,Melanie Sharp,Costa Rica,San JosÇ,AMER,LATAM,Carrefour,1048,Retail,Strategic,ChatBot Plugin,B83G92QX65,19.46,7,0,5.0596
-23,AMER-2022-137330,12/10/2022,20221210,Melanie Sharp,Costa Rica,San JosÇ,AMER,LATAM,Carrefour,1048,Retail,Strategic,OneView,VWDIYAB44Z,60.34,7,0,15.6884
+22,AMER-2022-137330,12/10/2022,20221210,Melanie Sharp,Costa Rica,San Jos‚Äö,AMER,LATAM,Carrefour,1048,Retail,Strategic,ChatBot Plugin,B83G92QX65,19.46,7,0,5.0596
+23,AMER-2022-137330,12/10/2022,20221210,Melanie Sharp,Costa Rica,San Jos‚Äö,AMER,LATAM,Carrefour,1048,Retail,Strategic,OneView,VWDIYAB44Z,60.34,7,0,15.6884
 24,EMEA-2023-156909,7/17/2023,20230717,Luke Bower,France,Paris,EMEA,EU-WEST,Costco Wholesale,1025,Retail,SMB,FinanceHub,AJOASBK55N,71.372,2,0.3,-1.0196
 25,EMEA-2021-106320,9/25/2021,20210925,Jonathan Ferguson,Turkey,Istanbul,EMEA,MEA,McKesson,1063,Consumer Products,SMB,ContactMatcher,P1I8X35CUZ,1044.63,3,0,240.2649
 26,AMER-2022-121755,1/16/2022,20220116,Sam Parsons,United States,New York City,AMER,NAMER,Siemens,1043,Manufacturing,SMB,ContactMatcher,NRCR8EBL62,11.648,2,0.2,4.2224
@@ -84,7 +84,7 @@ Row ID,Order ID,Order Date,Date Key,Contact Name,Country,City,Region,Subregion,C
 83,AMER-2020-139451,10/12/2020,20201012,Gordon McLean,United States,Los Angeles,AMER,NAMER,Verizon Communications,1094,Communications,SMB,Marketing Suite - Gold,9SVF10L0F3,21.39,1,0,6.2031
 84,EMEA-2021-149734,9/3/2021,20210903,Jessica Buckland,Sweden,Uppsala,EMEA,NOR,Itochu,1032,Finance,Strategic,SaaS Connector Pack - Gold,CFUHIDO1WY,200.984,7,0.2,62.8075
 85,APJ-2023-119662,11/14/2023,20231114,Bernadette Nolan,Australia,Sydney,APJ,ANZ,Royal Dutch Shell,1031,Energy,Enterprise,Marketing Suite - Gold,CUL2MB77E0,230.376,3,0.2,-48.9549
-86,AMER-2023-140088,5/29/2023,20230529,Katherine Dowd,Colombia,Bogot†,AMER,LATAM,Morgan Stanley,1068,Finance,SMB,FinanceHub,RBNGNEEYS9,301.96,2,0,33.2156
+86,AMER-2023-140088,5/29/2023,20230529,Katherine Dowd,Colombia,Bogot¬†,AMER,LATAM,Morgan Stanley,1068,Finance,SMB,FinanceHub,RBNGNEEYS9,301.96,2,0,33.2156
 87,EMEA-2023-155558,10/27/2023,20231027,Sonia Ince,Luxembourg,Luxembourg,EMEA,EU-WEST,Daimler,1052,Transportation,SMB,Data Smasher,W731G6G61K,19.99,1,0,6.7966
 88,EMEA-2023-155558,10/27/2023,20231027,Sonia Ince,Luxembourg,Luxembourg,EMEA,EU-WEST,Daimler,1052,Transportation,SMB,FinanceHub,A3HQUY156G,6.16,2,0,2.9568
 89,APJ-2022-159695,4/6/2022,20220406,William Lewis,Japan,Tokyo,APJ,JAPN,Fannie Mae,1035,Finance,Enterprise,Marketing Suite - Gold,45JXXNYX5W,158.368,7,0.2,13.8572
@@ -196,7 +196,7 @@ Row ID,Order ID,Order Date,Date Key,Contact Name,Country,City,Region,Subregion,C
 195,AMER-2021-131457,10/31/2021,20211031,Jonathan Clark,United States,Providence,AMER,NAMER,Allstate,1003,Finance,Strategic,SaaS Connector Pack - Gold,03NGWSRFCP,14.28,7,0,6.7116
 196,AMER-2020-140004,3/21/2020,20200321,Kevin Vaughan,Mexico,Mexico City,AMER,LATAM,Tyson Foods,1088,Consumer Products,SMB,ChatBot Plugin,FNBDSUKN38,7.408,2,0.2,1.2038
 197,AMER-2020-140004,3/21/2020,20200321,Kevin Vaughan,Mexico,Mexico City,AMER,LATAM,Tyson Foods,1088,Consumer Products,SMB,ChatBot Plugin,YDSSPKI1I2,6.048,3,0.2,1.5876
-198,AMER-2023-107720,11/7/2023,20231107,Madeleine Smith,Argentina,C¢rdoba,AMER,LATAM,BMW,1039,Manufacturing,Enterprise,Marketing Suite - Gold,HVCAY62Q3B,46.26,3,0,12.0276
+198,AMER-2023-107720,11/7/2023,20231107,Madeleine Smith,Argentina,C¬¢rdoba,AMER,LATAM,BMW,1039,Manufacturing,Enterprise,Marketing Suite - Gold,HVCAY62Q3B,46.26,3,0,12.0276
 199,EMEA-2023-124303,7/7/2023,20230707,Diana Ince,France,Paris,EMEA,EU-WEST,Humana,1049,Healthcare,Strategic,ContactMatcher,YST0N15YFB,2.946,2,0.7,-2.2586
 200,EMEA-2023-124303,7/7/2023,20230707,Diana Ince,France,Paris,EMEA,EU-WEST,Humana,1049,Healthcare,Strategic,Support,9BA74E75KZ,16.056,3,0.2,5.8203
 201,AMER-2023-105074,6/25/2023,20230625,Tracey Knox,Mexico,Guadalajara,AMER,LATAM,Gazprom,1027,Energy,SMB,Support,WMPYGW9GUM,21.744,3,0.2,6.795
@@ -266,7 +266,7 @@ Row ID,Order ID,Order Date,Date Key,Contact Name,Country,City,Region,Subregion,C
 265,APJ-2022-125318,6/7/2022,20220607,Lucas Mathis,Australia,Sydney,APJ,ANZ,Lowes,1060,Retail,SMB,Site Analytics,6VX3RZ4S8W,328.224,4,0.2,28.7196
 266,AMER-2021-155040,11/10/2021,20211110,Joanne Robertson,United States,Detroit,AMER,NAMER,Ford Motor,1009,Manufacturing,SMB,Data Smasher,6SBXRHTE5J,79.9,2,0,35.156
 267,EMEA-2023-136826,6/17/2023,20230617,Felicity King,Sweden,Stockholm,EMEA,NOR,CVS Health,1026,Retail,Strategic,ChatBot Plugin,1HBFAQQ6H6,14.016,3,0.2,4.7304
-268,AMER-2022-111010,1/22/2022,20220122,Sonia Ince,Argentina,C¢rdoba,AMER,LATAM,Daimler,1052,Transportation,SMB,Storage,TM6DR3U3SF,7.56,6,0,0.3024
+268,AMER-2022-111010,1/22/2022,20220122,Sonia Ince,Argentina,C¬¢rdoba,AMER,LATAM,Daimler,1052,Transportation,SMB,Storage,TM6DR3U3SF,7.56,6,0,0.3024
 269,AMER-2023-145366,12/10/2023,20231210,Thomas Peters,Mexico,Guadalajara,AMER,LATAM,Amazon,1004,Tech,Strategic,Marketing Suite - Gold,DIXME035AX,37.208,1,0.2,-7.4416
 270,AMER-2023-145366,12/10/2023,20231210,Thomas Peters,Mexico,Guadalajara,AMER,LATAM,Amazon,1004,Tech,Strategic,SaaS Connector Pack - Gold,74ILT8I1DT,57.576,3,0.2,21.591
 271,AMER-2023-163979,12/29/2023,20231229,Zoe Avery,United States,Los Angeles,AMER,NAMER,Apple,1008,Tech,Strategic,Marketing Suite - Gold,NFM77EIVMM,725.84,4,0,210.4936
@@ -428,10 +428,10 @@ Row ID,Order ID,Order Date,Date Key,Contact Name,Country,City,Region,Subregion,C
 427,AMER-2023-149160,11/24/2023,20231124,Joseph Newman,Brazil,Salvador,AMER,LATAM,Tesco,1059,Retail,Strategic,ContactMatcher,WGNUX02B1I,287.92,8,0,138.2016
 428,EMEA-2020-101476,9/12/2020,20200912,Victoria Nash,United Kingdom,Leicester,EMEA,UKIR,BMW,1039,Manufacturing,Enterprise,Big Ol Database,UOO7AR29D5,69.99,1,0,30.0957
 429,APJ-2023-152275,10/2/2023,20231002,Sebastian Brown,Japan,Osaka,APJ,JAPN,Phillips 66,1056,Energy,Strategic,ChatBot Plugin,FA0XNCPJKF,6.672,6,0.2,0.5004
-430,EMEA-2022-123750,4/16/2022,20220416,Gordon Greene,Sweden,Malmî,EMEA,NOR,Lowes,1060,Retail,Enterprise,ContactMatcher,X8MNO7G6RT,189.588,2,0.7,-145.3508
-431,EMEA-2022-123750,4/16/2022,20220416,Gordon Greene,Sweden,Malmî,EMEA,NOR,Lowes,1060,Retail,Enterprise,Data Smasher,EWS62DTMCW,408.744,7,0.2,76.6395
-432,EMEA-2022-123750,4/16/2022,20220416,Gordon Greene,Sweden,Malmî,EMEA,NOR,Lowes,1060,Retail,Enterprise,Data Smasher,JGJ0FJKHEO,291.96,5,0.2,54.7425
-433,EMEA-2022-123750,4/16/2022,20220416,Gordon Greene,Sweden,Malmî,EMEA,NOR,Lowes,1060,Retail,Enterprise,Marketing Suite - Gold,EAMQBL5QOO,4.768,2,0.2,-0.7748
+430,EMEA-2022-123750,4/16/2022,20220416,Gordon Greene,Sweden,Malm‚Äù,EMEA,NOR,Lowes,1060,Retail,Enterprise,ContactMatcher,X8MNO7G6RT,189.588,2,0.7,-145.3508
+431,EMEA-2022-123750,4/16/2022,20220416,Gordon Greene,Sweden,Malm‚Äù,EMEA,NOR,Lowes,1060,Retail,Enterprise,Data Smasher,EWS62DTMCW,408.744,7,0.2,76.6395
+432,EMEA-2022-123750,4/16/2022,20220416,Gordon Greene,Sweden,Malm‚Äù,EMEA,NOR,Lowes,1060,Retail,Enterprise,Data Smasher,JGJ0FJKHEO,291.96,5,0.2,54.7425
+433,EMEA-2022-123750,4/16/2022,20220416,Gordon Greene,Sweden,Malm‚Äù,EMEA,NOR,Lowes,1060,Retail,Enterprise,Marketing Suite - Gold,EAMQBL5QOO,4.768,2,0.2,-0.7748
 434,APJ-2022-127369,6/7/2022,20220607,Anthony Sanderson,South Korea,Incheon,APJ,APAC,American Express,1005,Finance,SMB,Marketing Suite - Gold,3XZV8DABB4,714.3,5,0,207.147
 435,EMEA-2020-150574,12/19/2020,20201219,Ryan Oliver,Germany,Berlin,EMEA,EU-WEST,CVS Health,1026,Retail,SMB,ContactMatcher,T755MPWHPG,4.812,2,0.7,-3.6892
 436,EMEA-2020-150574,12/19/2020,20201219,Ryan Oliver,Germany,Berlin,EMEA,EU-WEST,CVS Health,1026,Retail,SMB,Data Smasher,LWEKYP9MW7,247.8,5,0.2,-18.585
@@ -784,7 +784,7 @@ Row ID,Order ID,Order Date,Date Key,Contact Name,Country,City,Region,Subregion,C
 783,AMER-2021-157014,10/3/2021,20211003,Isaac Robertson,Mexico,Mexico City,AMER,LATAM,Daimler,1052,Transportation,SMB,Data Smasher,VZ3LO1S1DH,24,2,0.2,-2.7
 784,AMER-2021-157014,10/3/2021,20211003,Isaac Robertson,Mexico,Mexico City,AMER,LATAM,Daimler,1052,Transportation,SMB,Marketing Suite,CJZB9DI3A5,35.49,1,0.5,-15.6156
 785,AMER-2021-157014,10/3/2021,20211003,Isaac Robertson,Mexico,Mexico City,AMER,LATAM,Daimler,1052,Transportation,SMB,Data Smasher,EF6BX3ZKDL,47.984,2,0.2,0.5998
-786,AMER-2021-154921,5/23/2021,20210523,Lily Paterson,Colombia,Bogot†,AMER,LATAM,Carrefour,1048,Retail,Strategic,SaaS Connector Pack - Gold,1UVGJ25JDB,186.69,3,0,87.7443
+786,AMER-2021-154921,5/23/2021,20210523,Lily Paterson,Colombia,Bogot¬†,AMER,LATAM,Carrefour,1048,Retail,Strategic,SaaS Connector Pack - Gold,1UVGJ25JDB,186.69,3,0,87.7443
 787,AMER-2023-129567,3/18/2023,20230318,Alexandra Dyer,United States,Roswell,AMER,NAMER,Walmart,1096,Retail,SMB,ContactMatcher,LITEM986TF,17.456,2,0.2,5.8914
 788,AMER-2021-154620,12/12/2021,20211212,Ava Ellison,United States,Roswell,AMER,NAMER,Oracle,1072,Tech,SMB,FinanceHub,6V3AWBV5I5,348.928,2,0.2,34.8928
 789,EMEA-2021-115938,6/26/2021,20210626,Jack Hodges,Spain,Murcia,EMEA,EU-WEST,Chevron,1017,Energy,SMB,ContactMatcher,83XK3SKJFW,143.96,4,0,69.1008
@@ -806,8 +806,8 @@ Row ID,Order ID,Order Date,Date Key,Contact Name,Country,City,Region,Subregion,C
 805,AMER-2023-135783,4/23/2023,20230423,Evan Paige,United States,Los Angeles,AMER,NAMER,Honda Motor,1045,Manufacturing,SMB,SaaS Connector Pack,W4WHTHU3L5,18.28,2,0,6.2152
 806,EMEA-2020-134313,11/1/2020,20201101,Faith Jones,Russia,Moscow,EMEA,EU-EAST,Sony,1028,Tech,SMB,ChatBot Plugin,A3V0X8216P,43.176,3,0.2,4.3176
 807,EMEA-2020-134313,11/1/2020,20201101,Faith Jones,Russia,Moscow,EMEA,EU-EAST,Sony,1028,Tech,SMB,Site Analytics,2S3OIOFEUY,1983.968,4,0.2,247.996
-808,AMER-2021-140921,2/3/2021,20210203,Irene Clark,Costa Rica,San JosÇ,AMER,LATAM,Comcast,1022,Communications,SMB,SaaS Connector Pack,JJM1SC1R9Q,28.4,2,0,11.076
-809,AMER-2021-140921,2/3/2021,20210203,Irene Clark,Costa Rica,San JosÇ,AMER,LATAM,Comcast,1022,Communications,SMB,Data Smasher,IDE5VT4UNV,149.97,3,0,50.9898
+808,AMER-2021-140921,2/3/2021,20210203,Irene Clark,Costa Rica,San Jos‚Äö,AMER,LATAM,Comcast,1022,Communications,SMB,SaaS Connector Pack,JJM1SC1R9Q,28.4,2,0,11.076
+809,AMER-2021-140921,2/3/2021,20210203,Irene Clark,Costa Rica,San Jos‚Äö,AMER,LATAM,Comcast,1022,Communications,SMB,Data Smasher,IDE5VT4UNV,149.97,3,0,50.9898
 810,AMER-2020-151995,10/13/2020,20201013,Pippa Brown,Canada,Montreal,AMER,NAMER,Volkswagen,1046,Manufacturing,SMB,ChatBot Plugin,PGGKETKP9A,11.52,4,0,3.2256
 811,AMER-2020-151995,10/13/2020,20201013,Pippa Brown,Canada,Montreal,AMER,NAMER,Volkswagen,1046,Manufacturing,SMB,ContactMatcher,SVQ1J5FOQK,1298.55,5,0,311.652
 812,AMER-2020-151995,10/13/2020,20201013,Pippa Brown,Canada,Montreal,AMER,NAMER,Volkswagen,1046,Manufacturing,SMB,OneView,NHJMNOYKF2,213.92,4,0,62.0368
@@ -1507,7 +1507,7 @@ Row ID,Order ID,Order Date,Date Key,Contact Name,Country,City,Region,Subregion,C
 1506,AMER-2021-153388,8/1/2021,20210801,Ella Hart,United States,New York City,AMER,NAMER,BNP Paribas,1065,Finance,Enterprise,ContactMatcher,L1XTT9TFRI,1004.976,6,0.2,-175.8708
 1507,EMEA-2023-154935,12/25/2023,20231225,Sophie Murray,United Kingdom,London,EMEA,UKIR,Alphabet,1053,Tech,SMB,ContactMatcher,ABX3GM8I8I,17.88,3,0.2,5.5875
 1508,EMEA-2022-134208,9/18/2022,20220918,Faith Campbell,Finland,Helsinki,EMEA,NOR,Allstate,1003,Finance,SMB,Big Ol Database,2ZGV2RDYLF,396,4,0,190.08
-1509,AMER-2023-108294,12/11/2023,20231211,Victor Short,Costa Rica,San JosÇ,AMER,LATAM,Prudential Financial,1078,Finance,Enterprise,ContactMatcher,X3R1B8J7UG,34.5,3,0,15.525
+1509,AMER-2023-108294,12/11/2023,20231211,Victor Short,Costa Rica,San Jos‚Äö,AMER,LATAM,Prudential Financial,1078,Finance,Enterprise,ContactMatcher,X3R1B8J7UG,34.5,3,0,15.525
 1510,AMER-2023-103611,9/13/2023,20230913,Liam Murray,United States,New York City,AMER,NAMER,American Express,1005,Finance,SMB,SaaS Connector Pack,UAX7KK2PXJ,8.36,2,0,3.0096
 1511,AMER-2023-100384,6/25/2023,20230625,Audrey Alsop,United States,Phoenix,AMER,NAMER,Trafigura Group,1100,Finance,Strategic,ChatBot Plugin,19SCFUOLNL,385.6,8,0,111.824
 1512,AMER-2023-100384,6/25/2023,20230625,Audrey Alsop,United States,Phoenix,AMER,NAMER,Trafigura Group,1100,Finance,Strategic,ChatBot Plugin,2B3NNDTAQS,35.82,9,0,11.8206
@@ -1563,7 +1563,7 @@ Row ID,Order ID,Order Date,Date Key,Contact Name,Country,City,Region,Subregion,C
 1562,AMER-2023-107293,9/6/2023,20230906,Bernadette Nolan,Canada,Toronto,AMER,NAMER,Royal Dutch Shell,1031,Energy,Enterprise,ChatBot Plugin,7LU92YCBHE,2.78,1,0,0.7228
 1563,EMEA-2023-102890,7/1/2023,20230701,Kimberly Langdon,United Kingdom,London,EMEA,UKIR,Home Depot,1047,Retail,SMB,ContactMatcher,9YP3RMVFTC,1044.63,5,0.4,-295.9785
 1564,EMEA-2021-158554,11/9/2021,20211109,Emily Campbell,France,Paris,EMEA,EU-WEST,Allianz,1080,Finance,SMB,Support,HE9K3OBK7X,11.352,3,0.2,4.1151
-1565,AMER-2020-116239,3/4/2020,20200304,Alexandra Dyer,Colombia,Bogot†,AMER,LATAM,Walmart,1096,Retail,SMB,Marketing Suite - Gold,AFPQHIGAE3,354.9,5,0,17.745
+1565,AMER-2020-116239,3/4/2020,20200304,Alexandra Dyer,Colombia,Bogot¬†,AMER,LATAM,Walmart,1096,Retail,SMB,Marketing Suite - Gold,AFPQHIGAE3,354.9,5,0,17.745
 1566,AMER-2021-132101,3/19/2021,20210319,Stewart May,Canada,Toronto,AMER,NAMER,Siemens,1043,Manufacturing,Enterprise,Site Analytics,AMIU37C1RG,453.576,3,0.2,39.6879
 1567,APJ-2021-129112,11/29/2021,20211129,Hannah Hughes,Japan,Fukuoka,APJ,JAPN,Amazon,1004,Tech,SMB,Data Smasher,OQYOI9TS4B,21.48,3,0.2,-0.2685
 1568,APJ-2021-129112,11/29/2021,20211129,Hannah Hughes,Japan,Fukuoka,APJ,JAPN,Amazon,1004,Tech,SMB,ContactMatcher,6MAN1HP5SJ,8.784,4,0.8,-13.6152
@@ -1693,9 +1693,9 @@ Row ID,Order ID,Order Date,Date Key,Contact Name,Country,City,Region,Subregion,C
 1692,APJ-2023-129833,12/10/2023,20231210,Karen Vance,India,Delhi,APJ,IND,Aviva,1006,Finance,SMB,ContactMatcher,E19PPRJDF1,10.4,5,0,5.096
 1693,AMER-2022-154361,3/15/2022,20220315,Felicity Sutherland,Mexico,Mexico City,AMER,LATAM,Walmart,1096,Retail,SMB,SaaS Connector Pack,TZ88HFSKPB,21.88,5,0.2,6.2905
 1694,APJ-2022-158708,6/27/2022,20220627,Nathan Marshall,Japan,Ibaraki,APJ,JAPN,Royal Dutch Shell,1031,Energy,Enterprise,Data Smasher,RH56QYZ894,13.616,2,0.2,3.5742
-1695,AMER-2021-156335,9/25/2021,20210925,Liam Churchill,Argentina,C¢rdoba,AMER,LATAM,CVS Health,1026,Retail,Enterprise,Data Smasher,A20QJIPFVB,63.96,4,0,19.8276
-1696,AMER-2021-156335,9/25/2021,20210925,Liam Churchill,Argentina,C¢rdoba,AMER,LATAM,CVS Health,1026,Retail,Enterprise,ContactMatcher,75OX1S45DK,14.46,3,0,7.0854
-1697,AMER-2021-156335,9/25/2021,20210925,Liam Churchill,Argentina,C¢rdoba,AMER,LATAM,CVS Health,1026,Retail,Enterprise,Site Analytics,3Q1NINTITG,104.98,2,0,52.49
+1695,AMER-2021-156335,9/25/2021,20210925,Liam Churchill,Argentina,C¬¢rdoba,AMER,LATAM,CVS Health,1026,Retail,Enterprise,Data Smasher,A20QJIPFVB,63.96,4,0,19.8276
+1696,AMER-2021-156335,9/25/2021,20210925,Liam Churchill,Argentina,C¬¢rdoba,AMER,LATAM,CVS Health,1026,Retail,Enterprise,ContactMatcher,75OX1S45DK,14.46,3,0,7.0854
+1697,AMER-2021-156335,9/25/2021,20210925,Liam Churchill,Argentina,C¬¢rdoba,AMER,LATAM,CVS Health,1026,Retail,Enterprise,Site Analytics,3Q1NINTITG,104.98,2,0,52.49
 1698,AMER-2021-148376,12/27/2021,20211227,Sue Anderson,United States,New York City,AMER,NAMER,BMW,1039,Manufacturing,SMB,OneView,T0BRD7MXTA,106.96,2,0,31.0184
 1699,AMER-2021-148376,12/27/2021,20211227,Sue Anderson,United States,New York City,AMER,NAMER,BMW,1039,Manufacturing,SMB,FinanceHub,VNSBQXXLJV,21.56,7,0,10.3488
 1700,AMER-2020-135657,6/3/2020,20200603,Natalie Sanderson,Canada,Toronto,AMER,NAMER,Aetna,1002,Healthcare,SMB,ContactMatcher,QE4Z0KY47B,515.88,6,0,113.4936
@@ -1766,8 +1766,8 @@ Row ID,Order ID,Order Date,Date Key,Contact Name,Country,City,Region,Subregion,C
 1765,EMEA-2022-110254,8/5/2022,20220805,Joe Allan,Spain,Barcelona,EMEA,EU-WEST,Enel,1013,Energy,Enterprise,FinanceHub,BOLNVR0SBG,4.13,1,0,1.8998
 1766,EMEA-2022-110254,8/5/2022,20220805,Joe Allan,Spain,Barcelona,EMEA,EU-WEST,Enel,1013,Energy,Enterprise,SaaS Connector Pack,N2JEROV5J8,109.8,9,0,46.116
 1767,EMEA-2022-110254,8/5/2022,20220805,Joe Allan,Spain,Barcelona,EMEA,EU-WEST,Enel,1013,Energy,Enterprise,FinanceHub,8XDX0V1PFT,9.82,2,0,4.8118
-1768,EMEA-2020-158057,3/22/2020,20200322,Alexander Martin,Sweden,Malmî,EMEA,NOR,General Electric,1040,Finance,SMB,ContactMatcher,KTRKHXPZVQ,7.644,4,0.7,-5.8604
-1769,EMEA-2020-158057,3/22/2020,20200322,Alexander Martin,Sweden,Malmî,EMEA,NOR,General Electric,1040,Finance,SMB,ContactMatcher,O3W7O3UR3F,51.465,5,0.7,-39.4565
+1768,EMEA-2020-158057,3/22/2020,20200322,Alexander Martin,Sweden,Malm‚Äù,EMEA,NOR,General Electric,1040,Finance,SMB,ContactMatcher,KTRKHXPZVQ,7.644,4,0.7,-5.8604
+1769,EMEA-2020-158057,3/22/2020,20200322,Alexander Martin,Sweden,Malm‚Äù,EMEA,NOR,General Electric,1040,Finance,SMB,ContactMatcher,O3W7O3UR3F,51.465,5,0.7,-39.4565
 1770,APJ-2023-146024,3/3/2023,20230303,Julia Ellison,Japan,Aichi,APJ,JAPN,Tyson Foods,1088,Consumer Products,Strategic,Support,5DZ792XVYC,6.976,4,0.2,-1.3952
 1771,APJ-2023-146024,3/3/2023,20230303,Julia Ellison,Japan,Aichi,APJ,JAPN,Tyson Foods,1088,Consumer Products,Strategic,ContactMatcher,4SCTNA0OD6,12.222,7,0.8,-20.1663
 1772,APJ-2022-129686,11/28/2022,20221128,Jennifer Dowd,Australia,Sydney,APJ,ANZ,Gazprom,1027,Energy,Strategic,Marketing Suite - Gold,E27ALLYKQN,97.984,2,0.2,-24.496
@@ -1899,7 +1899,7 @@ Row ID,Order ID,Order Date,Date Key,Contact Name,Country,City,Region,Subregion,C
 1898,EMEA-2020-169775,8/29/2020,20200829,Stewart Baker,Germany,Hamburg,EMEA,EU-WEST,Carrefour,1048,Retail,SMB,SaaS Connector Pack - Gold,2BSDZFPINV,29.808,2,0.2,10.8054
 1899,EMEA-2020-169775,8/29/2020,20200829,Stewart Baker,Germany,Hamburg,EMEA,EU-WEST,Carrefour,1048,Retail,SMB,ContactMatcher,NZLRQ9K828,505.176,4,0.7,-336.784
 1900,EMEA-2020-169775,8/29/2020,20200829,Stewart Baker,Germany,Hamburg,EMEA,EU-WEST,Carrefour,1048,Retail,SMB,ContactMatcher,YKGMW2MTD5,174.0585,3,0.45,-110.7645
-1901,AMER-2022-140543,6/30/2022,20220630,Brian Hunter,Colombia,Bogot†,AMER,LATAM,Walt Disney,1097,Communications,SMB,Marketing Suite - Gold,ZDJPKJV71N,191.88,6,0,19.188
+1901,AMER-2022-140543,6/30/2022,20220630,Brian Hunter,Colombia,Bogot¬†,AMER,LATAM,Walt Disney,1097,Communications,SMB,Marketing Suite - Gold,ZDJPKJV71N,191.88,6,0,19.188
 1902,AMER-2022-151141,8/21/2022,20220821,Luke Terry,Brazil,S?o Paulo,AMER,LATAM,Airbus,1030,Manufacturing,Enterprise,Site Analytics,B3S83TYJL0,14.78,2,0,3.9906
 1903,EMEA-2023-167094,10/22/2023,20231022,Elizabeth Young,Belgium,Brussels,EMEA,EU-WEST,Procter & Gamble,1077,Consumer Products,Strategic,Support,1BXJ29GJEW,5.184,1,0.2,1.8144
 1904,EMEA-2023-167094,10/22/2023,20231022,Elizabeth Young,Belgium,Brussels,EMEA,EU-WEST,Procter & Gamble,1077,Consumer Products,Strategic,FinanceHub,VLGPZLMF6E,478.48,2,0.2,47.848
@@ -2044,9 +2044,9 @@ Row ID,Order ID,Order Date,Date Key,Contact Name,Country,City,Region,Subregion,C
 2043,AMER-2021-104493,10/2/2021,20211002,Hannah Sanderson,United States,Seattle,AMER,NAMER,Verizon Communications,1094,Communications,Strategic,ContactMatcher,V05OQDIR69,57.504,6,0.2,20.1264
 2044,AMER-2023-158946,11/19/2023,20231119,Andrew Lewis,Mexico,Puerto Vallarta,AMER,LATAM,PepsiCo,1073,Consumer Products,Strategic,ChatBot Plugin,OX5F4G29ZT,38.864,7,0.2,7.7728
 2045,APJ-2020-129168,8/17/2020,20200817,Melanie Sharp,Japan,Tokyo,APJ,JAPN,Carrefour,1048,Retail,Strategic,Support,CO6NQE1ANR,15.552,3,0.2,5.4432
-2046,AMER-2022-131835,7/18/2022,20220718,Brandon Vaughan,Argentina,C¢rdoba,AMER,LATAM,Walt Disney,1097,Communications,Strategic,OneView,XL7241T9PU,162.64,2,0,45.5392
-2047,AMER-2022-131835,7/18/2022,20220718,Brandon Vaughan,Argentina,C¢rdoba,AMER,LATAM,Walt Disney,1097,Communications,Strategic,Site Analytics,S59UPCR2TY,597,3,0,280.59
-2048,AMER-2022-131835,7/18/2022,20220718,Brandon Vaughan,Argentina,C¢rdoba,AMER,LATAM,Walt Disney,1097,Communications,Strategic,Support,DD2F7QL2EU,55.48,1,0,26.6304
+2046,AMER-2022-131835,7/18/2022,20220718,Brandon Vaughan,Argentina,C¬¢rdoba,AMER,LATAM,Walt Disney,1097,Communications,Strategic,OneView,XL7241T9PU,162.64,2,0,45.5392
+2047,AMER-2022-131835,7/18/2022,20220718,Brandon Vaughan,Argentina,C¬¢rdoba,AMER,LATAM,Walt Disney,1097,Communications,Strategic,Site Analytics,S59UPCR2TY,597,3,0,280.59
+2048,AMER-2022-131835,7/18/2022,20220718,Brandon Vaughan,Argentina,C¬¢rdoba,AMER,LATAM,Walt Disney,1097,Communications,Strategic,Support,DD2F7QL2EU,55.48,1,0,26.6304
 2049,EMEA-2021-142237,7/11/2021,20210711,Carolyn Ross,France,Paris,EMEA,EU-WEST,Airbus,1030,Manufacturing,SMB,SaaS Connector Pack,DTS6KL1WB4,289.8,7,0.2,36.225
 2050,EMEA-2021-142237,7/11/2021,20210711,Carolyn Ross,France,Paris,EMEA,EU-WEST,Airbus,1030,Manufacturing,SMB,ContactMatcher,YTK786TBVV,2.502,3,0.7,-2.0016
 2051,EMEA-2021-142237,7/11/2021,20210711,Carolyn Ross,France,Paris,EMEA,EU-WEST,Airbus,1030,Manufacturing,SMB,ContactMatcher,QRPU9MHNSC,6.48,4,0.7,-4.752
@@ -2210,7 +2210,7 @@ Row ID,Order ID,Order Date,Date Key,Contact Name,Country,City,Region,Subregion,C
 2209,EMEA-2021-129854,8/22/2021,20210822,Peter Quinn,United Kingdom,London,EMEA,UKIR,Walgreens,1095,Retail,Enterprise,ChatBot Plugin,G5FGS2HTAZ,16.52,4,0,7.5992
 2210,EMEA-2020-125556,11/14/2020,20201114,Lucas Oliver,Saudi Arabia,Riyadh,EMEA,MEA,Panasonic,1091,Tech,SMB,Site Analytics,4CD95296HK,832.93,7,0,233.2204
 2211,EMEA-2020-125556,11/14/2020,20201114,Lucas Oliver,Saudi Arabia,Riyadh,EMEA,MEA,Panasonic,1091,Tech,SMB,ContactMatcher,D62L5762F1,43.8,10,0,21.024
-2212,AMER-2022-162313,11/28/2022,20221128,Gordon Chapman,Brazil,Bras°lia,AMER,LATAM,Itochu,1032,Finance,Strategic,OneView,T1WX3Y74OP,167.292,6,0.1,29.7408
+2212,AMER-2022-162313,11/28/2022,20221128,Gordon Chapman,Brazil,Bras¬°lia,AMER,LATAM,Itochu,1032,Finance,Strategic,OneView,T1WX3Y74OP,167.292,6,0.1,29.7408
 2213,EMEA-2023-107874,11/22/2023,20231122,Luke Davidson,United Kingdom,London,EMEA,UKIR,Ford Motor,1009,Manufacturing,SMB,SaaS Connector Pack,SPPH8US3ZK,27.42,1,0,11.2422
 2214,AMER-2023-129378,10/2/2023,20231002,Frank Piper,United States,Chicago,AMER,NAMER,AmerisourceBergen,1007,Healthcare,SMB,ContactMatcher,F8W0MIDGC3,1.44,1,0.2,0.504
 2215,AMER-2023-129378,10/2/2023,20231002,Frank Piper,United States,Chicago,AMER,NAMER,AmerisourceBergen,1007,Healthcare,SMB,ContactMatcher,Z1UMLZQ8B4,61.776,13,0.2,20.8494
@@ -2299,8 +2299,8 @@ Row ID,Order ID,Order Date,Date Key,Contact Name,Country,City,Region,Subregion,C
 2298,EMEA-2021-113145,11/1/2021,20211101,Carolyn Murray,United Kingdom,London,EMEA,UKIR,United Parcel Service,1090,Transportation,SMB,Site Analytics,HTAQT9FY8O,42.95,1,0,1.2885
 2299,EMEA-2021-113145,11/1/2021,20211101,Carolyn Murray,United Kingdom,London,EMEA,UKIR,United Parcel Service,1090,Transportation,SMB,Data Smasher,NZ8IR3WXT0,1399.93,7,0,601.9699
 2300,EMEA-2021-113145,11/1/2021,20211101,Carolyn Murray,United Kingdom,London,EMEA,UKIR,United Parcel Service,1090,Transportation,SMB,Site Analytics,G5PQXFNPSI,503.96,4,0,125.99
-2301,AMER-2020-162362,11/14/2020,20201114,Pippa Morrison,Brazil,Bras°lia,AMER,LATAM,Sysco,1084,Consumer Products,SMB,ContactMatcher,RS6FNOG2K5,12.72,3,0,6.36
-2302,AMER-2020-162362,11/14/2020,20201114,Pippa Morrison,Brazil,Bras°lia,AMER,LATAM,Sysco,1084,Consumer Products,SMB,ContactMatcher,4DMASI6XEA,11.52,4,0,5.6448
+2301,AMER-2020-162362,11/14/2020,20201114,Pippa Morrison,Brazil,Bras¬°lia,AMER,LATAM,Sysco,1084,Consumer Products,SMB,ContactMatcher,RS6FNOG2K5,12.72,3,0,6.36
+2302,AMER-2020-162362,11/14/2020,20201114,Pippa Morrison,Brazil,Bras¬°lia,AMER,LATAM,Sysco,1084,Consumer Products,SMB,ContactMatcher,4DMASI6XEA,11.52,4,0,5.6448
 2303,EMEA-2022-106558,1/17/2022,20220117,Richard Carr,Finland,Helsinki,EMEA,NOR,Petrobras,1018,Energy,Strategic,Data Smasher,3IK1RLTB5R,316,4,0,31.6
 2304,EMEA-2023-157931,9/18/2023,20230918,Joshua Lyman,Finland,Helsinki,EMEA,NOR,Fannie Mae,1035,Finance,Enterprise,FinanceHub,X9QUDNL1QD,723.92,4,0,188.2192
 2305,EMEA-2023-157931,9/18/2023,20230918,Joshua Lyman,Finland,Helsinki,EMEA,NOR,Fannie Mae,1035,Finance,Enterprise,Support,OAM0H9AW3M,106.32,3,0,49.9704
@@ -2398,8 +2398,8 @@ Row ID,Order ID,Order Date,Date Key,Contact Name,Country,City,Region,Subregion,C
 2397,EMEA-2021-137897,11/14/2021,20211114,Christian Lyman,United Kingdom,London,EMEA,UKIR,Phillips 66,1056,Energy,Strategic,Support,OZL6VQ2QAS,37,5,0,16.65
 2398,AMER-2023-169264,8/15/2023,20230815,Cameron King,United States,Los Angeles,AMER,NAMER,HSBC Holdings,1070,Finance,SMB,FinanceHub,95U7Y2HMZI,5.76,2,0,2.8224
 2399,AMER-2023-169264,8/15/2023,20230815,Cameron King,United States,Los Angeles,AMER,NAMER,HSBC Holdings,1070,Finance,SMB,ChatBot Plugin,0S023Z1V01,16.68,6,0,4.3368
-2400,AMER-2023-147361,9/10/2023,20230910,Charles Hart,Colombia,Bogot†,AMER,LATAM,HonHai Precision Industry,1033,Tech,Strategic,Marketing Suite - Gold,EBNYHAJLT4,628.81,7,0,12.5762
-2401,AMER-2023-147361,9/10/2023,20230910,Charles Hart,Colombia,Bogot†,AMER,LATAM,HonHai Precision Industry,1033,Tech,Strategic,Marketing Suite - Gold,71CCNUBDD3,56.45,5,0,14.677
+2400,AMER-2023-147361,9/10/2023,20230910,Charles Hart,Colombia,Bogot¬†,AMER,LATAM,HonHai Precision Industry,1033,Tech,Strategic,Marketing Suite - Gold,EBNYHAJLT4,628.81,7,0,12.5762
+2401,AMER-2023-147361,9/10/2023,20230910,Charles Hart,Colombia,Bogot¬†,AMER,LATAM,HonHai Precision Industry,1033,Tech,Strategic,Marketing Suite - Gold,71CCNUBDD3,56.45,5,0,14.677
 2402,EMEA-2023-145877,4/2/2023,20230402,Victoria Ellison,Poland,Warsaw,EMEA,EU-WEST,Morgan Stanley,1068,Finance,SMB,Marketing Suite - Gold,1PJCY5V2CJ,94.2,6,0,23.55
 2403,EMEA-2023-145877,4/2/2023,20230402,Victoria Ellison,Poland,Warsaw,EMEA,EU-WEST,Morgan Stanley,1068,Finance,SMB,SaaS Connector Pack - Gold,YZ8L5J0BNU,28.4,5,0,13.348
 2404,APJ-2022-110170,9/28/2022,20220928,Paul Martin,Japan,Kanagawa,APJ,JAPN,BNP Paribas,1065,Finance,Strategic,Marketing Suite,W6XY4SSX27,956.6648,7,0.32,-225.0976
@@ -2447,7 +2447,7 @@ Row ID,Order ID,Order Date,Date Key,Contact Name,Country,City,Region,Subregion,C
 2446,AMER-2022-146934,5/23/2022,20220523,Brian Peters,Argentina,Rosario,AMER,LATAM,China National Petroleum,1023,Energy,SMB,Site Analytics,LDXR17Q72Y,257.98,2,0,74.8142
 2447,AMER-2021-100573,9/25/2021,20210925,Joanne Blake,United States,New York City,AMER,NAMER,PepsiCo,1073,Consumer Products,SMB,SaaS Connector Pack - Gold,9CMPU6J7O9,17.48,2,0,8.2156
 2448,EMEA-2022-119165,11/1/2022,20221101,Zoe Ferguson,France,Paris,EMEA,EU-WEST,Cigna,1038,Healthcare,SMB,FinanceHub,136Q306JH5,492.835,5,0.3,-14.081
-2449,AMER-2021-128027,9/14/2021,20210914,Eric Forsyth,Colombia,Medell°n,AMER,LATAM,Lukoil,1044,Energy,SMB,Marketing Suite - Gold,Q8DPONVUKC,269.49,3,0,5.3898
+2449,AMER-2021-128027,9/14/2021,20210914,Eric Forsyth,Colombia,Medell¬°n,AMER,LATAM,Lukoil,1044,Energy,SMB,Marketing Suite - Gold,Q8DPONVUKC,269.49,3,0,5.3898
 2450,AMER-2022-140207,11/6/2022,20221106,Bernadette Nolan,United States,Chicago,AMER,NAMER,Royal Dutch Shell,1031,Energy,Enterprise,ContactMatcher,ZVKIWBA0BX,29.12,5,0.2,9.828
 2451,EMEA-2023-140949,3/18/2023,20230318,Leonard Poole,United Kingdom,London,EMEA,UKIR,Trafigura Group,1100,Finance,SMB,FinanceHub,LALSYHZXXT,18.75,5,0,9
 2452,EMEA-2023-140949,3/18/2023,20230318,Leonard Poole,United Kingdom,London,EMEA,UKIR,Trafigura Group,1100,Finance,SMB,Site Analytics,SERX4O04RR,119.7,6,0,31.122
@@ -2516,7 +2516,7 @@ Row ID,Order ID,Order Date,Date Key,Contact Name,Country,City,Region,Subregion,C
 2515,APJ-2022-124506,11/12/2022,20221112,Chloe Underwood,Australia,Sydney,APJ,ANZ,American Express,1005,Finance,Strategic,FinanceHub,UDUR4Z9QWV,47.992,2,0.3,-2.0568
 2516,AMER-2020-106572,9/5/2020,20200905,Cameron King,Mexico,Guadalajara,AMER,LATAM,HSBC Holdings,1070,Finance,SMB,Marketing Suite - Gold,M272YGLG0K,264.32,2,0.2,19.824
 2517,APJ-2020-128888,11/15/2020,20201115,Cameron Bower,Japan,Tokyo,APJ,JAPN,Toyota Motor,1087,Manufacturing,SMB,SaaS Connector Pack - Gold,HWHUZXV0B9,604.656,9,0.2,204.0714
-2518,AMER-2023-123134,5/3/2023,20230503,Austin Newman,Argentina,C¢rdoba,AMER,LATAM,Banco Santander,1101,Finance,Strategic,SaaS Connector Pack,2WPSW73CO6,129.93,3,0,12.993
+2518,AMER-2023-123134,5/3/2023,20230503,Austin Newman,Argentina,C¬¢rdoba,AMER,LATAM,Banco Santander,1101,Finance,Strategic,SaaS Connector Pack,2WPSW73CO6,129.93,3,0,12.993
 2519,APJ-2022-124352,10/16/2022,20221016,Charles Buckland,Singapore,Singapore,APJ,APAC,Carrefour,1048,Retail,Enterprise,FinanceHub,ETOB6WVSQV,20.16,7,0,9.8784
 2520,APJ-2022-124352,10/16/2022,20221016,Charles Buckland,Singapore,Singapore,APJ,APAC,Carrefour,1048,Retail,Enterprise,FinanceHub,IDOZZ3M0DS,29.46,6,0,14.4354
 2521,APJ-2022-124352,10/16/2022,20221016,Charles Buckland,Singapore,Singapore,APJ,APAC,Carrefour,1048,Retail,Enterprise,OneView,NT6LXKEVK6,868.59,3,0,251.8911
@@ -2552,7 +2552,7 @@ Row ID,Order ID,Order Date,Date Key,Contact Name,Country,City,Region,Subregion,C
 2551,AMER-2021-128090,8/16/2021,20210816,Keith Mills,Chile,Santiago,AMER,LATAM,ConocoPhillips,1024,Energy,SMB,FinanceHub,ZK7A7UEZWM,5.04,2,0.2,1.764
 2552,EMEA-2023-101042,11/20/2023,20231120,Carolyn Parr,Ireland,Dublin,EMEA,UKIR,Valero Energy,1093,Energy,SMB,SaaS Connector Pack,8MS2STQL9X,821.88,6,0,213.6888
 2553,EMEA-2023-101042,11/20/2023,20231120,Carolyn Parr,Ireland,Dublin,EMEA,UKIR,Valero Energy,1093,Energy,SMB,ContactMatcher,SMPQGH2XKG,21.96,2,0,10.7604
-2554,AMER-2022-155439,9/15/2022,20220915,Max Marshall,Colombia,Medell°n,AMER,LATAM,Boeing,1014,Manufacturing,Enterprise,Support,4KNW457MMK,25.92,4,0,12.4416
+2554,AMER-2022-155439,9/15/2022,20220915,Max Marshall,Colombia,Medell¬°n,AMER,LATAM,Boeing,1014,Manufacturing,Enterprise,Support,4KNW457MMK,25.92,4,0,12.4416
 2555,EMEA-2022-118626,8/16/2022,20220816,Max James,Germany,Munich,EMEA,EU-WEST,Mitsubishi,1050,Manufacturing,SMB,Site Analytics,D7O4BVUOBR,705.544,7,0.2,70.5544
 2556,EMEA-2021-111458,9/26/2021,20210926,Sally Berry,United Kingdom,London,EMEA,UKIR,Tesco,1059,Retail,SMB,Data Smasher,ZIYYYIA9EF,50,2,0,12
 2557,APJ-2022-126844,10/9/2022,20221009,Ian Butler,Japan,Tokyo,APJ,JAPN,China National Petroleum,1023,Energy,Strategic,SaaS Connector Pack,P8YILHMWZ4,51.712,8,0.6,-32.32
@@ -2591,8 +2591,8 @@ Row ID,Order ID,Order Date,Date Key,Contact Name,Country,City,Region,Subregion,C
 2590,AMER-2022-137729,5/6/2022,20220506,Andrew Sanderson,United States,New York City,AMER,NAMER,Banco Santander,1101,Finance,Enterprise,Site Analytics,8NLP06ITYE,246.168,3,0.2,21.5397
 2591,APJ-2022-115455,9/9/2022,20220909,Jane Stewart,Australia,Brisbane,APJ,ANZ,Honda Motor,1045,Manufacturing,SMB,SaaS Connector Pack,Z0GAE4QEM5,14.136,2,0.6,-7.7748
 2592,APJ-2022-115455,9/9/2022,20220909,Jane Stewart,Australia,Brisbane,APJ,ANZ,Honda Motor,1045,Manufacturing,SMB,ContactMatcher,1G7GK9MA4T,601.47,3,0.5,-300.735
-2593,AMER-2023-128300,11/25/2023,20231125,Claire Carr,Colombia,Bogot†,AMER,LATAM,Caterpillar,1016,Manufacturing,Strategic,Site Analytics,PIWR8SAQ27,79.1,2,0,39.55
-2594,AMER-2023-128300,11/25/2023,20231125,Claire Carr,Colombia,Bogot†,AMER,LATAM,Caterpillar,1016,Manufacturing,Strategic,ContactMatcher,UKDEAKZMXQ,327.84,8,0,157.3632
+2593,AMER-2023-128300,11/25/2023,20231125,Claire Carr,Colombia,Bogot¬†,AMER,LATAM,Caterpillar,1016,Manufacturing,Strategic,Site Analytics,PIWR8SAQ27,79.1,2,0,39.55
+2594,AMER-2023-128300,11/25/2023,20231125,Claire Carr,Colombia,Bogot¬†,AMER,LATAM,Caterpillar,1016,Manufacturing,Strategic,ContactMatcher,UKDEAKZMXQ,327.84,8,0,157.3632
 2595,APJ-2023-149048,5/14/2023,20230514,Peter Ellison,India,Delhi,APJ,IND,Volkswagen,1046,Manufacturing,Strategic,SaaS Connector Pack - Gold,G4V3AOTLBV,180.96,2,0,81.432
 2596,APJ-2023-149048,5/14/2023,20230514,Peter Ellison,India,Delhi,APJ,IND,Volkswagen,1046,Manufacturing,Strategic,ContactMatcher,QKGJ86RGLW,914.97,3,0,411.7365
 2597,APJ-2023-149048,5/14/2023,20230514,Peter Ellison,India,Delhi,APJ,IND,Volkswagen,1046,Manufacturing,Strategic,Site Analytics,CT0469OZHB,587.97,3,0,158.7519
@@ -2789,9 +2789,9 @@ Row ID,Order ID,Order Date,Date Key,Contact Name,Country,City,Region,Subregion,C
 2788,APJ-2020-117744,12/2/2020,20201202,Vanessa Metcalfe,Japan,Hiroshima,APJ,JAPN,AmerisourceBergen,1007,Healthcare,Strategic,SaaS Connector Pack,SUTY3GCF4D,58.36,5,0.6,-24.803
 2789,APJ-2020-117744,12/2/2020,20201202,Vanessa Metcalfe,Japan,Hiroshima,APJ,JAPN,AmerisourceBergen,1007,Healthcare,Strategic,ChatBot Plugin,L3R1P478BE,16.464,7,0.2,1.4406
 2790,APJ-2020-117744,12/2/2020,20201202,Vanessa Metcalfe,Japan,Hiroshima,APJ,JAPN,AmerisourceBergen,1007,Healthcare,Strategic,SaaS Connector Pack,EBGX3D39MP,39.96,5,0.6,-23.976
-2791,AMER-2020-125514,9/21/2020,20200921,Peter Ellison,Costa Rica,San JosÇ,AMER,LATAM,Volkswagen,1046,Manufacturing,Strategic,OneView,01JQ4CTAR9,25.96,2,0,7.5284
-2792,AMER-2020-125514,9/21/2020,20200921,Peter Ellison,Costa Rica,San JosÇ,AMER,LATAM,Volkswagen,1046,Manufacturing,Strategic,OneView,8PK22TILGE,36.27,3,0,10.881
-2793,AMER-2020-125514,9/21/2020,20200921,Peter Ellison,Costa Rica,San JosÇ,AMER,LATAM,Volkswagen,1046,Manufacturing,Strategic,Support,DZNTCJ68IG,6.48,1,0,3.1104
+2791,AMER-2020-125514,9/21/2020,20200921,Peter Ellison,Costa Rica,San Jos‚Äö,AMER,LATAM,Volkswagen,1046,Manufacturing,Strategic,OneView,01JQ4CTAR9,25.96,2,0,7.5284
+2792,AMER-2020-125514,9/21/2020,20200921,Peter Ellison,Costa Rica,San Jos‚Äö,AMER,LATAM,Volkswagen,1046,Manufacturing,Strategic,OneView,8PK22TILGE,36.27,3,0,10.881
+2793,AMER-2020-125514,9/21/2020,20200921,Peter Ellison,Costa Rica,San Jos‚Äö,AMER,LATAM,Volkswagen,1046,Manufacturing,Strategic,Support,DZNTCJ68IG,6.48,1,0,3.1104
 2794,AMER-2020-154599,4/12/2020,20200412,Rachel Bond,United States,Lakewood,AMER,NAMER,Mondelez International,1067,Consumer Products,Strategic,Site Analytics,HRCXUVQ89F,1075.088,14,0.2,94.0702
 2795,AMER-2020-154599,4/12/2020,20200412,Rachel Bond,United States,Lakewood,AMER,NAMER,Mondelez International,1067,Consumer Products,Strategic,Site Analytics,H56HITD8TF,438.368,4,0.2,38.3572
 2796,AMER-2020-154599,4/12/2020,20200412,Rachel Bond,United States,Lakewood,AMER,NAMER,Mondelez International,1067,Consumer Products,Strategic,ContactMatcher,PNHHOJTOB6,18.088,7,0.2,6.5569
@@ -2876,9 +2876,9 @@ Row ID,Order ID,Order Date,Date Key,Contact Name,Country,City,Region,Subregion,C
 2875,EMEA-2023-102638,12/30/2023,20231230,Joan Dickens,United Kingdom,London,EMEA,UKIR,Allstate,1003,Finance,SMB,Storage,VDC6L344GG,6.03,3,0,2.9547
 2876,AMER-2022-167339,1/21/2022,20220121,Sally Wallace,United States,Seattle,AMER,NAMER,Tyson Foods,1088,Consumer Products,SMB,FinanceHub,36C6VHSODZ,153.568,2,0.2,-5.7588
 2877,AMER-2022-167339,1/21/2022,20220121,Sally Wallace,United States,Seattle,AMER,NAMER,Tyson Foods,1088,Consumer Products,SMB,FinanceHub,C0ZE61FHAZ,1013.488,7,0.2,76.0116
-2878,AMER-2022-152072,1/15/2022,20220115,Sally Nolan,Argentina,C¢rdoba,AMER,LATAM,Lukoil,1044,Energy,Enterprise,SaaS Connector Pack - Gold,2VROZH9QQT,52.34,2,0,24.5998
-2879,AMER-2022-152072,1/15/2022,20220115,Sally Nolan,Argentina,C¢rdoba,AMER,LATAM,Lukoil,1044,Energy,Enterprise,ChatBot Plugin,R3VTMOCL0Z,4.66,2,0,1.3514
-2880,AMER-2022-152072,1/15/2022,20220115,Sally Nolan,Argentina,C¢rdoba,AMER,LATAM,Lukoil,1044,Energy,Enterprise,Data Smasher,80SI74I4JN,254.97,3,0,91.7892
+2878,AMER-2022-152072,1/15/2022,20220115,Sally Nolan,Argentina,C¬¢rdoba,AMER,LATAM,Lukoil,1044,Energy,Enterprise,SaaS Connector Pack - Gold,2VROZH9QQT,52.34,2,0,24.5998
+2879,AMER-2022-152072,1/15/2022,20220115,Sally Nolan,Argentina,C¬¢rdoba,AMER,LATAM,Lukoil,1044,Energy,Enterprise,ChatBot Plugin,R3VTMOCL0Z,4.66,2,0,1.3514
+2880,AMER-2022-152072,1/15/2022,20220115,Sally Nolan,Argentina,C¬¢rdoba,AMER,LATAM,Lukoil,1044,Energy,Enterprise,Data Smasher,80SI74I4JN,254.97,3,0,91.7892
 2881,AMER-2022-102932,9/20/2022,20220920,Victoria Nash,Argentina,Buenos Aires,AMER,LATAM,BMW,1039,Manufacturing,Enterprise,ContactMatcher,V1D0ILBTUG,25.44,6,0,12.72
 2882,AMER-2022-102932,9/20/2022,20220920,Victoria Nash,Argentina,Buenos Aires,AMER,LATAM,BMW,1039,Manufacturing,Enterprise,Support,3MRNDRGLZM,27.93,3,0,8.0997
 2883,APJ-2020-165540,2/22/2020,20200222,Ava Oliver,Australia,Gold Coast,APJ,ANZ,Sysco,1084,Consumer Products,SMB,ContactMatcher,GV9SB1GSN9,8.85,5,0.8,-13.7175
@@ -2977,7 +2977,7 @@ Row ID,Order ID,Order Date,Date Key,Contact Name,Country,City,Region,Subregion,C
 2976,APJ-2021-137512,5/7/2021,20210507,Richard Lyman,Japan,Fukuoka,APJ,JAPN,Bank of America Corp.,1011,Finance,SMB,Support,JPNK7C7VU1,15.936,4,0.2,5.3784
 2977,EMEA-2023-139773,12/5/2023,20231205,Deirdre Bailey,France,Paris,EMEA,EU-WEST,Phillips 66,1056,Energy,Strategic,FinanceHub,GCMJJXNGSS,188.552,7,0.3,-2.6936
 2978,EMEA-2023-134607,10/4/2023,20231004,Austin Peters,United Kingdom,Liverpool,EMEA,UKIR,Lowes,1060,Retail,SMB,Marketing Suite - Gold,QQAEK646W8,22.58,2,0,5.8708
-2979,AMER-2020-109232,1/14/2020,20200114,Bernadette Hill,Colombia,Bogot†,AMER,LATAM,Airbus,1030,Manufacturing,SMB,FinanceHub,E74RB0N8HB,545.94,6,0,87.3504
+2979,AMER-2020-109232,1/14/2020,20200114,Bernadette Hill,Colombia,Bogot¬†,AMER,LATAM,Airbus,1030,Manufacturing,SMB,FinanceHub,E74RB0N8HB,545.94,6,0,87.3504
 2980,EMEA-2021-139850,6/12/2021,20210612,Dylan Ince,France,Paris,EMEA,EU-WEST,Procter & Gamble,1077,Consumer Products,SMB,Support,TDD7SAWYJK,20.736,4,0.2,7.2576
 2981,EMEA-2021-139850,6/12/2021,20210612,Dylan Ince,France,Paris,EMEA,EU-WEST,Procter & Gamble,1077,Consumer Products,SMB,SaaS Connector Pack,J18MYCFZ96,43.296,2,0.2,4.3296
 2982,AMER-2020-131310,7/12/2020,20200712,Alexandra Dyer,Canada,Toronto,AMER,NAMER,Walmart,1096,Retail,SMB,FinanceHub,I22LOIKD0R,123.136,4,0.2,13.8528
@@ -3029,8 +3029,8 @@ Row ID,Order ID,Order Date,Date Key,Contact Name,Country,City,Region,Subregion,C
 3028,EMEA-2020-106719,8/24/2020,20200824,Blake Reid,Netherlands,The Hague,EMEA,EU-WEST,BNP Paribas,1065,Finance,Strategic,ContactMatcher,F5ZUPPVM9V,8.288,2,0.2,2.6936
 3029,EMEA-2023-116855,12/18/2023,20231218,Emma Greene,Spain,Valencia,EMEA,EU-WEST,FedEx,1036,Transportation,SMB,FinanceHub,M8I9NJA2XZ,504.9,5,0,80.784
 3030,EMEA-2022-164189,3/25/2022,20220325,Carol James,Belgium,Ghent,EMEA,EU-WEST,AmerisourceBergen,1007,Healthcare,Strategic,Site Analytics,NF2Y212AF6,403.168,4,0.2,25.198
-3031,AMER-2021-168480,9/21/2021,20210921,Ella King,Brazil,Bras°lia,AMER,LATAM,Aetna,1002,Healthcare,Strategic,Marketing Suite,5LNHVC05X7,194.32,4,0,31.0912
-3032,AMER-2021-168480,9/21/2021,20210921,Ella King,Brazil,Bras°lia,AMER,LATAM,Aetna,1002,Healthcare,Strategic,ChatBot Plugin,W65AKW3ZXE,25.99,1,0,7.5371
+3031,AMER-2021-168480,9/21/2021,20210921,Ella King,Brazil,Bras¬°lia,AMER,LATAM,Aetna,1002,Healthcare,Strategic,Marketing Suite,5LNHVC05X7,194.32,4,0,31.0912
+3032,AMER-2021-168480,9/21/2021,20210921,Ella King,Brazil,Bras¬°lia,AMER,LATAM,Aetna,1002,Healthcare,Strategic,ChatBot Plugin,W65AKW3ZXE,25.99,1,0,7.5371
 3033,EMEA-2022-114293,11/22/2022,20221122,Blake Jackson,Belgium,Ghent,EMEA,EU-WEST,Itochu,1032,Finance,SMB,FinanceHub,VVJ9UZYPGE,195.136,4,0.2,-12.196
 3034,EMEA-2023-134173,9/17/2023,20230917,Anna Bower,France,Paris,EMEA,EU-WEST,Airbus,1030,Manufacturing,Enterprise,Support,T7NBFYX3VB,20.736,4,0.2,7.2576
 3035,EMEA-2021-123960,6/11/2021,20210611,Alan White,Czech Republic,Prague,EMEA,EU-EAST,Amazon,1004,Tech,SMB,Data Smasher,3AOR3P2IQ8,53.7,6,0,10.203
@@ -3169,7 +3169,7 @@ Row ID,Order ID,Order Date,Date Key,Contact Name,Country,City,Region,Subregion,C
 3168,AMER-2022-146682,10/30/2022,20221030,Wanda Simpson,Brazil,Manaus,AMER,LATAM,Marathon Petroleum,1061,Energy,SMB,SaaS Connector Pack,C1KU8OVOG6,67,5,0,32.16
 3169,EMEA-2022-138695,5/29/2022,20220529,Felicity Henderson,Germany,Munich,EMEA,EU-WEST,Bank of America Corp.,1011,Finance,Strategic,FinanceHub,2PYZ5MQETB,390.272,8,0.2,-24.392
 3170,EMEA-2022-138695,5/29/2022,20220529,Felicity Henderson,Germany,Munich,EMEA,EU-WEST,Bank of America Corp.,1011,Finance,Strategic,Support,MGOSB227DK,62.192,13,0.2,19.435
-3171,AMER-2023-107461,12/22/2023,20231222,Claire Welch,Colombia,Bogot†,AMER,LATAM,Toyota Motor,1087,Manufacturing,SMB,ContactMatcher,2I2TEMHXBB,23.88,6,0,11.2236
+3171,AMER-2023-107461,12/22/2023,20231222,Claire Welch,Colombia,Bogot¬†,AMER,LATAM,Toyota Motor,1087,Manufacturing,SMB,ContactMatcher,2I2TEMHXBB,23.88,6,0,11.2236
 3172,APJ-2022-133879,3/22/2022,20220322,Liam Burgess,Australia,Sydney,APJ,ANZ,Toyota Motor,1087,Manufacturing,SMB,ContactMatcher,6BDTBTQDM7,3.168,2,0.8,-4.752
 3173,APJ-2022-133879,3/22/2022,20220322,Liam Burgess,Australia,Sydney,APJ,ANZ,Toyota Motor,1087,Manufacturing,SMB,FinanceHub,TAIFGDIPM3,528.43,5,0.3,0
 3174,APJ-2022-133879,3/22/2022,20220322,Liam Burgess,Australia,Sydney,APJ,ANZ,Toyota Motor,1087,Manufacturing,SMB,ChatBot Plugin,WF3R4WHUJV,13.392,3,0.2,1.5066
@@ -3461,7 +3461,7 @@ Row ID,Order ID,Order Date,Date Key,Contact Name,Country,City,Region,Subregion,C
 3460,EMEA-2023-136448,9/17/2023,20230917,Victoria Ellison,France,Paris,EMEA,EU-WEST,Morgan Stanley,1068,Finance,SMB,ContactMatcher,Z8W1QNJWXQ,538.194,2,0.7,-412.6154
 3461,EMEA-2023-136448,9/17/2023,20230917,Victoria Ellison,France,Paris,EMEA,EU-WEST,Morgan Stanley,1068,Finance,SMB,Data Smasher,ETPYACPTNP,47.984,2,0.2,14.3952
 3462,APJ-2023-114258,11/6/2023,20231106,Max Hardacre,Japan,Aichi,APJ,JAPN,China National Petroleum,1023,Energy,Strategic,Site Analytics,CAYXICWKNR,492.768,4,0.2,55.4364
-3463,AMER-2021-152611,2/20/2021,20210220,Harry McLean,Argentina,C¢rdoba,AMER,LATAM,Allstate,1003,Finance,SMB,ChatBot Plugin,5I33HEMISX,286.79,7,0,74.5654
+3463,AMER-2021-152611,2/20/2021,20210220,Harry McLean,Argentina,C¬¢rdoba,AMER,LATAM,Allstate,1003,Finance,SMB,ChatBot Plugin,5I33HEMISX,286.79,7,0,74.5654
 3464,EMEA-2022-165470,11/26/2022,20221126,Chloe White,Germany,Berlin,EMEA,EU-WEST,Marathon Petroleum,1061,Energy,Enterprise,Support,5Z7XP32D79,5.08,1,0.2,1.651
 3465,EMEA-2023-128699,12/4/2023,20231204,Bernadette Hill,Germany,Berlin,EMEA,EU-WEST,Airbus,1030,Manufacturing,SMB,Data Smasher,8HJINGUDS9,47.992,1,0.2,7.1988
 3466,APJ-2021-147242,9/10/2021,20210910,Maria James,South Korea,Gwangju,APJ,APAC,Allianz,1080,Finance,Strategic,OneView,KVY4I6EEN6,61.96,2,0,16.1096
@@ -3580,7 +3580,7 @@ Row ID,Order ID,Order Date,Date Key,Contact Name,Country,City,Region,Subregion,C
 3579,EMEA-2022-104157,7/26/2022,20220726,Jan Hardacre,Ukraine,Kyiv,EMEA,EU-EAST,News Corp.,1071,Misc,SMB,Marketing Suite - Gold,B0FQO6FAXA,7.89,1,0,0.3156
 3580,EMEA-2022-104157,7/26/2022,20220726,Jan Hardacre,Ukraine,Kyiv,EMEA,EU-EAST,News Corp.,1071,Misc,SMB,Support,OBP2PSV5UO,65.5,5,0,32.095
 3581,EMEA-2022-104157,7/26/2022,20220726,Jan Hardacre,Ukraine,Kyiv,EMEA,EU-EAST,News Corp.,1071,Misc,SMB,ContactMatcher,28CI2ORYB5,2430.08,8,0,388.8128
-3582,AMER-2023-117807,10/2/2023,20231002,Audrey Hardacre,Costa Rica,San JosÇ,AMER,LATAM,Trafigura Group,1100,Finance,SMB,Support,LZ0ESXU19M,104.85,1,0,50.328
+3582,AMER-2023-117807,10/2/2023,20231002,Audrey Hardacre,Costa Rica,San Jos‚Äö,AMER,LATAM,Trafigura Group,1100,Finance,SMB,Support,LZ0ESXU19M,104.85,1,0,50.328
 3583,AMER-2021-121650,12/10/2021,20211210,William May,Brazil,Rio de Janeiro,AMER,LATAM,AT&T,1010,Communications,Strategic,ChatBot Plugin,0RTM1K7T2J,3.9,2,0,1.521
 3584,AMER-2021-121650,12/10/2021,20211210,William May,Brazil,Rio de Janeiro,AMER,LATAM,AT&T,1010,Communications,Strategic,ContactMatcher,Y73RT6AHS8,801.96,2,0,200.49
 3585,AMER-2021-121650,12/10/2021,20211210,William May,Brazil,Rio de Janeiro,AMER,LATAM,AT&T,1010,Communications,Strategic,FinanceHub,JLJR6CR1XJ,191.96,2,0,32.6332
@@ -3715,7 +3715,7 @@ Row ID,Order ID,Order Date,Date Key,Contact Name,Country,City,Region,Subregion,C
 3714,AMER-2023-166198,4/22/2023,20230422,Joan Ball,Canada,Toronto,AMER,NAMER,Enel,1013,Energy,SMB,SaaS Connector Pack,AHVE713JLL,162.6,3,0,34.146
 3715,AMER-2020-135608,12/8/2020,20201208,Kimberly Harris,Canada,Calgary,AMER,NAMER,Intel,1051,Tech,SMB,Support,AXCYZWUN5B,45.68,2,0,21.0128
 3716,AMER-2020-135608,12/8/2020,20201208,Kimberly Harris,Canada,Calgary,AMER,NAMER,Intel,1051,Tech,SMB,FinanceHub,R8DRGJRP77,603.92,5,0.2,45.294
-3717,AMER-2023-144568,5/30/2023,20230530,Stewart May,Costa Rica,San JosÇ,AMER,LATAM,Siemens,1043,Manufacturing,Enterprise,Storage,75I560YRST,23.55,5,0,1.1775
+3717,AMER-2023-144568,5/30/2023,20230530,Stewart May,Costa Rica,San Jos‚Äö,AMER,LATAM,Siemens,1043,Manufacturing,Enterprise,Storage,75I560YRST,23.55,5,0,1.1775
 3718,EMEA-2022-142370,9/20/2022,20220920,Michelle Thomson,Finland,Helsinki,EMEA,NOR,Anthem,1029,Healthcare,SMB,Support,6AFHCJAFLC,5.04,2,0,0.1512
 3719,EMEA-2022-142370,9/20/2022,20220920,Michelle Thomson,Finland,Helsinki,EMEA,NOR,Anthem,1029,Healthcare,SMB,Data Smasher,5ZXAVUJV8G,249.95,5,0,107.4785
 3720,APJ-2022-105900,9/18/2022,20220918,Leah Clarkson,India,Delhi,APJ,IND,Morgan Stanley,1068,Finance,Strategic,ChatBot Plugin,YBFQG02KH7,33.4,5,0,12.358
@@ -3771,7 +3771,7 @@ Row ID,Order ID,Order Date,Date Key,Contact Name,Country,City,Region,Subregion,C
 3770,EMEA-2020-153913,12/16/2020,20201216,Melanie Sharp,Germany,Hanover,EMEA,EU-WEST,Carrefour,1048,Retail,Strategic,Storage,7UZ672K9LZ,1.984,2,0.2,0.6696
 3771,AMER-2022-155530,12/18/2022,20221218,Sophie Cornish,United States,Los Angeles,AMER,NAMER,Humana,1049,Healthcare,SMB,ContactMatcher,3H7QGJT25P,2003.52,6,0.2,-325.572
 3772,EMEA-2022-101196,5/13/2022,20220513,Carol Berry,France,Paris,EMEA,EU-WEST,American Express,1005,Finance,Strategic,Marketing Suite - Gold,CU0TTSG9CQ,82.368,2,0.2,-19.5624
-3773,AMER-2020-115357,8/6/2020,20200806,Michael King,Colombia,Bogot†,AMER,LATAM,FedEx,1036,Transportation,SMB,Data Smasher,3RLKYUY8LB,62.91,3,0,22.6476
+3773,AMER-2020-115357,8/6/2020,20200806,Michael King,Colombia,Bogot¬†,AMER,LATAM,FedEx,1036,Transportation,SMB,Data Smasher,3RLKYUY8LB,62.91,3,0,22.6476
 3774,EMEA-2020-102715,4/11/2020,20200411,Lucas Turner,Germany,Hamburg,EMEA,EU-WEST,Itochu,1032,Finance,SMB,Storage,E05MTHISOH,6.912,3,0.2,2.3328
 3775,EMEA-2020-102715,4/11/2020,20200411,Lucas Turner,Germany,Hamburg,EMEA,EU-WEST,Itochu,1032,Finance,SMB,Data Smasher,U3A6NI4THO,383.976,3,0.2,81.5949
 3776,EMEA-2020-102715,4/11/2020,20200411,Lucas Turner,Germany,Hamburg,EMEA,EU-WEST,Itochu,1032,Finance,SMB,Support,JPZ0096P1Z,10.368,2,0.2,3.6288
@@ -3788,7 +3788,7 @@ Row ID,Order ID,Order Date,Date Key,Contact Name,Country,City,Region,Subregion,C
 3787,AMER-2022-144218,11/1/2022,20221101,Tim Morrison,United States,New York City,AMER,NAMER,General Motors,1041,Manufacturing,Strategic,Marketing Suite - Gold,RWI53RAS5B,1085.42,7,0,282.2092
 3788,APJ-2022-169971,9/5/2022,20220905,Joe Lee,Japan,Tokyo,APJ,JAPN,Allianz,1080,Finance,SMB,ChatBot Plugin,L9TOR8I48U,3.912,1,0.2,1.0269
 3789,APJ-2022-169971,9/5/2022,20220905,Joe Lee,Japan,Tokyo,APJ,JAPN,Allianz,1080,Finance,SMB,ChatBot Plugin,XVOR4WB6DZ,62.376,3,0.2,7.0173
-3790,AMER-2022-133508,4/18/2022,20220418,Jacob Paterson,Costa Rica,San JosÇ,AMER,LATAM,Toyota Motor,1087,Manufacturing,Enterprise,Storage,KQL2JC5X72,29.05,5,0,9.0055
+3790,AMER-2022-133508,4/18/2022,20220418,Jacob Paterson,Costa Rica,San Jos‚Äö,AMER,LATAM,Toyota Motor,1087,Manufacturing,Enterprise,Storage,KQL2JC5X72,29.05,5,0,9.0055
 3791,AMER-2020-107139,7/5/2020,20200705,Rose Dyer,United States,New York City,AMER,NAMER,Apple,1008,Tech,Enterprise,ContactMatcher,8J2038D2YJ,180.96,6,0.2,67.86
 3792,EMEA-2021-111325,2/27/2021,20210227,Alison Coleman,France,Lyon,EMEA,EU-WEST,Philip Morris International,1075,Consumer Products,Strategic,ContactMatcher,LJ5ZLJCCXJ,4.419,3,0.7,-3.3879
 3793,EMEA-2021-111325,2/27/2021,20210227,Alison Coleman,France,Lyon,EMEA,EU-WEST,Philip Morris International,1075,Consumer Products,Strategic,ChatBot Plugin,R0J18K04K9,16.032,6,0.2,2.2044
@@ -3797,8 +3797,8 @@ Row ID,Order ID,Order Date,Date Key,Contact Name,Country,City,Region,Subregion,C
 3796,AMER-2020-117163,1/28/2020,20200128,Joshua Short,United States,Seattle,AMER,NAMER,Kroger,1057,Retail,SMB,ContactMatcher,0JWVKB90FM,333,3,0.2,-16.65
 3797,AMER-2020-117163,1/28/2020,20200128,Joshua Short,United States,Seattle,AMER,NAMER,Kroger,1057,Retail,SMB,ChatBot Plugin,I9613SK37A,36.44,4,0,12.0252
 3798,EMEA-2023-121314,9/24/2023,20230924,Harry Sharp,Germany,Hamburg,EMEA,EU-WEST,Valero Energy,1093,Energy,SMB,Support,X1GZ2YYCIP,251.64,3,0.2,88.074
-3799,EMEA-2023-147760,11/5/2023,20231105,Lillian Hodges,Sweden,Malmî,EMEA,NOR,Merck,1064,Healthcare,Strategic,ContactMatcher,5LQ01UO8KD,523.764,3,0.4,-192.0468
-3800,EMEA-2023-147760,11/5/2023,20231105,Lillian Hodges,Sweden,Malmî,EMEA,NOR,Merck,1064,Healthcare,Strategic,Site Analytics,I3TJC5TZZX,1359.96,5,0.2,118.9965
+3799,EMEA-2023-147760,11/5/2023,20231105,Lillian Hodges,Sweden,Malm‚Äù,EMEA,NOR,Merck,1064,Healthcare,Strategic,ContactMatcher,5LQ01UO8KD,523.764,3,0.4,-192.0468
+3800,EMEA-2023-147760,11/5/2023,20231105,Lillian Hodges,Sweden,Malm‚Äù,EMEA,NOR,Merck,1064,Healthcare,Strategic,Site Analytics,I3TJC5TZZX,1359.96,5,0.2,118.9965
 3801,EMEA-2022-156503,10/15/2022,20221015,Carl Langdon,Sweden,Stockholm,EMEA,NOR,Itochu,1032,Finance,SMB,FinanceHub,LXNASVRI9Z,102.592,1,0.2,10.2592
 3802,EMEA-2022-156503,10/15/2022,20221015,Carl Langdon,Sweden,Stockholm,EMEA,NOR,Itochu,1032,Finance,SMB,Data Smasher,5W0V1K2CN0,22.704,1,0.2,5.9598
 3803,EMEA-2022-156503,10/15/2022,20221015,Carl Langdon,Sweden,Stockholm,EMEA,NOR,Itochu,1032,Finance,SMB,Support,570WFNWPRM,93.024,3,0.2,33.7212
@@ -4075,9 +4075,9 @@ Row ID,Order ID,Order Date,Date Key,Contact Name,Country,City,Region,Subregion,C
 4074,APJ-2021-164308,9/24/2021,20210924,Samantha Paterson,Singapore,Singapore,APJ,APAC,Home Depot,1047,Retail,Enterprise,Site Analytics,GLWFY3UD98,821.94,6,0,213.7044
 4075,EMEA-2023-108112,11/16/2023,20231116,Boris Vance,Germany,Mannheim,EMEA,EU-WEST,State Farm Insurance Cos.,1082,Finance,SMB,SaaS Connector Pack,QXKRWKOA2Y,220.064,4,0.2,55.016
 4076,EMEA-2023-108112,11/16/2023,20231116,Boris Vance,Germany,Mannheim,EMEA,EU-WEST,State Farm Insurance Cos.,1082,Finance,SMB,SaaS Connector Pack,LU44LTGZLA,339.136,4,0.2,0
-4077,AMER-2021-100685,12/19/2021,20211219,Steven Henderson,Costa Rica,San JosÇ,AMER,LATAM,Sony,1028,Tech,Strategic,ContactMatcher,YR5RE3GR0P,7.04,2,0,3.3088
-4078,AMER-2021-100685,12/19/2021,20211219,Steven Henderson,Costa Rica,San JosÇ,AMER,LATAM,Sony,1028,Tech,Strategic,Storage,E5AKKHP4C2,5.04,4,0,0.2016
-4079,AMER-2021-100685,12/19/2021,20211219,Steven Henderson,Costa Rica,San JosÇ,AMER,LATAM,Sony,1028,Tech,Strategic,Support,B78RVY9I8J,116.28,3,0,56.9772
+4077,AMER-2021-100685,12/19/2021,20211219,Steven Henderson,Costa Rica,San Jos‚Äö,AMER,LATAM,Sony,1028,Tech,Strategic,ContactMatcher,YR5RE3GR0P,7.04,2,0,3.3088
+4078,AMER-2021-100685,12/19/2021,20211219,Steven Henderson,Costa Rica,San Jos‚Äö,AMER,LATAM,Sony,1028,Tech,Strategic,Storage,E5AKKHP4C2,5.04,4,0,0.2016
+4079,AMER-2021-100685,12/19/2021,20211219,Steven Henderson,Costa Rica,San Jos‚Äö,AMER,LATAM,Sony,1028,Tech,Strategic,Support,B78RVY9I8J,116.28,3,0,56.9772
 4080,EMEA-2021-165414,12/21/2021,20211221,Dominic Duncan,Sweden,Stockholm,EMEA,NOR,Oracle,1072,Tech,SMB,Site Analytics,QY8CRUJEY2,47.976,3,0.2,4.7976
 4081,EMEA-2022-140417,9/26/2022,20220926,Justin Walsh,Belgium,Antwerp,EMEA,EU-WEST,Tyson Foods,1088,Consumer Products,Strategic,Support,MOE946QBN6,60.048,9,0.2,22.518
 4082,EMEA-2022-140417,9/26/2022,20220926,Justin Walsh,Belgium,Antwerp,EMEA,EU-WEST,Tyson Foods,1088,Consumer Products,Strategic,ContactMatcher,QSIOHWC09C,5.022,1,0.7,-3.5154
@@ -4102,7 +4102,7 @@ Row ID,Order ID,Order Date,Date Key,Contact Name,Country,City,Region,Subregion,C
 4101,APJ-2023-102288,6/20/2023,20230620,Pippa Brown,Japan,Tokyo,APJ,JAPN,Volkswagen,1046,Manufacturing,SMB,OneView,Y3CTNRFXB9,2.264,1,0.8,-5.2072
 4102,APJ-2023-102288,6/20/2023,20230620,Pippa Brown,Japan,Tokyo,APJ,JAPN,Volkswagen,1046,Manufacturing,SMB,OneView,3X69FF4G6O,0.444,1,0.8,-1.11
 4103,APJ-2023-102288,6/20/2023,20230620,Pippa Brown,Japan,Tokyo,APJ,JAPN,Volkswagen,1046,Manufacturing,SMB,Support,QXP5OI65AU,146.176,8,0.2,47.5072
-4104,AMER-2023-137456,12/22/2023,20231222,Gavin Walsh,Costa Rica,San JosÇ,AMER,LATAM,Philip Morris International,1075,Consumer Products,Enterprise,SaaS Connector Pack,QW6BCF0ILV,15.92,2,0,7.0048
+4104,AMER-2023-137456,12/22/2023,20231222,Gavin Walsh,Costa Rica,San Jos‚Äö,AMER,LATAM,Philip Morris International,1075,Consumer Products,Enterprise,SaaS Connector Pack,QW6BCF0ILV,15.92,2,0,7.0048
 4105,AMER-2023-155999,8/8/2023,20230808,Lucas Turner,United States,Seattle,AMER,NAMER,Itochu,1032,Finance,SMB,Site Analytics,XU1YXLHKVH,159.96,5,0.2,17.9955
 4106,AMER-2023-155999,8/8/2023,20230808,Lucas Turner,United States,Seattle,AMER,NAMER,Itochu,1032,Finance,SMB,ContactMatcher,0KOZK6SBNR,13.76,2,0.2,4.644
 4107,APJ-2022-148334,8/23/2022,20220823,Victor Avery,Japan,Tokyo,APJ,JAPN,Aetna,1002,Healthcare,SMB,ContactMatcher,U2R2Z74CAC,4.312,2,0.8,-6.8992
@@ -4141,7 +4141,7 @@ Row ID,Order ID,Order Date,Date Key,Contact Name,Country,City,Region,Subregion,C
 4140,EMEA-2023-127313,12/2/2023,20231202,Kimberly Oliver,France,Paris,EMEA,EU-WEST,Microsoft,1066,Tech,SMB,Marketing Suite - Gold,PJJ8CCDYGJ,37.392,3,0.2,2.337
 4141,EMEA-2023-127313,12/2/2023,20231202,Kimberly Oliver,France,Paris,EMEA,EU-WEST,Microsoft,1066,Tech,SMB,SaaS Connector Pack,69AK89U5E2,79.12,5,0.2,13.846
 4142,APJ-2022-136287,6/14/2022,20220614,Connor Watson,Indonesia,Surabaya,APJ,APAC,Tesco,1059,Retail,SMB,FinanceHub,H58RPXY5OC,18.9,3,0,8.694
-4143,AMER-2020-107699,5/19/2020,20200519,Grace Butler,Brazil,Bras°lia,AMER,LATAM,Mondelez International,1067,Consumer Products,SMB,ContactMatcher,UA9N3Y2YO1,57.42,9,0,26.4132
+4143,AMER-2020-107699,5/19/2020,20200519,Grace Butler,Brazil,Bras¬°lia,AMER,LATAM,Mondelez International,1067,Consumer Products,SMB,ContactMatcher,UA9N3Y2YO1,57.42,9,0,26.4132
 4144,AMER-2023-112725,1/31/2023,20230131,Kevin Rampling,United States,Los Angeles,AMER,NAMER,Philip Morris International,1075,Consumer Products,Enterprise,ChatBot Plugin,7659JHNBHH,12.74,7,0,5.733
 4145,AMER-2023-112725,1/31/2023,20230131,Kevin Rampling,United States,Los Angeles,AMER,NAMER,Philip Morris International,1075,Consumer Products,Enterprise,ChatBot Plugin,EKJC98MAF9,8.82,3,0,2.3814
 4146,AMER-2023-112725,1/31/2023,20230131,Kevin Rampling,United States,Los Angeles,AMER,NAMER,Philip Morris International,1075,Consumer Products,Enterprise,FinanceHub,4G3DF5JHSJ,120.784,1,0.2,-13.5882
@@ -4171,12 +4171,12 @@ Row ID,Order ID,Order Date,Date Key,Contact Name,Country,City,Region,Subregion,C
 4170,AMER-2021-100216,4/13/2021,20210413,Chloe White,Chile,Antofagasta,AMER,LATAM,Marathon Petroleum,1061,Energy,Enterprise,Support,BZEM5XU9HH,31.104,6,0.2,10.8864
 4171,AMER-2021-100216,4/13/2021,20210413,Chloe White,Chile,Antofagasta,AMER,LATAM,Marathon Petroleum,1061,Energy,Enterprise,Support,CBJQ19ISP1,54.816,3,0.2,17.8152
 4172,AMER-2023-100601,11/17/2023,20231117,Lucas Turner,United States,Philadelphia,AMER,NAMER,Itochu,1032,Finance,SMB,Marketing Suite - Gold,7W88XT8L7I,48.86,7,0,0.9772
-4173,AMER-2022-152163,7/2/2022,20220702,Austin Stewart,Colombia,Bogot†,AMER,LATAM,Ford Motor,1009,Manufacturing,SMB,ContactMatcher,MSM70J1MZP,14.2,2,0,6.532
-4174,AMER-2022-152163,7/2/2022,20220702,Austin Stewart,Colombia,Bogot†,AMER,LATAM,Ford Motor,1009,Manufacturing,SMB,Support,RMQKPXDRBD,12.96,2,0,6.2208
-4175,AMER-2022-152163,7/2/2022,20220702,Austin Stewart,Colombia,Bogot†,AMER,LATAM,Ford Motor,1009,Manufacturing,SMB,ContactMatcher,SRV4RUX56A,58.34,2,0,28.0032
+4173,AMER-2022-152163,7/2/2022,20220702,Austin Stewart,Colombia,Bogot¬†,AMER,LATAM,Ford Motor,1009,Manufacturing,SMB,ContactMatcher,MSM70J1MZP,14.2,2,0,6.532
+4174,AMER-2022-152163,7/2/2022,20220702,Austin Stewart,Colombia,Bogot¬†,AMER,LATAM,Ford Motor,1009,Manufacturing,SMB,Support,RMQKPXDRBD,12.96,2,0,6.2208
+4175,AMER-2022-152163,7/2/2022,20220702,Austin Stewart,Colombia,Bogot¬†,AMER,LATAM,Ford Motor,1009,Manufacturing,SMB,ContactMatcher,SRV4RUX56A,58.34,2,0,28.0032
 4176,AMER-2021-154340,11/29/2021,20211129,Thomas Watson,United States,Atlanta,AMER,NAMER,Home Depot,1047,Retail,Enterprise,ChatBot Plugin,63UFVD21GH,56.3,2,0,15.764
-4177,AMER-2020-128846,4/7/2020,20200407,Claire Carr,Colombia,Bogot†,AMER,LATAM,Caterpillar,1016,Manufacturing,Strategic,Site Analytics,GNPY6XQ3WJ,629.95,5,0,163.787
-4178,AMER-2020-128846,4/7/2020,20200407,Claire Carr,Colombia,Bogot†,AMER,LATAM,Caterpillar,1016,Manufacturing,Strategic,Support,CR6KSV88L5,122.97,3,0,60.2553
+4177,AMER-2020-128846,4/7/2020,20200407,Claire Carr,Colombia,Bogot¬†,AMER,LATAM,Caterpillar,1016,Manufacturing,Strategic,Site Analytics,GNPY6XQ3WJ,629.95,5,0,163.787
+4178,AMER-2020-128846,4/7/2020,20200407,Claire Carr,Colombia,Bogot¬†,AMER,LATAM,Caterpillar,1016,Manufacturing,Strategic,Support,CR6KSV88L5,122.97,3,0,60.2553
 4179,AMER-2022-148593,6/17/2022,20220617,Zoe Ferguson,United States,New York City,AMER,NAMER,Cigna,1038,Healthcare,SMB,Support,WTLF56FWBB,46.35,5,0,21.7845
 4180,AMER-2023-119039,3/7/2023,20230307,Bella Hodges,United States,Los Angeles,AMER,NAMER,Cisco Systems,1019,Tech,Enterprise,ContactMatcher,7EANEYFG8A,14.976,9,0.2,5.4288
 4181,APJ-2023-128426,10/8/2023,20231008,Joanne Walsh,Japan,Tokyo,APJ,JAPN,Lowes,1060,Retail,SMB,ContactMatcher,AYZMMNAO2U,4.24,5,0.8,-6.36
@@ -4554,8 +4554,8 @@ Row ID,Order ID,Order Date,Date Key,Contact Name,Country,City,Region,Subregion,C
 4553,AMER-2020-106334,12/27/2020,20201227,Caroline Burgess,United States,Los Angeles,AMER,NAMER,J.P. Morgan Chase & Co.,1054,Finance,SMB,FinanceHub,2R6IGHEAKB,230.28,3,0.2,23.028
 4554,AMER-2020-106334,12/27/2020,20201227,Caroline Burgess,United States,Los Angeles,AMER,NAMER,J.P. Morgan Chase & Co.,1054,Finance,SMB,Support,57OGR39UH8,12.84,3,0,5.778
 4555,EMEA-2022-101448,2/27/2022,20220227,John Jones,Italy,Palermo,EMEA,EU,Panasonic,1091,Tech,SMB,ContactMatcher,24FDEB1IY0,56.82,3,0,28.41
-4556,AMER-2021-130218,3/23/2021,20210323,Kimberly Langdon,Colombia,Bogot†,AMER,LATAM,Home Depot,1047,Retail,SMB,Storage,F5LC9TUHX1,31.56,4,0,14.202
-4557,AMER-2021-130218,3/23/2021,20210323,Kimberly Langdon,Colombia,Bogot†,AMER,LATAM,Home Depot,1047,Retail,SMB,Marketing Suite - Gold,E8EEY9P7NN,27.92,4,0,0.5584
+4556,AMER-2021-130218,3/23/2021,20210323,Kimberly Langdon,Colombia,Bogot¬†,AMER,LATAM,Home Depot,1047,Retail,SMB,Storage,F5LC9TUHX1,31.56,4,0,14.202
+4557,AMER-2021-130218,3/23/2021,20210323,Kimberly Langdon,Colombia,Bogot¬†,AMER,LATAM,Home Depot,1047,Retail,SMB,Marketing Suite - Gold,E8EEY9P7NN,27.92,4,0,0.5584
 4558,AMER-2023-117331,10/22/2023,20231022,Bernadette Hill,Chile,Santiago,AMER,LATAM,Airbus,1030,Manufacturing,SMB,ContactMatcher,HGAN5X318H,8.559,1,0.7,-6.5619
 4559,APJ-2020-127383,12/31/2020,20201231,Katherine Manning,Japan,Shizuoka,APJ,JAPN,Lukoil,1044,Energy,Strategic,SaaS Connector Pack - Gold,3J5S4EW8TC,49.568,2,0.2,17.9684
 4560,APJ-2020-110219,5/5/2020,20200505,Jonathan Ferguson,Japan,Osaka,APJ,JAPN,McKesson,1063,Consumer Products,SMB,FinanceHub,H0POQ3CIS5,127.869,3,0.3,-9.1335
@@ -4651,8 +4651,8 @@ Row ID,Order ID,Order Date,Date Key,Contact Name,Country,City,Region,Subregion,C
 4650,AMER-2023-129357,5/15/2023,20230515,Melanie Sharp,Canada,Toronto,AMER,NAMER,Carrefour,1048,Retail,Strategic,Support,SMMC1DSVZQ,64.4,5,0,1.932
 4651,AMER-2023-150987,4/9/2023,20230409,Alexander Pullman,United States,Los Angeles,AMER,NAMER,Ford Motor,1009,Manufacturing,Enterprise,Support,2AYXL1U1WS,244.55,5,0,114.9385
 4652,AMER-2023-150987,4/9/2023,20230409,Alexander Pullman,United States,Los Angeles,AMER,NAMER,Ford Motor,1009,Manufacturing,Enterprise,Support,R5R2DHQV0W,195.76,4,0,97.88
-4653,AMER-2023-132647,2/18/2023,20230218,Anna Fisher,Argentina,C¢rdoba,AMER,LATAM,General Motors,1041,Manufacturing,Enterprise,Support,FFCG5RTCI7,11.76,2,0,5.7624
-4654,AMER-2023-132647,2/18/2023,20230218,Anna Fisher,Argentina,C¢rdoba,AMER,LATAM,General Motors,1041,Manufacturing,Enterprise,Marketing Suite - Gold,62CYQYGMKS,166.45,5,0,39.948
+4653,AMER-2023-132647,2/18/2023,20230218,Anna Fisher,Argentina,C¬¢rdoba,AMER,LATAM,General Motors,1041,Manufacturing,Enterprise,Support,FFCG5RTCI7,11.76,2,0,5.7624
+4654,AMER-2023-132647,2/18/2023,20230218,Anna Fisher,Argentina,C¬¢rdoba,AMER,LATAM,General Motors,1041,Manufacturing,Enterprise,Marketing Suite - Gold,62CYQYGMKS,166.45,5,0,39.948
 4655,AMER-2023-159107,6/25/2023,20230625,Leonard Parsons,United States,Los Angeles,AMER,NAMER,Ford Motor,1009,Manufacturing,SMB,Storage,G85Z6C8JAO,2.88,1,0,1.3536
 4656,APJ-2020-160738,5/5/2020,20200505,Penelope Terry,Australia,Melbourne,APJ,ANZ,ConocoPhillips,1024,Energy,Strategic,Marketing Suite - Gold,I0J1G6IVWB,45.248,2,0.2,3.9592
 4657,EMEA-2021-112130,5/3/2021,20210503,Alexander Hill,France,Paris,EMEA,EU-WEST,Philip Morris International,1075,Consumer Products,SMB,ChatBot Plugin,4K8U5SZU2N,59.904,2,0.2,14.2272
@@ -4859,7 +4859,7 @@ Row ID,Order ID,Order Date,Date Key,Contact Name,Country,City,Region,Subregion,C
 4858,AMER-2021-137526,1/13/2021,20210113,Lily North,United States,New York City,AMER,NAMER,American Express,1005,Finance,SMB,SaaS Connector Pack,34GU54YE5B,77.6,4,0,38.024
 4859,AMER-2021-137526,1/13/2021,20210113,Lily North,United States,New York City,AMER,NAMER,American Express,1005,Finance,SMB,SaaS Connector Pack,JJI21X7MHB,464.85,9,0,92.97
 4860,APJ-2023-136063,12/16/2023,20231216,Edward Wilkins,Australia,Hobart,APJ,ANZ,American Express,1005,Finance,Strategic,ChatBot Plugin,B3WWJQZQ1P,10.192,7,0.2,1.0192
-4861,AMER-2022-101546,12/19/2022,20221219,Phil Short,Argentina,C¢rdoba,AMER,LATAM,Bosch,1076,Tech,Strategic,ContactMatcher,ESZOGOARAL,1793.98,2,0,843.1706
+4861,AMER-2022-101546,12/19/2022,20221219,Phil Short,Argentina,C¬¢rdoba,AMER,LATAM,Bosch,1076,Tech,Strategic,ContactMatcher,ESZOGOARAL,1793.98,2,0,843.1706
 4862,APJ-2020-138940,4/11/2020,20200411,William Lewis,Japan,Chiba,APJ,JAPN,Fannie Mae,1035,Finance,Enterprise,Site Analytics,YJS57OOS22,758.352,6,0.2,265.4232
 4863,EMEA-2022-125164,11/11/2022,20221111,Harry Murray,United Kingdom,London,EMEA,UKIR,State Farm Insurance Cos.,1082,Finance,Strategic,ContactMatcher,RWO2DBZITB,20.368,1,0.2,7.3834
 4864,EMEA-2022-125164,11/11/2022,20221111,Harry Murray,United Kingdom,London,EMEA,UKIR,State Farm Insurance Cos.,1082,Finance,Strategic,ContactMatcher,XY5RGVMIV7,49.848,3,0.2,16.8237
@@ -5163,12 +5163,12 @@ Row ID,Order ID,Order Date,Date Key,Contact Name,Country,City,Region,Subregion,C
 5162,AMER-2020-111192,7/30/2020,20200730,Joanne Forsyth,Canada,Toronto,AMER,NAMER,PepsiCo,1073,Consumer Products,Strategic,Marketing Suite,DSHSMCV27D,1367.84,8,0,259.8896
 5163,AMER-2022-115378,11/19/2022,20221119,James Harris,Brazil,Salvador,AMER,LATAM,Airbus,1030,Manufacturing,SMB,FinanceHub,30TL7K7PH4,301.96,2,0,33.2156
 5164,AMER-2021-161627,7/6/2021,20210706,Phil Tucker,United States,Newark,AMER,NAMER,Aetna,1002,Healthcare,SMB,FinanceHub,TNIAWRU4XZ,170.352,3,0.2,-17.0352
-5165,AMER-2020-121006,11/10/2020,20201110,Grace Bell,Brazil,Bras°lia,AMER,LATAM,ConocoPhillips,1024,Energy,SMB,ChatBot Plugin,UI31YATZHV,3.9,2,0,1.521
-5166,AMER-2020-121006,11/10/2020,20201110,Grace Bell,Brazil,Bras°lia,AMER,LATAM,ConocoPhillips,1024,Energy,SMB,Support,T0A53AM0MG,12.84,3,0,5.778
-5167,AMER-2020-121006,11/10/2020,20201110,Grace Bell,Brazil,Bras°lia,AMER,LATAM,ConocoPhillips,1024,Energy,SMB,Support,NGY573JKLH,15.84,3,0,7.128
-5168,AMER-2020-121006,11/10/2020,20201110,Grace Bell,Brazil,Bras°lia,AMER,LATAM,ConocoPhillips,1024,Energy,SMB,FinanceHub,85LAA1BYL1,563.94,3,0,112.788
-5169,AMER-2020-121006,11/10/2020,20201110,Grace Bell,Brazil,Bras°lia,AMER,LATAM,ConocoPhillips,1024,Energy,SMB,Marketing Suite - Gold,04TSOOHKP8,62.94,3,0,11.9586
-5170,AMER-2020-121006,11/10/2020,20201110,Grace Bell,Brazil,Bras°lia,AMER,LATAM,ConocoPhillips,1024,Energy,SMB,Marketing Suite - Gold,11MI1X5TZ3,535.41,3,0,160.623
+5165,AMER-2020-121006,11/10/2020,20201110,Grace Bell,Brazil,Bras¬°lia,AMER,LATAM,ConocoPhillips,1024,Energy,SMB,ChatBot Plugin,UI31YATZHV,3.9,2,0,1.521
+5166,AMER-2020-121006,11/10/2020,20201110,Grace Bell,Brazil,Bras¬°lia,AMER,LATAM,ConocoPhillips,1024,Energy,SMB,Support,T0A53AM0MG,12.84,3,0,5.778
+5167,AMER-2020-121006,11/10/2020,20201110,Grace Bell,Brazil,Bras¬°lia,AMER,LATAM,ConocoPhillips,1024,Energy,SMB,Support,NGY573JKLH,15.84,3,0,7.128
+5168,AMER-2020-121006,11/10/2020,20201110,Grace Bell,Brazil,Bras¬°lia,AMER,LATAM,ConocoPhillips,1024,Energy,SMB,FinanceHub,85LAA1BYL1,563.94,3,0,112.788
+5169,AMER-2020-121006,11/10/2020,20201110,Grace Bell,Brazil,Bras¬°lia,AMER,LATAM,ConocoPhillips,1024,Energy,SMB,Marketing Suite - Gold,04TSOOHKP8,62.94,3,0,11.9586
+5170,AMER-2020-121006,11/10/2020,20201110,Grace Bell,Brazil,Bras¬°lia,AMER,LATAM,ConocoPhillips,1024,Energy,SMB,Marketing Suite - Gold,11MI1X5TZ3,535.41,3,0,160.623
 5171,AMER-2022-122903,5/28/2022,20220528,Richard Davidson,Brazil,S?o Paulo,AMER,LATAM,Intel,1051,Tech,Strategic,FinanceHub,PH6WJM4ZHQ,3504.9,5,0,700.98
 5172,AMER-2022-122903,5/28/2022,20220528,Richard Davidson,Brazil,S?o Paulo,AMER,LATAM,Intel,1051,Tech,Strategic,Support,CB02OLPPRE,144.12,3,0,69.1776
 5173,AMER-2022-122903,5/28/2022,20220528,Richard Davidson,Brazil,S?o Paulo,AMER,LATAM,Intel,1051,Tech,Strategic,Support,UA85GRFGJH,314.55,3,0,150.984
@@ -5191,10 +5191,10 @@ Row ID,Order ID,Order Date,Date Key,Contact Name,Country,City,Region,Subregion,C
 5190,APJ-2023-136679,11/15/2023,20231115,Warren Hemmings,Japan,Osaka,APJ,JAPN,Prudential Financial,1078,Finance,SMB,Data Smasher,YUXQUHDU2X,167.952,6,0.2,-27.2922
 5191,APJ-2023-136679,11/15/2023,20231115,Warren Hemmings,Japan,Osaka,APJ,JAPN,Prudential Financial,1078,Finance,SMB,ChatBot Plugin,KM2A98GYAC,45.04,2,0.2,4.504
 5192,AMER-2023-141943,5/6/2023,20230506,Emma Young,United States,Los Angeles,AMER,NAMER,Lowes,1060,Retail,SMB,SaaS Connector Pack - Gold,3PZNMJSV8L,23.16,2,0,11.58
-5193,AMER-2020-101560,11/28/2020,20201128,Anthony Mackay,Colombia,Bogot†,AMER,LATAM,Bosch,1076,Tech,Strategic,SaaS Connector Pack,J20UASTCMX,397.6,5,0,43.736
-5194,AMER-2020-101560,11/28/2020,20201128,Anthony Mackay,Colombia,Bogot†,AMER,LATAM,Bosch,1076,Tech,Strategic,Support,AXCMFFG3HI,85.96,7,0,40.4012
-5195,AMER-2020-101560,11/28/2020,20201128,Anthony Mackay,Colombia,Bogot†,AMER,LATAM,Bosch,1076,Tech,Strategic,ChatBot Plugin,4HA7Q5Y0UT,13.12,4,0,4.3296
-5196,AMER-2020-101560,11/28/2020,20201128,Anthony Mackay,Colombia,Bogot†,AMER,LATAM,Bosch,1076,Tech,Strategic,ContactMatcher,EPGMAQJWTL,45.66,3,0,22.3734
+5193,AMER-2020-101560,11/28/2020,20201128,Anthony Mackay,Colombia,Bogot¬†,AMER,LATAM,Bosch,1076,Tech,Strategic,SaaS Connector Pack,J20UASTCMX,397.6,5,0,43.736
+5194,AMER-2020-101560,11/28/2020,20201128,Anthony Mackay,Colombia,Bogot¬†,AMER,LATAM,Bosch,1076,Tech,Strategic,Support,AXCMFFG3HI,85.96,7,0,40.4012
+5195,AMER-2020-101560,11/28/2020,20201128,Anthony Mackay,Colombia,Bogot¬†,AMER,LATAM,Bosch,1076,Tech,Strategic,ChatBot Plugin,4HA7Q5Y0UT,13.12,4,0,4.3296
+5196,AMER-2020-101560,11/28/2020,20201128,Anthony Mackay,Colombia,Bogot¬†,AMER,LATAM,Bosch,1076,Tech,Strategic,ContactMatcher,EPGMAQJWTL,45.66,3,0,22.3734
 5197,AMER-2020-159709,5/10/2020,20200510,Emma Greene,Canada,Vancouver,AMER,NAMER,FedEx,1036,Transportation,SMB,SaaS Connector Pack - Gold,8FC10FJHIQ,158.13,3,0,77.4837
 5198,AMER-2020-159709,5/10/2020,20200510,Emma Greene,Canada,Vancouver,AMER,NAMER,FedEx,1036,Transportation,SMB,Site Analytics,RTIPPORFOG,43.6,5,0.2,4.36
 5199,APJ-2022-103982,3/4/2022,20220304,Kimberly Short,Japan,Sapporo,APJ,JAPN,Chevron,1017,Energy,SMB,Support,JUYONLGQIF,3930.072,3,0.2,-786.0144
@@ -5215,7 +5215,7 @@ Row ID,Order ID,Order Date,Date Key,Contact Name,Country,City,Region,Subregion,C
 5214,AMER-2022-145898,9/27/2022,20220927,Chloe Campbell,United States,Providence,AMER,NAMER,Comcast,1022,Communications,SMB,FinanceHub,LHRH33OF6Q,7.83,3,0,3.6018
 5215,AMER-2022-145898,9/27/2022,20220927,Chloe Campbell,United States,Providence,AMER,NAMER,Comcast,1022,Communications,SMB,ChatBot Plugin,1LQKWNYW4Y,35.4,5,0,13.452
 5216,AMER-2022-145898,9/27/2022,20220927,Chloe Campbell,United States,Providence,AMER,NAMER,Comcast,1022,Communications,SMB,Support,A67U4I1ZVL,29.9,5,0,13.455
-5217,AMER-2023-159562,9/10/2023,20230910,Joanne Davies,Brazil,Bras°lia,AMER,LATAM,Tyson Foods,1088,Consumer Products,SMB,SaaS Connector Pack - Gold,1Q25KALJPZ,17.48,2,0,8.2156
+5217,AMER-2023-159562,9/10/2023,20230910,Joanne Davies,Brazil,Bras¬°lia,AMER,LATAM,Tyson Foods,1088,Consumer Products,SMB,SaaS Connector Pack - Gold,1Q25KALJPZ,17.48,2,0,8.2156
 5218,AMER-2023-134635,4/16/2023,20230416,Chloe May,United States,New York City,AMER,NAMER,Chevron,1017,Energy,Strategic,Support,5H5KTJ0CFC,79.14,3,0,36.4044
 5219,EMEA-2023-167080,6/11/2023,20230611,Karen Mathis,United Kingdom,London,EMEA,UKIR,Pemex,1058,Energy,Strategic,ChatBot Plugin,OFUMKH2W2C,8.4,5,0,4.2
 5220,AMER-2023-145653,9/2/2023,20230902,Justin Anderson,Brazil,S?o Paulo,AMER,LATAM,CVS Health,1026,Retail,SMB,FinanceHub,FG9CIHK4KK,498.26,7,0,134.5302
@@ -5314,7 +5314,7 @@ Row ID,Order ID,Order Date,Date Key,Contact Name,Country,City,Region,Subregion,C
 5313,EMEA-2022-123414,8/22/2022,20220822,Molly Watson,Sweden,Uppsala,EMEA,NOR,Philip Morris International,1075,Consumer Products,Enterprise,Support,XT1NGCE82B,28.048,2,0.2,3.506
 5314,AMER-2023-137876,5/1/2023,20230501,Fiona Allan,United States,Los Angeles,AMER,NAMER,Ford Motor,1009,Manufacturing,Strategic,SaaS Connector Pack,UGNVU1W8E6,64.96,2,0,21.4368
 5315,AMER-2023-137876,5/1/2023,20230501,Fiona Allan,United States,Los Angeles,AMER,NAMER,Ford Motor,1009,Manufacturing,Strategic,SaaS Connector Pack - Gold,RUQL1GMRGE,30.56,4,0,14.9744
-5316,EMEA-2022-154060,5/3/2022,20220503,Deirdre James,Sweden,Malmî,EMEA,NOR,Prudential Financial,1078,Finance,SMB,FinanceHub,RD4XA5SI13,187.056,9,0.2,11.691
+5316,EMEA-2022-154060,5/3/2022,20220503,Deirdre James,Sweden,Malm‚Äù,EMEA,NOR,Prudential Financial,1078,Finance,SMB,FinanceHub,RD4XA5SI13,187.056,9,0.2,11.691
 5317,EMEA-2023-162558,10/3/2023,20231003,Sally Nolan,South Africa,Johannesburg,EMEA,MEA,Lukoil,1044,Energy,Enterprise,SaaS Connector Pack,YEXPCJA2XD,11.808,2,0.2,1.3284
 5318,EMEA-2023-162558,10/3/2023,20231003,Sally Nolan,South Africa,Johannesburg,EMEA,MEA,Lukoil,1044,Energy,Enterprise,SaaS Connector Pack,3G164DRFBV,9.656,1,0.2,1.5691
 5319,EMEA-2023-162558,10/3/2023,20231003,Sally Nolan,South Africa,Johannesburg,EMEA,MEA,Lukoil,1044,Energy,Enterprise,Support,AP6IC42UUQ,20.736,4,0.2,7.2576
@@ -5322,7 +5322,7 @@ Row ID,Order ID,Order Date,Date Key,Contact Name,Country,City,Region,Subregion,C
 5321,EMEA-2023-162558,10/3/2023,20231003,Sally Nolan,South Africa,Johannesburg,EMEA,MEA,Lukoil,1044,Energy,Enterprise,ContactMatcher,DR8RLRHZJR,2314.116,7,0.4,-1002.7836
 5322,EMEA-2023-162558,10/3/2023,20231003,Sally Nolan,South Africa,Johannesburg,EMEA,MEA,Lukoil,1044,Energy,Enterprise,ContactMatcher,A2BJD9PIVD,34.236,4,0.7,-26.2476
 5323,EMEA-2023-162558,10/3/2023,20231003,Sally Nolan,South Africa,Johannesburg,EMEA,MEA,Lukoil,1044,Energy,Enterprise,SaaS Connector Pack,95IRLAFMV6,19.76,2,0.2,5.928
-5324,AMER-2023-134439,9/19/2023,20230919,Ava Oliver,Costa Rica,San JosÇ,AMER,LATAM,Sysco,1084,Consumer Products,SMB,Support,KASANDVFSW,15.96,2,0,7.98
+5324,AMER-2023-134439,9/19/2023,20230919,Ava Oliver,Costa Rica,San Jos‚Äö,AMER,LATAM,Sysco,1084,Consumer Products,SMB,Support,KASANDVFSW,15.96,2,0,7.98
 5325,AMER-2021-119508,12/4/2021,20211204,Lisa Edmunds,United States,Burlington,AMER,NAMER,Tesco,1059,Retail,SMB,ChatBot Plugin,SQJHORQMHT,16.9,5,0,6.253
 5326,AMER-2021-119508,12/4/2021,20211204,Lisa Edmunds,United States,Burlington,AMER,NAMER,Tesco,1059,Retail,SMB,SaaS Connector Pack,5H6VE1LTN0,25.08,6,0,9.0288
 5327,APJ-2021-152681,1/17/2021,20210117,Emma Stewart,South Korea,Busan,APJ,APAC,Marathon Petroleum,1061,Energy,Strategic,ChatBot Plugin,4P5T29BIVM,6.68,2,0,2.004
@@ -5369,8 +5369,8 @@ Row ID,Order ID,Order Date,Date Key,Contact Name,Country,City,Region,Subregion,C
 5368,AMER-2023-158071,6/11/2023,20230611,Zoe Ferguson,Canada,Toronto,AMER,NAMER,Cigna,1038,Healthcare,SMB,FinanceHub,AE1PVLRJTA,11.56,4,0,5.4332
 5369,AMER-2023-158071,6/11/2023,20230611,Zoe Ferguson,Canada,Toronto,AMER,NAMER,Cigna,1038,Healthcare,SMB,Marketing Suite - Gold,LMI7W74CW7,15.58,1,0,3.895
 5370,AMER-2023-147403,9/11/2023,20230911,Sebastian Brown,Mexico,Guadalajara,AMER,LATAM,Phillips 66,1056,Energy,Strategic,Support,W471U8SCEC,85.056,3,0.2,28.7064
-5371,AMER-2023-136721,4/9/2023,20230409,Audrey Alsop,Brazil,Bras°lia,AMER,LATAM,Trafigura Group,1100,Finance,Strategic,SaaS Connector Pack,84U0Z353A9,273.96,2,0,71.2296
-5372,AMER-2023-136721,4/9/2023,20230409,Audrey Alsop,Brazil,Bras°lia,AMER,LATAM,Trafigura Group,1100,Finance,Strategic,SaaS Connector Pack,7EC2HRLBKN,306.9,3,0,79.794
+5371,AMER-2023-136721,4/9/2023,20230409,Audrey Alsop,Brazil,Bras¬°lia,AMER,LATAM,Trafigura Group,1100,Finance,Strategic,SaaS Connector Pack,84U0Z353A9,273.96,2,0,71.2296
+5372,AMER-2023-136721,4/9/2023,20230409,Audrey Alsop,Brazil,Bras¬°lia,AMER,LATAM,Trafigura Group,1100,Finance,Strategic,SaaS Connector Pack,7EC2HRLBKN,306.9,3,0,79.794
 5373,APJ-2021-118738,10/24/2021,20211024,Isaac Hart,Japan,Tokyo,APJ,JAPN,China National Petroleum,1023,Energy,Strategic,Support,08OILIMZWH,15.552,3,0.2,5.4432
 5374,APJ-2021-118738,10/24/2021,20211024,Isaac Hart,Japan,Tokyo,APJ,JAPN,China National Petroleum,1023,Energy,Strategic,ContactMatcher,GCO2TAERF1,347.361,7,0.3,-69.4722
 5375,APJ-2021-118738,10/24/2021,20211024,Isaac Hart,Japan,Tokyo,APJ,JAPN,China National Petroleum,1023,Energy,Strategic,Support,1K20MVRLZK,10.368,2,0.2,3.6288
@@ -5416,7 +5416,7 @@ Row ID,Order ID,Order Date,Date Key,Contact Name,Country,City,Region,Subregion,C
 5415,APJ-2023-125647,9/24/2023,20230924,Amy Scott,Australia,Sydney,APJ,ANZ,Walmart,1096,Retail,SMB,OneView,EMFDVB0ZM5,73.176,6,0.8,-197.5752
 5416,APJ-2023-125647,9/24/2023,20230924,Amy Scott,Australia,Sydney,APJ,ANZ,Walmart,1096,Retail,SMB,Support,CG3JTZBEF7,20.736,4,0.2,7.2576
 5417,APJ-2023-125647,9/24/2023,20230924,Amy Scott,Australia,Sydney,APJ,ANZ,Walmart,1096,Retail,SMB,Site Analytics,A3R7K47YYU,39.984,2,0.2,-8.9964
-5418,AMER-2020-132542,10/6/2020,20201006,Kimberly North,Costa Rica,San JosÇ,AMER,LATAM,Carrefour,1048,Retail,Strategic,ContactMatcher,8HNAG47ERC,15.36,2,0,7.68
+5418,AMER-2020-132542,10/6/2020,20201006,Kimberly North,Costa Rica,San Jos‚Äö,AMER,LATAM,Carrefour,1048,Retail,Strategic,ContactMatcher,8HNAG47ERC,15.36,2,0,7.68
 5419,APJ-2021-110877,10/23/2021,20211023,Kimberly Manning,Japan,Tokyo,APJ,JAPN,AmerisourceBergen,1007,Healthcare,SMB,Support,GS97V8A51Q,36.288,7,0.2,12.7008
 5420,APJ-2021-110877,10/23/2021,20211023,Kimberly Manning,Japan,Tokyo,APJ,JAPN,AmerisourceBergen,1007,Healthcare,SMB,Site Analytics,LWOBHUWAT8,150.384,2,0.2,15.0384
 5421,EMEA-2022-151827,4/1/2022,20220401,Colin Morgan,France,Paris,EMEA,EU-WEST,Boeing,1014,Manufacturing,SMB,Site Analytics,Y0VBL1JGFM,280.782,3,0.4,-60.8361
@@ -5473,7 +5473,7 @@ Row ID,Order ID,Order Date,Date Key,Contact Name,Country,City,Region,Subregion,C
 5472,EMEA-2023-116946,12/20/2023,20231220,Austin Randall,Russia,Yekaterinburg,EMEA,EU-EAST,Johnson & Johnson,1055,Healthcare,SMB,SaaS Connector Pack,V1E04YVHAP,13.36,5,0.2,4.008
 5473,EMEA-2023-116946,12/20/2023,20231220,Austin Randall,Russia,Yekaterinburg,EMEA,EU-EAST,Johnson & Johnson,1055,Healthcare,SMB,Marketing Suite - Gold,U2HCDH4OQG,78.256,2,0.2,-17.6076
 5474,EMEA-2023-116946,12/20/2023,20231220,Austin Randall,Russia,Yekaterinburg,EMEA,EU-EAST,Johnson & Johnson,1055,Healthcare,SMB,Marketing Suite,EVPISE991R,102.018,7,0.7,-183.6324
-5475,AMER-2023-121741,12/27/2023,20231227,Amy Paterson,Costa Rica,San JosÇ,AMER,LATAM,Chevron,1017,Energy,Strategic,Marketing Suite - Gold,6H3LQURSKU,750.68,2,0,37.534
+5475,AMER-2023-121741,12/27/2023,20231227,Amy Paterson,Costa Rica,San Jos‚Äö,AMER,LATAM,Chevron,1017,Energy,Strategic,Marketing Suite - Gold,6H3LQURSKU,750.68,2,0,37.534
 5476,EMEA-2023-169691,6/16/2023,20230616,Sally Nolan,Luxembourg,Luxembourg,EMEA,EU-WEST,Lukoil,1044,Energy,Enterprise,FinanceHub,MRRJ31RVU9,44.4,3,0,22.2
 5477,EMEA-2023-169691,6/16/2023,20230616,Sally Nolan,Luxembourg,Luxembourg,EMEA,EU-WEST,Lukoil,1044,Energy,Enterprise,Marketing Suite - Gold,W9Y4V6UGAH,84.55,5,0,22.8285
 5478,EMEA-2023-169691,6/16/2023,20230616,Sally Nolan,Luxembourg,Luxembourg,EMEA,EU-WEST,Lukoil,1044,Energy,Enterprise,Support,GFRL89QR1U,17.94,3,0,8.7906
@@ -5529,7 +5529,7 @@ Row ID,Order ID,Order Date,Date Key,Contact Name,Country,City,Region,Subregion,C
 5528,EMEA-2021-142055,5/8/2021,20210508,Nathan Marshall,United Kingdom,London,EMEA,UKIR,Royal Dutch Shell,1031,Energy,Enterprise,Support,W3FBTIE5YQ,37.94,2,0,18.2112
 5529,EMEA-2021-137106,3/31/2021,20210331,Emma Stewart,Germany,Berlin,EMEA,EU-WEST,Marathon Petroleum,1061,Energy,Strategic,Site Analytics,MJS4UVWI97,79.96,5,0.2,27.986
 5530,APJ-2023-136609,8/7/2023,20230807,Andrew Smith,Japan,Osaka,APJ,JAPN,Johnson & Johnson,1055,Healthcare,Strategic,Support,DP10OTNV3F,115.296,3,0.2,40.3536
-5531,AMER-2023-160885,12/3/2023,20231203,Sam Lawrence,Costa Rica,San JosÇ,AMER,LATAM,Cisco Systems,1019,Tech,SMB,Site Analytics,30OV7MYK5U,2479.96,4,0,743.988
+5531,AMER-2023-160885,12/3/2023,20231203,Sam Lawrence,Costa Rica,San Jos‚Äö,AMER,LATAM,Cisco Systems,1019,Tech,SMB,Site Analytics,30OV7MYK5U,2479.96,4,0,743.988
 5532,EMEA-2022-167472,6/7/2022,20220607,Carolyn Ross,United Arab Emirates,Abu Dhabi,EMEA,MEA,Airbus,1030,Manufacturing,SMB,Data Smasher,Y1TC3DXY1I,179.94,6,0,75.5748
 5533,EMEA-2022-167472,6/7/2022,20220607,Carolyn Ross,United Arab Emirates,Abu Dhabi,EMEA,MEA,Airbus,1030,Manufacturing,SMB,Data Smasher,CE3IWTN1Y7,26.85,3,0,5.1015
 5534,EMEA-2022-167472,6/7/2022,20220607,Carolyn Ross,United Arab Emirates,Abu Dhabi,EMEA,MEA,Airbus,1030,Manufacturing,SMB,Data Smasher,3Z7T0PXJGC,323.37,3,0,129.348
@@ -5537,7 +5537,7 @@ Row ID,Order ID,Order Date,Date Key,Contact Name,Country,City,Region,Subregion,C
 5536,EMEA-2022-167472,6/7/2022,20220607,Carolyn Ross,United Arab Emirates,Abu Dhabi,EMEA,MEA,Airbus,1030,Manufacturing,SMB,ContactMatcher,BS00CJYALX,64.14,3,0,30.7872
 5537,EMEA-2022-167472,6/7/2022,20220607,Carolyn Ross,United Arab Emirates,Abu Dhabi,EMEA,MEA,Airbus,1030,Manufacturing,SMB,ContactMatcher,0H463E8ANT,11.67,3,0,5.6016
 5538,EMEA-2022-167472,6/7/2022,20220607,Carolyn Ross,United Arab Emirates,Abu Dhabi,EMEA,MEA,Airbus,1030,Manufacturing,SMB,Support,GH3BN0UC9B,12.96,2,0,6.2208
-5539,AMER-2021-120551,4/13/2021,20210413,Connor Watson,Costa Rica,San JosÇ,AMER,LATAM,Tesco,1059,Retail,SMB,ContactMatcher,I1GS7WMWLS,17.43,3,0,8.0178
+5539,AMER-2021-120551,4/13/2021,20210413,Connor Watson,Costa Rica,San Jos‚Äö,AMER,LATAM,Tesco,1059,Retail,SMB,ContactMatcher,I1GS7WMWLS,17.43,3,0,8.0178
 5540,APJ-2023-150595,5/23/2023,20230523,Pippa Smith,Australia,Sydney,APJ,ANZ,Johnson & Johnson,1055,Healthcare,SMB,FinanceHub,61J7VBG97V,181.986,2,0.3,-54.5958
 5541,APJ-2023-150595,5/23/2023,20230523,Pippa Smith,Australia,Sydney,APJ,ANZ,Johnson & Johnson,1055,Healthcare,SMB,ContactMatcher,Z3WUR9NXUZ,1.592,2,0.8,-2.6268
 5542,APJ-2023-150595,5/23/2023,20230523,Pippa Smith,Australia,Sydney,APJ,ANZ,Johnson & Johnson,1055,Healthcare,SMB,Support,YMJSU3CIQH,22.344,3,0.2,2.5137
@@ -5604,8 +5604,8 @@ Row ID,Order ID,Order Date,Date Key,Contact Name,Country,City,Region,Subregion,C
 5603,APJ-2022-117919,8/28/2022,20220828,Andrew Smith,Japan,Tokyo,APJ,JAPN,Johnson & Johnson,1055,Healthcare,Strategic,Marketing Suite - Gold,EFLISNPEDK,14.16,1,0.2,1.062
 5604,APJ-2022-117919,8/28/2022,20220828,Andrew Smith,Japan,Tokyo,APJ,JAPN,Johnson & Johnson,1055,Healthcare,Strategic,Support,P4MD790BU7,79.92,5,0.2,27.972
 5605,EMEA-2021-142475,12/3/2021,20211203,Leah Murray,United Kingdom,London,EMEA,UKIR,Bosch,1076,Tech,Strategic,ContactMatcher,YKABQQM339,590.352,6,0.2,206.6232
-5606,EMEA-2022-134516,9/21/2022,20220921,Carol Berry,Sweden,Malmî,EMEA,NOR,American Express,1005,Finance,Strategic,SaaS Connector Pack,OW4BX96YA2,17.088,2,0.2,1.068
-5607,EMEA-2022-134516,9/21/2022,20220921,Carol Berry,Sweden,Malmî,EMEA,NOR,American Express,1005,Finance,Strategic,FinanceHub,K2MSVZ7XTE,98.392,1,0.2,-11.0691
+5606,EMEA-2022-134516,9/21/2022,20220921,Carol Berry,Sweden,Malm‚Äù,EMEA,NOR,American Express,1005,Finance,Strategic,SaaS Connector Pack,OW4BX96YA2,17.088,2,0.2,1.068
+5607,EMEA-2022-134516,9/21/2022,20220921,Carol Berry,Sweden,Malm‚Äù,EMEA,NOR,American Express,1005,Finance,Strategic,FinanceHub,K2MSVZ7XTE,98.392,1,0.2,-11.0691
 5608,EMEA-2023-105193,3/26/2023,20230326,Gordon Parr,United Kingdom,London,EMEA,UKIR,Aetna,1002,Healthcare,SMB,ChatBot Plugin,7EDXJMIVDQ,11.05,5,0,2.9835
 5609,AMER-2021-168634,12/6/2021,20211206,Brian Peters,United States,Los Angeles,AMER,NAMER,China National Petroleum,1023,Energy,SMB,OneView,6QMS3ZAFJI,7.78,2,0,2.0228
 5610,EMEA-2023-117198,9/1/2023,20230901,Molly MacDonald,Czech Republic,Prague,EMEA,EU-EAST,Toyota Motor,1087,Manufacturing,SMB,Data Smasher,KI895K7737,659.9,2,0,217.767
@@ -5633,7 +5633,7 @@ Row ID,Order ID,Order Date,Date Key,Contact Name,Country,City,Region,Subregion,C
 5632,EMEA-2020-127614,2/12/2020,20200212,Sean Rees,Spain,Valencia,EMEA,EU-WEST,Walgreens,1095,Retail,SMB,ContactMatcher,8UV9OSKVOL,1256.22,6,0,75.3732
 5633,EMEA-2020-127614,2/12/2020,20200212,Sean Rees,Spain,Valencia,EMEA,EU-WEST,Walgreens,1095,Retail,SMB,ContactMatcher,CJBA5TEOJB,17.46,2,0,8.2062
 5634,EMEA-2022-101742,9/24/2022,20220924,Cameron Oliver,United Kingdom,London,EMEA,UKIR,UnitedHealth Group,1092,Healthcare,Enterprise,ContactMatcher,2KD0GMK6Z1,10.528,7,0.2,3.6848
-5635,AMER-2021-134943,12/5/2021,20211205,Molly Watson,Brazil,Bras°lia,AMER,LATAM,Philip Morris International,1075,Consumer Products,Enterprise,ContactMatcher,SUXY7M28YJ,152.8,5,0,76.4
+5635,AMER-2021-134943,12/5/2021,20211205,Molly Watson,Brazil,Bras¬°lia,AMER,LATAM,Philip Morris International,1075,Consumer Products,Enterprise,ContactMatcher,SUXY7M28YJ,152.8,5,0,76.4
 5636,AMER-2023-123022,9/4/2023,20230904,Angela Churchill,United States,Cleveland,AMER,NAMER,Valero Energy,1093,Energy,Enterprise,ContactMatcher,3KOQZAX0YT,82.56,5,0.2,28.896
 5637,AMER-2023-123022,9/4/2023,20230904,Angela Churchill,United States,Cleveland,AMER,NAMER,Valero Energy,1093,Energy,Enterprise,Data Smasher,DMR196Q63A,284.97,3,0,85.491
 5638,AMER-2023-113208,3/27/2023,20230327,Jasmine McDonald,Brazil,S?o Paulo,AMER,LATAM,Philip Morris International,1075,Consumer Products,Strategic,SaaS Connector Pack,DJB09G8BT8,60.84,3,0,23.1192
@@ -5644,7 +5644,7 @@ Row ID,Order ID,Order Date,Date Key,Contact Name,Country,City,Region,Subregion,C
 5643,EMEA-2022-127985,4/2/2022,20220402,Christian Kerr,Finland,Helsinki,EMEA,NOR,Volkswagen,1046,Manufacturing,Enterprise,SaaS Connector Pack,6VN8NXQRC6,7.04,4,0,3.0976
 5644,EMEA-2021-166604,5/15/2021,20210515,Nicholas Paterson,Finland,Helsinki,EMEA,NOR,Walt Disney,1097,Communications,Strategic,SaaS Connector Pack - Gold,4EDSGB428V,17.94,3,0,8.7906
 5645,AMER-2023-120719,3/24/2023,20230324,Liam Young,Canada,Toronto,AMER,NAMER,FedEx,1036,Transportation,Enterprise,ContactMatcher,TM7QMYGY87,34.76,5,0.2,11.297
-5646,AMER-2023-127117,4/15/2023,20230415,Paul Martin,Argentina,C¢rdoba,AMER,LATAM,BNP Paribas,1065,Finance,Strategic,SaaS Connector Pack,KCAL1JOGE3,74.45,5,0,20.1015
+5646,AMER-2023-127117,4/15/2023,20230415,Paul Martin,Argentina,C¬¢rdoba,AMER,LATAM,BNP Paribas,1065,Finance,Strategic,SaaS Connector Pack,KCAL1JOGE3,74.45,5,0,20.1015
 5647,EMEA-2021-104241,1/4/2021,20210104,Isaac Hart,Spain,Alicante,EMEA,EU-WEST,China National Petroleum,1023,Energy,Strategic,SaaS Connector Pack,072Q6KWNJE,192.22,14,0,69.1992
 5648,EMEA-2023-168179,11/3/2023,20231103,Joanne Davies,Turkey,Istanbul,EMEA,MEA,Tyson Foods,1088,Consumer Products,SMB,Support,73YYLE2SA8,19.44,3,0,9.3312
 5649,AMER-2023-142342,7/18/2023,20230718,Carolyn Dowd,United States,Arlington,AMER,NAMER,Nestle,1089,Consumer Products,Strategic,Support,JK0HT09POV,32.4,5,0,15.552
@@ -5714,10 +5714,10 @@ Row ID,Order ID,Order Date,Date Key,Contact Name,Country,City,Region,Subregion,C
 5713,APJ-2023-115805,8/1/2023,20230801,Wanda Simpson,Australia,Sydney,APJ,ANZ,Marathon Petroleum,1061,Energy,SMB,Site Analytics,0JZJL9B4FK,36.792,1,0.2,4.1391
 5714,EMEA-2020-143707,3/1/2020,20200301,Boris Baker,United Kingdom,London,EMEA,UKIR,Phillips 66,1056,Energy,Enterprise,Site Analytics,JNQD79IRS6,5.94,3,0,1.6038
 5715,EMEA-2023-116939,9/26/2023,20230926,Sue Anderson,Spain,Murcia,EMEA,EU-WEST,BMW,1039,Manufacturing,SMB,Marketing Suite - Gold,95ED07JTWM,177.55,5,0,47.9385
-5716,AMER-2021-124107,10/9/2021,20211009,Peter Ellison,Brazil,Bras°lia,AMER,LATAM,Volkswagen,1046,Manufacturing,Strategic,Data Smasher,EBSDCVCP75,619.95,5,0,111.591
-5717,AMER-2021-124107,10/9/2021,20211009,Peter Ellison,Brazil,Bras°lia,AMER,LATAM,Volkswagen,1046,Manufacturing,Strategic,Site Analytics,03Q9Y9QLN8,29.16,3,0,8.4564
-5718,AMER-2021-124107,10/9/2021,20211009,Peter Ellison,Brazil,Bras°lia,AMER,LATAM,Volkswagen,1046,Manufacturing,Strategic,SaaS Connector Pack - Gold,NA8IXQ6VZ3,57.96,7,0,27.2412
-5719,AMER-2021-124107,10/9/2021,20211009,Peter Ellison,Brazil,Bras°lia,AMER,LATAM,Volkswagen,1046,Manufacturing,Strategic,OneView,TYOLYFGTBE,29.403,3,0.1,5.2272
+5716,AMER-2021-124107,10/9/2021,20211009,Peter Ellison,Brazil,Bras¬°lia,AMER,LATAM,Volkswagen,1046,Manufacturing,Strategic,Data Smasher,EBSDCVCP75,619.95,5,0,111.591
+5717,AMER-2021-124107,10/9/2021,20211009,Peter Ellison,Brazil,Bras¬°lia,AMER,LATAM,Volkswagen,1046,Manufacturing,Strategic,Site Analytics,03Q9Y9QLN8,29.16,3,0,8.4564
+5718,AMER-2021-124107,10/9/2021,20211009,Peter Ellison,Brazil,Bras¬°lia,AMER,LATAM,Volkswagen,1046,Manufacturing,Strategic,SaaS Connector Pack - Gold,NA8IXQ6VZ3,57.96,7,0,27.2412
+5719,AMER-2021-124107,10/9/2021,20211009,Peter Ellison,Brazil,Bras¬°lia,AMER,LATAM,Volkswagen,1046,Manufacturing,Strategic,OneView,TYOLYFGTBE,29.403,3,0.1,5.2272
 5720,APJ-2023-126550,3/30/2023,20230330,Heather Dyer,India,Mumbai,APJ,IND,Goldman Sachs Group,1042,Finance,SMB,Marketing Suite - Gold,OASCHDTHBW,81.4,5,0,21.164
 5721,EMEA-2021-138674,11/14/2021,20211114,Melanie Sharp,Belgium,Brussels,EMEA,EU-WEST,Carrefour,1048,Retail,Strategic,Storage,ALJP07N15P,8.72,5,0.2,2.289
 5722,EMEA-2021-138674,11/14/2021,20211114,Melanie Sharp,Belgium,Brussels,EMEA,EU-WEST,Carrefour,1048,Retail,Strategic,Data Smasher,8RHKJPGOS5,91.176,3,0.2,4.5588
@@ -5900,7 +5900,7 @@ Row ID,Order ID,Order Date,Date Key,Contact Name,Country,City,Region,Subregion,C
 5899,APJ-2022-167682,4/4/2022,20220404,Blake Hughes,India,Hyderabad,APJ,IND,Wells Fargo,1099,Finance,SMB,Site Analytics,99XC6KWS6W,259.96,4,0,124.7808
 5900,AMER-2023-108000,1/13/2023,20230113,Eric Mills,United States,Los Angeles,AMER,NAMER,Marathon Petroleum,1061,Energy,Strategic,SaaS Connector Pack - Gold,IM35XTSSGR,9.78,1,0,4.89
 5901,AMER-2021-146465,11/20/2021,20211120,Max Langdon,United States,Los Angeles,AMER,NAMER,J.P. Morgan Chase & Co.,1054,Finance,Enterprise,ContactMatcher,VJKHSOVIU8,24.192,9,0.2,7.56
-5902,AMER-2022-159639,11/28/2022,20221128,Melanie Chapman,Argentina,C¢rdoba,AMER,LATAM,Wells Fargo,1099,Finance,Strategic,SaaS Connector Pack,DAG8IC7FBN,31.56,3,0,10.4148
+5902,AMER-2022-159639,11/28/2022,20221128,Melanie Chapman,Argentina,C¬¢rdoba,AMER,LATAM,Wells Fargo,1099,Finance,Strategic,SaaS Connector Pack,DAG8IC7FBN,31.56,3,0,10.4148
 5903,AMER-2023-153948,11/7/2023,20231107,Una Hudson,United States,Los Angeles,AMER,NAMER,AT&T,1010,Communications,Enterprise,Support,12OPCXJ2KN,59.94,3,0,28.1718
 5904,AMER-2023-153948,11/7/2023,20231107,Una Hudson,United States,Los Angeles,AMER,NAMER,AT&T,1010,Communications,Enterprise,Support,EC57B0GZ1T,45.36,4,0,22.2264
 5905,AMER-2023-153948,11/7/2023,20231107,Una Hudson,United States,Los Angeles,AMER,NAMER,AT&T,1010,Communications,Enterprise,Support,M372YQGPI7,26.4,5,0,12.672
@@ -6143,7 +6143,7 @@ Row ID,Order ID,Order Date,Date Key,Contact Name,Country,City,Region,Subregion,C
 6142,EMEA-2023-121083,7/10/2023,20230710,Sarah Sanderson,Saudi Arabia,Dhahran,EMEA,MEA,Prudential Financial,1078,Finance,SMB,Marketing Suite - Gold,Z5MX4TEDXW,195.64,4,0,3.9128
 6143,EMEA-2023-121083,7/10/2023,20230710,Sarah Sanderson,Saudi Arabia,Dhahran,EMEA,MEA,Prudential Financial,1078,Finance,SMB,Site Analytics,7SON7EW0OU,257.98,2,0,74.8142
 6144,EMEA-2023-121083,7/10/2023,20230710,Sarah Sanderson,Saudi Arabia,Dhahran,EMEA,MEA,Prudential Financial,1078,Finance,SMB,ChatBot Plugin,RW8KFQDUS3,119.04,6,0,48.8064
-6145,AMER-2023-151190,6/28/2023,20230628,Michelle Langdon,Costa Rica,San JosÇ,AMER,LATAM,Lukoil,1044,Energy,SMB,Support,JO9GF79YZK,20.07,3,0,9.2322
+6145,AMER-2023-151190,6/28/2023,20230628,Michelle Langdon,Costa Rica,San Jos‚Äö,AMER,LATAM,Lukoil,1044,Energy,SMB,Support,JO9GF79YZK,20.07,3,0,9.2322
 6146,AMER-2020-133543,12/22/2020,20201222,John Davies,United States,Chicago,AMER,NAMER,Cigna,1038,Healthcare,SMB,ChatBot Plugin,NNPM2AJ1JU,11.76,4,0,3.1752
 6147,AMER-2023-105130,11/22/2023,20231122,Christian Lyman,United States,Los Angeles,AMER,NAMER,Phillips 66,1056,Energy,Strategic,ChatBot Plugin,RU3C6YJJ2H,11.76,4,0,3.1752
 6148,AMER-2023-105130,11/22/2023,20231122,Christian Lyman,United States,Los Angeles,AMER,NAMER,Phillips 66,1056,Energy,Strategic,ContactMatcher,OI26NI9BDL,40.736,2,0.2,14.7668
@@ -6174,15 +6174,15 @@ Row ID,Order ID,Order Date,Date Key,Contact Name,Country,City,Region,Subregion,C
 6173,EMEA-2020-106299,8/2/2020,20200802,Thomas Roberts,Poland,Warsaw,EMEA,EU-WEST,Siemens,1043,Manufacturing,Enterprise,ContactMatcher,1JGRNS4NQX,26.7,5,0,12.549
 6174,EMEA-2020-106299,8/2/2020,20200802,Thomas Roberts,Poland,Warsaw,EMEA,EU-WEST,Siemens,1043,Manufacturing,Enterprise,Data Smasher,DBK172DR3S,21.2,2,0,9.116
 6175,EMEA-2020-106299,8/2/2020,20200802,Thomas Roberts,Poland,Warsaw,EMEA,EU-WEST,Siemens,1043,Manufacturing,Enterprise,Marketing Suite - Gold,577R8MT1UQ,838.38,2,0,226.3626
-6176,AMER-2021-158421,9/21/2021,20210921,Dylan Ince,Colombia,Medell°n,AMER,LATAM,Procter & Gamble,1077,Consumer Products,SMB,FinanceHub,XOS8IST707,1690.04,4,0,422.51
-6177,AMER-2021-158421,9/21/2021,20210921,Dylan Ince,Colombia,Medell°n,AMER,LATAM,Procter & Gamble,1077,Consumer Products,SMB,Marketing Suite - Gold,C6TG25PLN5,85.96,7,0,24.0688
-6178,AMER-2021-158421,9/21/2021,20210921,Dylan Ince,Colombia,Medell°n,AMER,LATAM,Procter & Gamble,1077,Consumer Products,SMB,SaaS Connector Pack - Gold,6KSOHIVKAK,121.96,2,0,57.3212
-6179,AMER-2021-158421,9/21/2021,20210921,Dylan Ince,Colombia,Medell°n,AMER,LATAM,Procter & Gamble,1077,Consumer Products,SMB,Support,ZZU7U59ZX9,23.92,4,0,11.7208
-6180,AMER-2021-158421,9/21/2021,20210921,Dylan Ince,Colombia,Medell°n,AMER,LATAM,Procter & Gamble,1077,Consumer Products,SMB,Marketing Suite - Gold,9JBBRUDQNK,63.96,2,0,6.396
-6181,AMER-2021-158421,9/21/2021,20210921,Dylan Ince,Colombia,Medell°n,AMER,LATAM,Procter & Gamble,1077,Consumer Products,SMB,Site Analytics,WKAZOWCH7Y,629.95,5,0,176.386
-6182,AMER-2021-158421,9/21/2021,20210921,Dylan Ince,Colombia,Medell°n,AMER,LATAM,Procter & Gamble,1077,Consumer Products,SMB,Site Analytics,CV5WSC284F,113.73,3,0,32.9817
-6183,AMER-2021-158421,9/21/2021,20210921,Dylan Ince,Colombia,Medell°n,AMER,LATAM,Procter & Gamble,1077,Consumer Products,SMB,ContactMatcher,IWHX526ONI,14.6,2,0,6.862
-6184,AMER-2021-158421,9/21/2021,20210921,Dylan Ince,Colombia,Medell°n,AMER,LATAM,Procter & Gamble,1077,Consumer Products,SMB,Marketing Suite - Gold,7UB4KTI2SF,887.84,8,0,17.7568
+6176,AMER-2021-158421,9/21/2021,20210921,Dylan Ince,Colombia,Medell¬°n,AMER,LATAM,Procter & Gamble,1077,Consumer Products,SMB,FinanceHub,XOS8IST707,1690.04,4,0,422.51
+6177,AMER-2021-158421,9/21/2021,20210921,Dylan Ince,Colombia,Medell¬°n,AMER,LATAM,Procter & Gamble,1077,Consumer Products,SMB,Marketing Suite - Gold,C6TG25PLN5,85.96,7,0,24.0688
+6178,AMER-2021-158421,9/21/2021,20210921,Dylan Ince,Colombia,Medell¬°n,AMER,LATAM,Procter & Gamble,1077,Consumer Products,SMB,SaaS Connector Pack - Gold,6KSOHIVKAK,121.96,2,0,57.3212
+6179,AMER-2021-158421,9/21/2021,20210921,Dylan Ince,Colombia,Medell¬°n,AMER,LATAM,Procter & Gamble,1077,Consumer Products,SMB,Support,ZZU7U59ZX9,23.92,4,0,11.7208
+6180,AMER-2021-158421,9/21/2021,20210921,Dylan Ince,Colombia,Medell¬°n,AMER,LATAM,Procter & Gamble,1077,Consumer Products,SMB,Marketing Suite - Gold,9JBBRUDQNK,63.96,2,0,6.396
+6181,AMER-2021-158421,9/21/2021,20210921,Dylan Ince,Colombia,Medell¬°n,AMER,LATAM,Procter & Gamble,1077,Consumer Products,SMB,Site Analytics,WKAZOWCH7Y,629.95,5,0,176.386
+6182,AMER-2021-158421,9/21/2021,20210921,Dylan Ince,Colombia,Medell¬°n,AMER,LATAM,Procter & Gamble,1077,Consumer Products,SMB,Site Analytics,CV5WSC284F,113.73,3,0,32.9817
+6183,AMER-2021-158421,9/21/2021,20210921,Dylan Ince,Colombia,Medell¬°n,AMER,LATAM,Procter & Gamble,1077,Consumer Products,SMB,ContactMatcher,IWHX526ONI,14.6,2,0,6.862
+6184,AMER-2021-158421,9/21/2021,20210921,Dylan Ince,Colombia,Medell¬°n,AMER,LATAM,Procter & Gamble,1077,Consumer Products,SMB,Marketing Suite - Gold,7UB4KTI2SF,887.84,8,0,17.7568
 6185,EMEA-2022-143609,12/12/2022,20221212,Audrey Young,Belgium,Brussels,EMEA,EU-WEST,Kroger,1057,Retail,Enterprise,FinanceHub,I3HWGN8GXZ,403.92,5,0.2,25.245
 6186,EMEA-2021-138331,8/7/2021,20210807,Kimberly Harris,France,Paris,EMEA,EU-WEST,Intel,1051,Tech,SMB,ChatBot Plugin,JJJBHT2PBZ,106.8,10,0.2,10.68
 6187,EMEA-2021-138954,11/15/2021,20211115,Diane Mills,United Kingdom,London,EMEA,UKIR,General Motors,1041,Manufacturing,Strategic,Marketing Suite - Gold,9YQ9GO3CX8,70.95,3,0,20.5755
@@ -6321,7 +6321,7 @@ Row ID,Order ID,Order Date,Date Key,Contact Name,Country,City,Region,Subregion,C
 6320,AMER-2023-161459,11/26/2023,20231126,Peter Knox,United States,Columbia,AMER,NAMER,Sprint Nextel,1081,Communications,Strategic,Support,G48AV7KGGS,34.08,6,0,15.336
 6321,EMEA-2023-160017,9/29/2023,20230929,Blake Campbell,Germany,Berlin,EMEA,EU-WEST,AT&T,1010,Communications,Strategic,Support,4J10M93WZT,10.368,2,0.2,3.6288
 6322,EMEA-2020-123316,10/13/2020,20201013,Dan Tucker,United Kingdom,Edinburgh,EMEA,UKIR,Cigna,1038,Healthcare,Strategic,ContactMatcher,18DZJY2RE4,7.752,3,0.2,2.8101
-6323,AMER-2020-141299,6/3/2020,20200603,Gordon Greene,Brazil,Bras°lia,AMER,LATAM,Lowes,1060,Retail,Enterprise,SaaS Connector Pack - Gold,06XAXG6YP9,15.28,2,0,7.4872
+6323,AMER-2020-141299,6/3/2020,20200603,Gordon Greene,Brazil,Bras¬°lia,AMER,LATAM,Lowes,1060,Retail,Enterprise,SaaS Connector Pack - Gold,06XAXG6YP9,15.28,2,0,7.4872
 6324,APJ-2020-104402,6/17/2020,20200617,Keith Randall,Philippines,Quezon City,APJ,APAC,Johnson & Johnson,1055,Healthcare,SMB,Big Ol Database,3QLSZ2W1S3,65.97,3,0,31.0059
 6325,AMER-2021-110289,10/29/2021,20211029,Jessica Langdon,United States,Los Angeles,AMER,NAMER,Allianz,1080,Finance,Strategic,Support,DZRZ4IQWFE,33.4,5,0,16.032
 6326,AMER-2021-110289,10/29/2021,20211029,Jessica Langdon,United States,Los Angeles,AMER,NAMER,Allianz,1080,Finance,Strategic,SaaS Connector Pack - Gold,0R6WIFFRTN,210.84,4,0,103.3116
@@ -6628,7 +6628,7 @@ Row ID,Order ID,Order Date,Date Key,Contact Name,Country,City,Region,Subregion,C
 6627,EMEA-2020-145541,12/14/2020,20201214,Dan Allan,United Kingdom,London,EMEA,UKIR,Johnson & Johnson,1055,Healthcare,SMB,Big Ol Database,IWVABNLFJB,6999.96,4,0,2239.9872
 6628,AMER-2020-138513,5/23/2020,20200523,Adam Nash,Canada,Quebec,AMER,NAMER,Aviva,1006,Finance,SMB,Support,6CES2MJWFY,12.96,2,0,6.2208
 6629,EMEA-2021-135489,9/19/2021,20210919,Adrian Walker,United Kingdom,London,EMEA,UKIR,Amazon,1004,Tech,SMB,Site Analytics,YX60C3ZV4H,279.86,14,0,134.3328
-6630,EMEA-2021-125696,10/2/2021,20211002,Alexander Wallace,Sweden,Malmî,EMEA,NOR,Ford Motor,1009,Manufacturing,Enterprise,ContactMatcher,F7JXOCVIRN,7.38,5,0.7,-5.412
+6630,EMEA-2021-125696,10/2/2021,20211002,Alexander Wallace,Sweden,Malm‚Äù,EMEA,NOR,Ford Motor,1009,Manufacturing,Enterprise,ContactMatcher,F7JXOCVIRN,7.38,5,0.7,-5.412
 6631,AMER-2022-105081,12/26/2022,20221226,Kimberly Manning,Canada,Toronto,AMER,NAMER,AmerisourceBergen,1007,Healthcare,SMB,FinanceHub,QDMQEFU41T,698.352,3,0.2,52.3764
 6632,AMER-2022-105081,12/26/2022,20221226,Kimberly Manning,Canada,Toronto,AMER,NAMER,AmerisourceBergen,1007,Healthcare,SMB,ContactMatcher,WG102JMJCL,1747.25,5,0,629.01
 6633,EMEA-2022-146857,5/7/2022,20220507,Edward Hardacre,Poland,Krakow,EMEA,EU-WEST,Trafigura Group,1100,Finance,Enterprise,OneView,1OGBTOBUF7,54.48,1,0,15.2544
@@ -6700,8 +6700,8 @@ Row ID,Order ID,Order Date,Date Key,Contact Name,Country,City,Region,Subregion,C
 6699,AMER-2023-145429,7/22/2023,20230722,Gordon Burgess,United States,Seattle,AMER,NAMER,Pemex,1058,Energy,SMB,Support,ENONGWQQB1,16.34,2,0,7.6798
 6700,AMER-2023-145429,7/22/2023,20230722,Gordon Burgess,United States,Seattle,AMER,NAMER,Pemex,1058,Energy,SMB,FinanceHub,81659LE4WD,225.296,2,0.2,22.5296
 6701,AMER-2023-145429,7/22/2023,20230722,Gordon Burgess,United States,Seattle,AMER,NAMER,Pemex,1058,Energy,SMB,ContactMatcher,4H4ZPAZXKC,50.352,3,0.2,17.6232
-6702,EMEA-2021-153535,5/20/2021,20210520,Kimberly Langdon,Sweden,Malmî,EMEA,NOR,Home Depot,1047,Retail,SMB,SaaS Connector Pack,HXG70H0ASB,163.136,4,0.2,20.392
-6703,EMEA-2021-153535,5/20/2021,20210520,Kimberly Langdon,Sweden,Malmî,EMEA,NOR,Home Depot,1047,Retail,SMB,ContactMatcher,2273KOT2RJ,6.408,4,0.7,-4.9128
+6702,EMEA-2021-153535,5/20/2021,20210520,Kimberly Langdon,Sweden,Malm‚Äù,EMEA,NOR,Home Depot,1047,Retail,SMB,SaaS Connector Pack,HXG70H0ASB,163.136,4,0.2,20.392
+6703,EMEA-2021-153535,5/20/2021,20210520,Kimberly Langdon,Sweden,Malm‚Äù,EMEA,NOR,Home Depot,1047,Retail,SMB,ContactMatcher,2273KOT2RJ,6.408,4,0.7,-4.9128
 6704,AMER-2021-139164,6/23/2021,20210623,Jacob Vaughan,United States,Jacksonville,AMER,NAMER,BNP Paribas,1065,Finance,SMB,Site Analytics,N9VD3K4KT4,217.584,2,0.2,19.0386
 6705,AMER-2021-139164,6/23/2021,20210623,Jacob Vaughan,United States,Jacksonville,AMER,NAMER,BNP Paribas,1065,Finance,SMB,Storage,EO238HYI0U,5.43,3,0,1.7919
 6706,AMER-2021-139164,6/23/2021,20210623,Jacob Vaughan,United States,Jacksonville,AMER,NAMER,BNP Paribas,1065,Finance,SMB,Site Analytics,8KIDUOEMOB,143.976,3,0.2,8.9985
@@ -6758,7 +6758,7 @@ Row ID,Order ID,Order Date,Date Key,Contact Name,Country,City,Region,Subregion,C
 6757,AMER-2023-124205,9/16/2023,20230916,Katherine Baker,Argentina,Buenos Aires,AMER,LATAM,Fannie Mae,1035,Finance,Strategic,FinanceHub,OB4L9M304C,512.96,4,0,143.6288
 6758,AMER-2023-124205,9/16/2023,20230916,Katherine Baker,Argentina,Buenos Aires,AMER,LATAM,Fannie Mae,1035,Finance,Strategic,Site Analytics,2TIU75U7WQ,395.94,6,0,102.9444
 6759,AMER-2023-124205,9/16/2023,20230916,Katherine Baker,Argentina,Buenos Aires,AMER,LATAM,Fannie Mae,1035,Finance,Strategic,Marketing Suite - Gold,KVQW0535OA,81.96,2,0,0
-6760,EMEA-2023-165715,12/3/2023,20231203,Molly MacDonald,Sweden,Malmî,EMEA,NOR,Toyota Motor,1087,Manufacturing,SMB,ChatBot Plugin,FMGXV6X06P,32.776,1,0.2,2.4582
+6760,EMEA-2023-165715,12/3/2023,20231203,Molly MacDonald,Sweden,Malm‚Äù,EMEA,NOR,Toyota Motor,1087,Manufacturing,SMB,ChatBot Plugin,FMGXV6X06P,32.776,1,0.2,2.4582
 6761,EMEA-2023-100636,6/27/2023,20230627,Colin Glover,United Kingdom,London,EMEA,UKIR,Verizon Communications,1094,Communications,SMB,Marketing Suite - Gold,NIJ73HWI5B,272.94,3,0,0
 6762,EMEA-2022-162943,7/25/2022,20220725,Lisa Lawrence,United Kingdom,London,EMEA,UKIR,J.P. Morgan Chase & Co.,1054,Finance,Strategic,FinanceHub,DY88HXQUGU,253.764,2,0.1,31.0156
 6763,APJ-2022-144764,9/3/2022,20220903,Irene Wright,Australia,Sydney,APJ,ANZ,Chevron,1017,Energy,SMB,FinanceHub,NSAFT35GTO,29.24,5,0.2,9.8685
@@ -6907,7 +6907,7 @@ Row ID,Order ID,Order Date,Date Key,Contact Name,Country,City,Region,Subregion,C
 6906,AMER-2023-149006,12/7/2023,20231207,Lucas Kerr,United States,Detroit,AMER,NAMER,Philip Morris International,1075,Consumer Products,Strategic,Marketing Suite - Gold,KPA0MECF4V,10.68,1,0,2.8836
 6907,AMER-2023-149468,5/21/2023,20230521,Fiona Nolan,Brazil,Belo Horizonte,AMER,LATAM,Sony,1028,Tech,Strategic,ContactMatcher,X4XJZI0OS6,41.28,2,0,19.8144
 6908,AMER-2022-140249,9/28/2022,20220928,Gordon Burgess,Canada,Toronto,AMER,NAMER,Pemex,1058,Energy,SMB,Site Analytics,3QIILBYSSS,1001.584,2,0.2,125.198
-6909,AMER-2023-135503,12/11/2023,20231211,Joseph Duncan,Colombia,Medell°n,AMER,LATAM,Walmart,1096,Retail,Strategic,SaaS Connector Pack,4JUIU6HGIQ,14.76,2,0,4.2804
+6909,AMER-2023-135503,12/11/2023,20231211,Joseph Duncan,Colombia,Medell¬°n,AMER,LATAM,Walmart,1096,Retail,Strategic,SaaS Connector Pack,4JUIU6HGIQ,14.76,2,0,4.2804
 6910,AMER-2020-126277,9/13/2020,20200913,Harry Brown,Mexico,Mexico City,AMER,LATAM,Bank of America Corp.,1011,Finance,SMB,ContactMatcher,7DHPPJ8QEI,2.502,3,0.7,-2.0016
 6911,AMER-2023-115301,7/30/2023,20230730,Dominic Lawrence,Canada,Toronto,AMER,NAMER,ConocoPhillips,1024,Energy,SMB,Marketing Suite,W0ZICV4TS0,115.96,2,0,25.5112
 6912,AMER-2023-168942,8/2/2023,20230802,Angela Davies,United States,Los Angeles,AMER,NAMER,Kroger,1057,Retail,SMB,Marketing Suite - Gold,WGLUMD0PHH,186.54,3,0,50.3658
@@ -6961,12 +6961,12 @@ Row ID,Order ID,Order Date,Date Key,Contact Name,Country,City,Region,Subregion,C
 6960,AMER-2021-167255,9/27/2021,20210927,Max Skinner,United States,Los Angeles,AMER,NAMER,Bank of America Corp.,1011,Finance,Enterprise,Support,APPA4TBMKX,146.82,3,0,73.41
 6961,AMER-2021-167255,9/27/2021,20210927,Max Skinner,United States,Los Angeles,AMER,NAMER,Bank of America Corp.,1011,Finance,Enterprise,Support,6X1I5NRMXS,12.96,2,0,6.2208
 6962,AMER-2023-162096,11/11/2023,20231111,Luke McDonald,United States,Columbus,AMER,NAMER,Panasonic,1091,Tech,Enterprise,ChatBot Plugin,HIKYTPZTBS,7.8,3,0,2.106
-6963,AMER-2022-157161,7/17/2022,20220717,Tim Morrison,Colombia,Medell°n,AMER,LATAM,General Motors,1041,Manufacturing,Strategic,SaaS Connector Pack - Gold,SZQMJZVJYQ,10.2,5,0,4.794
-6964,AMER-2022-157161,7/17/2022,20220717,Tim Morrison,Colombia,Medell°n,AMER,LATAM,General Motors,1041,Manufacturing,Strategic,ChatBot Plugin,RYEHD7LXYT,22.32,3,0,5.58
-6965,AMER-2022-157161,7/17/2022,20220717,Tim Morrison,Colombia,Medell°n,AMER,LATAM,General Motors,1041,Manufacturing,Strategic,ContactMatcher,PF4CUWIQ3F,24.1,5,0,11.086
-6966,AMER-2022-157161,7/17/2022,20220717,Tim Morrison,Colombia,Medell°n,AMER,LATAM,General Motors,1041,Manufacturing,Strategic,Data Smasher,479GDL5687,75.98,2,0,18.2352
-6967,AMER-2022-157161,7/17/2022,20220717,Tim Morrison,Colombia,Medell°n,AMER,LATAM,General Motors,1041,Manufacturing,Strategic,ContactMatcher,0J0P3L6Q4Z,6.46,2,0,3.1654
-6968,AMER-2022-157161,7/17/2022,20220717,Tim Morrison,Colombia,Medell°n,AMER,LATAM,General Motors,1041,Manufacturing,Strategic,Support,D4924FX8QU,60.12,9,0,28.8576
+6963,AMER-2022-157161,7/17/2022,20220717,Tim Morrison,Colombia,Medell¬°n,AMER,LATAM,General Motors,1041,Manufacturing,Strategic,SaaS Connector Pack - Gold,SZQMJZVJYQ,10.2,5,0,4.794
+6964,AMER-2022-157161,7/17/2022,20220717,Tim Morrison,Colombia,Medell¬°n,AMER,LATAM,General Motors,1041,Manufacturing,Strategic,ChatBot Plugin,RYEHD7LXYT,22.32,3,0,5.58
+6965,AMER-2022-157161,7/17/2022,20220717,Tim Morrison,Colombia,Medell¬°n,AMER,LATAM,General Motors,1041,Manufacturing,Strategic,ContactMatcher,PF4CUWIQ3F,24.1,5,0,11.086
+6966,AMER-2022-157161,7/17/2022,20220717,Tim Morrison,Colombia,Medell¬°n,AMER,LATAM,General Motors,1041,Manufacturing,Strategic,Data Smasher,479GDL5687,75.98,2,0,18.2352
+6967,AMER-2022-157161,7/17/2022,20220717,Tim Morrison,Colombia,Medell¬°n,AMER,LATAM,General Motors,1041,Manufacturing,Strategic,ContactMatcher,0J0P3L6Q4Z,6.46,2,0,3.1654
+6968,AMER-2022-157161,7/17/2022,20220717,Tim Morrison,Colombia,Medell¬°n,AMER,LATAM,General Motors,1041,Manufacturing,Strategic,Support,D4924FX8QU,60.12,9,0,28.8576
 6969,EMEA-2021-110765,10/16/2021,20211016,Irene Duncan,United Kingdom,London,EMEA,UKIR,Comcast,1022,Communications,Strategic,Site Analytics,ZPP8IO5W3F,824.97,3,0,214.4922
 6970,AMER-2022-163937,1/10/2022,20220110,Joanne Davies,Canada,Winnipeg,AMER,NAMER,Tyson Foods,1088,Consumer Products,SMB,SaaS Connector Pack,ULDN08TM0O,24.85,5,0,7.7035
 6971,AMER-2023-153822,9/20/2023,20230920,Carolyn Parr,Chile,Santiago,AMER,LATAM,Valero Energy,1093,Energy,SMB,Marketing Suite - Gold,5BT5UBZDAM,12.624,2,0.2,-2.5248
@@ -7027,7 +7027,7 @@ Row ID,Order ID,Order Date,Date Key,Contact Name,Country,City,Region,Subregion,C
 7026,EMEA-2023-101840,2/7/2023,20230207,Dan Tucker,United Kingdom,London,EMEA,UKIR,Cigna,1038,Healthcare,Strategic,Site Analytics,08BHVU3OAX,227.46,6,0,65.9634
 7027,EMEA-2023-101840,2/7/2023,20230207,Dan Tucker,United Kingdom,London,EMEA,UKIR,Cigna,1038,Healthcare,Strategic,ContactMatcher,FWU8ZGSU4P,46.24,4,0.2,15.606
 7028,EMEA-2023-131653,1/30/2023,20230130,Emily Ogden,United Kingdom,London,EMEA,UKIR,Cigna,1038,Healthcare,SMB,FinanceHub,1F4KUTHEC4,5.22,2,0,2.4012
-7029,AMER-2022-157840,12/21/2022,20221221,Alexandra Morrison,Costa Rica,San JosÇ,AMER,LATAM,Humana,1049,Healthcare,SMB,Support,Y8RBCHVYZ1,33.9,5,0,15.594
+7029,AMER-2022-157840,12/21/2022,20221221,Alexandra Morrison,Costa Rica,San Jos‚Äö,AMER,LATAM,Humana,1049,Healthcare,SMB,Support,Y8RBCHVYZ1,33.9,5,0,15.594
 7030,EMEA-2022-145548,11/12/2022,20221112,Peter Knox,United Kingdom,London,EMEA,UKIR,Sprint Nextel,1081,Communications,Strategic,Marketing Suite - Gold,ZC6NUVZC3K,28.14,3,0,7.8792
 7031,EMEA-2022-145548,11/12/2022,20221112,Peter Knox,United Kingdom,London,EMEA,UKIR,Sprint Nextel,1081,Communications,Strategic,Data Smasher,LHK7CK2Q5A,36,2,0,6.48
 7032,EMEA-2022-145548,11/12/2022,20221112,Peter Knox,United Kingdom,London,EMEA,UKIR,Sprint Nextel,1081,Communications,Strategic,ChatBot Plugin,AP5L7AMI49,92.94,3,0,25.0938
@@ -7251,7 +7251,7 @@ Row ID,Order ID,Order Date,Date Key,Contact Name,Country,City,Region,Subregion,C
 7250,AMER-2021-158491,6/4/2021,20210604,Rachel Blake,United States,New York City,AMER,NAMER,Humana,1049,Healthcare,SMB,Data Smasher,H5EFGI7GFH,119.98,2,0,35.994
 7251,AMER-2021-158491,6/4/2021,20210604,Rachel Blake,United States,New York City,AMER,NAMER,Humana,1049,Healthcare,SMB,Data Smasher,QS8L2NORN5,989.97,3,0,395.988
 7252,EMEA-2022-116764,8/28/2022,20220828,Max Hardacre,Germany,Frankfurt,EMEA,EU-WEST,China National Petroleum,1023,Energy,Strategic,FinanceHub,V5219TGMWD,9.216,4,0.2,3.3408
-7253,AMER-2022-152457,9/13/2022,20220913,Kevin Mitchell,Brazil,Bras°lia,AMER,LATAM,Fannie Mae,1035,Finance,Strategic,Support,QBU4TB8LZM,68.52,3,0,31.5192
+7253,AMER-2022-152457,9/13/2022,20220913,Kevin Mitchell,Brazil,Bras¬°lia,AMER,LATAM,Fannie Mae,1035,Finance,Strategic,Support,QBU4TB8LZM,68.52,3,0,31.5192
 7254,EMEA-2022-152730,5/31/2022,20220531,Alan Berry,Italy,Bari,EMEA,EU,Home Depot,1047,Retail,Enterprise,OneView,6Z7VJ6CQ81,364.74,3,0,109.422
 7255,EMEA-2022-152730,5/31/2022,20220531,Alan Berry,Italy,Bari,EMEA,EU,Home Depot,1047,Retail,Enterprise,SaaS Connector Pack,7QQCU3YD28,47.4,5,0,21.33
 7256,EMEA-2022-152730,5/31/2022,20220531,Alan Berry,Italy,Bari,EMEA,EU,Home Depot,1047,Retail,Enterprise,Marketing Suite - Gold,BFFPAIHKFW,49.76,4,0,13.9328
@@ -7271,8 +7271,8 @@ Row ID,Order ID,Order Date,Date Key,Contact Name,Country,City,Region,Subregion,C
 7270,EMEA-2022-133368,1/14/2022,20220114,Richard Lyman,Sweden,Gothenburg,EMEA,NOR,Bank of America Corp.,1011,Finance,SMB,SaaS Connector Pack,SK0J5X6ER0,315.776,8,0.2,31.5776
 7271,AMER-2022-123337,9/17/2022,20220917,William May,United States,Chicago,AMER,NAMER,AT&T,1010,Communications,Strategic,Marketing Suite,7WHVO0RXO3,273.666,2,0.15,-12.8784
 7272,AMER-2022-123337,9/17/2022,20220917,William May,United States,Chicago,AMER,NAMER,AT&T,1010,Communications,Strategic,OneView,DX370ETWB1,17.48,4,0,4.5448
-7273,EMEA-2022-150357,10/11/2022,20221011,Justin Walker,Sweden,Malmî,EMEA,NOR,Aviva,1006,Finance,Strategic,Support,XC8UI2IWVP,20.608,2,0.2,-4.3792
-7274,EMEA-2022-150357,10/11/2022,20221011,Justin Walker,Sweden,Malmî,EMEA,NOR,Aviva,1006,Finance,Strategic,ContactMatcher,DLAZZU9122,4.095,3,0.7,-2.73
+7273,EMEA-2022-150357,10/11/2022,20221011,Justin Walker,Sweden,Malm‚Äù,EMEA,NOR,Aviva,1006,Finance,Strategic,Support,XC8UI2IWVP,20.608,2,0.2,-4.3792
+7274,EMEA-2022-150357,10/11/2022,20221011,Justin Walker,Sweden,Malm‚Äù,EMEA,NOR,Aviva,1006,Finance,Strategic,ContactMatcher,DLAZZU9122,4.095,3,0.7,-2.73
 7275,EMEA-2021-144519,11/13/2021,20211113,Donna Bailey,Netherlands,The Hague,EMEA,EU-WEST,Exxon Mobil,1034,Energy,Enterprise,Site Analytics,T9KJUPPORG,339.96,5,0.2,42.495
 7276,EMEA-2021-144519,11/13/2021,20211113,Donna Bailey,Netherlands,The Hague,EMEA,EU-WEST,Exxon Mobil,1034,Energy,Enterprise,SaaS Connector Pack,XQPMCJ067K,63.98,7,0,21.7532
 7277,EMEA-2020-120670,11/2/2020,20201102,Warren McGrath,Germany,Stuttgart,EMEA,EU-WEST,Huawei,1086,Tech,Enterprise,Data Smasher,XWECHPW21J,799.92,10,0.2,239.976
@@ -7378,16 +7378,16 @@ Row ID,Order ID,Order Date,Date Key,Contact Name,Country,City,Region,Subregion,C
 7377,APJ-2023-145597,11/3/2023,20231103,Jennifer Dowd,Australia,Geelong,APJ,ANZ,Gazprom,1027,Energy,Strategic,ChatBot Plugin,SMYE48J3Z6,54.336,4,0.2,5.4336
 7378,AMER-2020-132787,9/19/2020,20200919,Jonathan Marshall,Canada,Toronto,AMER,NAMER,Royal Dutch Shell,1031,Energy,Strategic,Marketing Suite - Gold,1NI4FYS07D,92.52,6,0,24.9804
 7379,EMEA-2021-136224,5/31/2021,20210531,Julian Newman,Sweden,Gothenburg,EMEA,NOR,Coca-Cola,1021,Consumer Products,SMB,ChatBot Plugin,S7515DO1ZA,10.272,3,0.2,1.1556
-7380,AMER-2022-105732,9/14/2022,20220914,Carol Campbell,Costa Rica,San JosÇ,AMER,LATAM,Home Depot,1047,Retail,SMB,Marketing Suite - Gold,PNLJHKFUR6,40.74,3,0,0.4074
-7381,AMER-2022-105732,9/14/2022,20220914,Carol Campbell,Costa Rica,San JosÇ,AMER,LATAM,Home Depot,1047,Retail,SMB,FinanceHub,2DIT3M6PD1,14.4,5,0,7.056
-7382,AMER-2022-105732,9/14/2022,20220914,Carol Campbell,Costa Rica,San JosÇ,AMER,LATAM,Home Depot,1047,Retail,SMB,Site Analytics,LIQFF8AT73,149.95,5,0,41.986
-7383,AMER-2022-105732,9/14/2022,20220914,Carol Campbell,Costa Rica,San JosÇ,AMER,LATAM,Home Depot,1047,Retail,SMB,Support,QC41S9XVO5,16.9,2,0,5.07
-7384,AMER-2022-105732,9/14/2022,20220914,Carol Campbell,Costa Rica,San JosÇ,AMER,LATAM,Home Depot,1047,Retail,SMB,Support,KQJ9E4GNES,17.61,3,0,8.4528
-7385,AMER-2022-105732,9/14/2022,20220914,Carol Campbell,Costa Rica,San JosÇ,AMER,LATAM,Home Depot,1047,Retail,SMB,OneView,G05ADHYEUC,378,2,0,136.08
-7386,AMER-2022-105732,9/14/2022,20220914,Carol Campbell,Costa Rica,San JosÇ,AMER,LATAM,Home Depot,1047,Retail,SMB,Support,L34TIBX6X8,17.64,3,0,8.6436
-7387,AMER-2022-105732,9/14/2022,20220914,Carol Campbell,Costa Rica,San JosÇ,AMER,LATAM,Home Depot,1047,Retail,SMB,Marketing Suite - Gold,KDREK7GT44,373.08,6,0,100.7316
-7388,AMER-2022-105732,9/14/2022,20220914,Carol Campbell,Costa Rica,San JosÇ,AMER,LATAM,Home Depot,1047,Retail,SMB,SaaS Connector Pack,FUOZOJSRQQ,1336.44,14,0,387.5676
-7389,AMER-2022-105732,9/14/2022,20220914,Carol Campbell,Costa Rica,San JosÇ,AMER,LATAM,Home Depot,1047,Retail,SMB,Site Analytics,0IE01S8T5J,29.97,3,0,0.2997
+7380,AMER-2022-105732,9/14/2022,20220914,Carol Campbell,Costa Rica,San Jos‚Äö,AMER,LATAM,Home Depot,1047,Retail,SMB,Marketing Suite - Gold,PNLJHKFUR6,40.74,3,0,0.4074
+7381,AMER-2022-105732,9/14/2022,20220914,Carol Campbell,Costa Rica,San Jos‚Äö,AMER,LATAM,Home Depot,1047,Retail,SMB,FinanceHub,2DIT3M6PD1,14.4,5,0,7.056
+7382,AMER-2022-105732,9/14/2022,20220914,Carol Campbell,Costa Rica,San Jos‚Äö,AMER,LATAM,Home Depot,1047,Retail,SMB,Site Analytics,LIQFF8AT73,149.95,5,0,41.986
+7383,AMER-2022-105732,9/14/2022,20220914,Carol Campbell,Costa Rica,San Jos‚Äö,AMER,LATAM,Home Depot,1047,Retail,SMB,Support,QC41S9XVO5,16.9,2,0,5.07
+7384,AMER-2022-105732,9/14/2022,20220914,Carol Campbell,Costa Rica,San Jos‚Äö,AMER,LATAM,Home Depot,1047,Retail,SMB,Support,KQJ9E4GNES,17.61,3,0,8.4528
+7385,AMER-2022-105732,9/14/2022,20220914,Carol Campbell,Costa Rica,San Jos‚Äö,AMER,LATAM,Home Depot,1047,Retail,SMB,OneView,G05ADHYEUC,378,2,0,136.08
+7386,AMER-2022-105732,9/14/2022,20220914,Carol Campbell,Costa Rica,San Jos‚Äö,AMER,LATAM,Home Depot,1047,Retail,SMB,Support,L34TIBX6X8,17.64,3,0,8.6436
+7387,AMER-2022-105732,9/14/2022,20220914,Carol Campbell,Costa Rica,San Jos‚Äö,AMER,LATAM,Home Depot,1047,Retail,SMB,Marketing Suite - Gold,KDREK7GT44,373.08,6,0,100.7316
+7388,AMER-2022-105732,9/14/2022,20220914,Carol Campbell,Costa Rica,San Jos‚Äö,AMER,LATAM,Home Depot,1047,Retail,SMB,SaaS Connector Pack,FUOZOJSRQQ,1336.44,14,0,387.5676
+7389,AMER-2022-105732,9/14/2022,20220914,Carol Campbell,Costa Rica,San Jos‚Äö,AMER,LATAM,Home Depot,1047,Retail,SMB,Site Analytics,0IE01S8T5J,29.97,3,0,0.2997
 7390,EMEA-2023-108035,11/30/2023,20231130,Joanne Carr,South Africa,Johannesburg,EMEA,MEA,J.P. Morgan Chase & Co.,1054,Finance,SMB,FinanceHub,CXTI4VABP7,390.368,2,0.2,48.796
 7391,EMEA-2023-108035,11/30/2023,20231130,Joanne Carr,South Africa,Johannesburg,EMEA,MEA,J.P. Morgan Chase & Co.,1054,Finance,SMB,SaaS Connector Pack,SR748H8D3X,101.52,5,0.2,19.035
 7392,AMER-2023-160031,12/5/2023,20231205,Bella Payne,Mexico,Tijuana,AMER,LATAM,AmerisourceBergen,1007,Healthcare,SMB,Support,2MNA1MA3J7,74.352,3,0.2,23.235
@@ -7577,9 +7577,9 @@ Row ID,Order ID,Order Date,Date Key,Contact Name,Country,City,Region,Subregion,C
 7576,AMER-2021-129532,12/8/2021,20211208,Rose Hill,United States,New York City,AMER,NAMER,Bank of America Corp.,1011,Finance,Strategic,Data Smasher,W1IOC5HSTG,236,4,0,40.12
 7577,AMER-2020-134726,11/2/2020,20201102,Bella Wallace,Canada,Toronto,AMER,NAMER,Pemex,1058,Energy,Strategic,Data Smasher,8ULLQRNAWN,41.94,2,0,15.0984
 7578,AMER-2020-134726,11/2/2020,20201102,Bella Wallace,Canada,Toronto,AMER,NAMER,Pemex,1058,Energy,Strategic,Site Analytics,KWJI7J8XTL,52.792,1,0.2,4.6193
-7579,AMER-2022-138597,12/19/2022,20221219,Max Marshall,Costa Rica,San JosÇ,AMER,LATAM,Boeing,1014,Manufacturing,Enterprise,FinanceHub,GCECCBJZ5Q,563.94,3,0,112.788
-7580,AMER-2021-123113,11/23/2021,20211123,Grace Hodges,Argentina,C¢rdoba,AMER,LATAM,Home Depot,1047,Retail,SMB,OneView,0ZYT41F8IA,2625.12,8,0,735.0336
-7581,AMER-2021-123113,11/23/2021,20211123,Grace Hodges,Argentina,C¢rdoba,AMER,LATAM,Home Depot,1047,Retail,SMB,ChatBot Plugin,FP66SM01L9,17.94,3,0,4.485
+7579,AMER-2022-138597,12/19/2022,20221219,Max Marshall,Costa Rica,San Jos‚Äö,AMER,LATAM,Boeing,1014,Manufacturing,Enterprise,FinanceHub,GCECCBJZ5Q,563.94,3,0,112.788
+7580,AMER-2021-123113,11/23/2021,20211123,Grace Hodges,Argentina,C¬¢rdoba,AMER,LATAM,Home Depot,1047,Retail,SMB,OneView,0ZYT41F8IA,2625.12,8,0,735.0336
+7581,AMER-2021-123113,11/23/2021,20211123,Grace Hodges,Argentina,C¬¢rdoba,AMER,LATAM,Home Depot,1047,Retail,SMB,ChatBot Plugin,FP66SM01L9,17.94,3,0,4.485
 7582,EMEA-2021-169656,8/13/2021,20210813,Joshua Short,France,Paris,EMEA,EU-WEST,Kroger,1057,Retail,SMB,Marketing Suite - Gold,66C1Z53VIT,422.856,3,0.2,15.8571
 7583,EMEA-2021-142734,4/16/2021,20210416,Liam Robertson,United Kingdom,London,EMEA,UKIR,Walt Disney,1097,Communications,Strategic,FinanceHub,PHV65NVTLX,127.764,2,0.1,2.8392
 7584,EMEA-2020-163223,3/21/2020,20200321,Zoe Avery,Spain,Barcelona,EMEA,EU-WEST,Apple,1008,Tech,Strategic,Site Analytics,RSIXAY02WN,3499.93,7,0,909.9818
@@ -7658,7 +7658,7 @@ Row ID,Order ID,Order Date,Date Key,Contact Name,Country,City,Region,Subregion,C
 7657,AMER-2020-120740,4/15/2020,20200415,Eric McLean,United States,New York City,AMER,NAMER,Abbott Laboratories,1001,Healthcare,Enterprise,OneView,E3YP2RB5CT,106.96,2,0,31.0184
 7658,AMER-2020-120740,4/15/2020,20200415,Eric McLean,United States,New York City,AMER,NAMER,Abbott Laboratories,1001,Healthcare,Enterprise,SaaS Connector Pack,5C3W1ZADCH,187.76,4,0,76.9816
 7659,AMER-2023-155740,7/31/2023,20230731,Emma Langdon,Mexico,Tijuana,AMER,LATAM,Samsung Electronics,1015,Tech,Enterprise,ContactMatcher,JMAUIMTLA5,76.776,4,0.7,-53.7432
-7660,AMER-2023-146493,6/2/2023,20230602,Luke Mills,Costa Rica,San JosÇ,AMER,LATAM,Prudential Financial,1078,Finance,Strategic,ContactMatcher,9AZ4FXJ6DR,53.9,5,0,25.872
+7660,AMER-2023-146493,6/2/2023,20230602,Luke Mills,Costa Rica,San Jos‚Äö,AMER,LATAM,Prudential Financial,1078,Finance,Strategic,ContactMatcher,9AZ4FXJ6DR,53.9,5,0,25.872
 7661,APJ-2020-105417,1/8/2020,20200108,Simon Hart,Japan,Kanagawa,APJ,JAPN,Nestle,1089,Consumer Products,SMB,SaaS Connector Pack,ULJE83ECK7,76.728,3,0.6,-53.7096
 7662,APJ-2020-105417,1/8/2020,20200108,Simon Hart,Japan,Kanagawa,APJ,JAPN,Nestle,1089,Consumer Products,SMB,ContactMatcher,5MLMIPTGXP,10.43,7,0.8,-18.2525
 7663,AMER-2023-141509,9/30/2023,20230930,Jake Mackenzie,United States,New York City,AMER,NAMER,Glencore,1083,Misc,SMB,ChatBot Plugin,OIDV4VYAVM,99.2,5,0,25.792
@@ -7681,8 +7681,8 @@ Row ID,Order ID,Order Date,Date Key,Contact Name,Country,City,Region,Subregion,C
 7680,EMEA-2020-133592,12/31/2020,20201231,Sue Parsons,Norway,Oslo,EMEA,NOR,Walt Disney,1097,Communications,Enterprise,Data Smasher,BZ8FN9FOX3,1687.8,4,0,742.632
 7681,EMEA-2020-133592,12/31/2020,20201231,Sue Parsons,Norway,Oslo,EMEA,NOR,Walt Disney,1097,Communications,Enterprise,Marketing Suite,A5KVN07JRV,341.96,2,0,78.6508
 7682,EMEA-2020-133592,12/31/2020,20201231,Sue Parsons,Norway,Oslo,EMEA,NOR,Walt Disney,1097,Communications,Enterprise,FinanceHub,K2DOQS9Z34,605.88,6,0,151.47
-7683,AMER-2021-120782,4/28/2021,20210428,Victoria Nash,Brazil,Bras°lia,AMER,LATAM,BMW,1039,Manufacturing,Enterprise,OneView,YNZTDMGN9E,186.732,1,0.1,41.496
-7684,AMER-2021-120782,4/28/2021,20210428,Victoria Nash,Brazil,Bras°lia,AMER,LATAM,BMW,1039,Manufacturing,Enterprise,ContactMatcher,0S6VIHBUL5,3812.97,3,0,1906.485
+7683,AMER-2021-120782,4/28/2021,20210428,Victoria Nash,Brazil,Bras¬°lia,AMER,LATAM,BMW,1039,Manufacturing,Enterprise,OneView,YNZTDMGN9E,186.732,1,0.1,41.496
+7684,AMER-2021-120782,4/28/2021,20210428,Victoria Nash,Brazil,Bras¬°lia,AMER,LATAM,BMW,1039,Manufacturing,Enterprise,ContactMatcher,0S6VIHBUL5,3812.97,3,0,1906.485
 7685,EMEA-2021-116876,2/14/2021,20210214,Joanne Carr,United Kingdom,Liverpool,EMEA,UKIR,J.P. Morgan Chase & Co.,1054,Finance,SMB,ContactMatcher,33DLXP94K8,26.424,9,0.2,9.5787
 7686,EMEA-2021-116876,2/14/2021,20210214,Joanne Carr,United Kingdom,Liverpool,EMEA,UKIR,J.P. Morgan Chase & Co.,1054,Finance,SMB,Site Analytics,H0T6S3JVFO,625.99,1,0,187.797
 7687,AMER-2022-169838,11/26/2022,20221126,Chloe Underwood,Brazil,Rio de Janeiro,AMER,LATAM,American Express,1005,Finance,Strategic,ContactMatcher,BHK1OFR85Y,1568.61,9,0,329.4081
@@ -7893,9 +7893,9 @@ Row ID,Order ID,Order Date,Date Key,Contact Name,Country,City,Region,Subregion,C
 7892,EMEA-2022-148684,12/26/2022,20221226,Katherine Watson,United Arab Emirates,Dubai,EMEA,MEA,Tyson Foods,1088,Consumer Products,SMB,SaaS Connector Pack,7ONJJ8LCEG,343.85,5,0,137.54
 7893,EMEA-2022-148684,12/26/2022,20221226,Katherine Watson,United Arab Emirates,Dubai,EMEA,MEA,Tyson Foods,1088,Consumer Products,SMB,Support,0SVS3LAXU5,106.32,3,0,49.9704
 7894,EMEA-2023-125367,7/24/2023,20230724,Boris Underwood,United Kingdom,London,EMEA,UKIR,Itochu,1032,Finance,Enterprise,ContactMatcher,BKB3OJFS6P,13.92,3,0.2,4.35
-7895,EMEA-2023-124744,6/22/2023,20230622,Kevin Rampling,Iceland,Reykjav°k,EMEA,EU-WEST,Philip Morris International,1075,Consumer Products,Enterprise,ContactMatcher,WCVZU5EH6O,82.4,5,0,40.376
-7896,EMEA-2023-124744,6/22/2023,20230622,Kevin Rampling,Iceland,Reykjav°k,EMEA,EU-WEST,Philip Morris International,1075,Consumer Products,Enterprise,ContactMatcher,G1PYZOJ8GM,6.24,2,0,3.0576
-7897,EMEA-2023-124744,6/22/2023,20230622,Kevin Rampling,Iceland,Reykjav°k,EMEA,EU-WEST,Philip Morris International,1075,Consumer Products,Enterprise,Support,4IVT0XRNDO,447.84,8,0,219.4416
+7895,EMEA-2023-124744,6/22/2023,20230622,Kevin Rampling,Iceland,Reykjav¬°k,EMEA,EU-WEST,Philip Morris International,1075,Consumer Products,Enterprise,ContactMatcher,WCVZU5EH6O,82.4,5,0,40.376
+7896,EMEA-2023-124744,6/22/2023,20230622,Kevin Rampling,Iceland,Reykjav¬°k,EMEA,EU-WEST,Philip Morris International,1075,Consumer Products,Enterprise,ContactMatcher,G1PYZOJ8GM,6.24,2,0,3.0576
+7897,EMEA-2023-124744,6/22/2023,20230622,Kevin Rampling,Iceland,Reykjav¬°k,EMEA,EU-WEST,Philip Morris International,1075,Consumer Products,Enterprise,Support,4IVT0XRNDO,447.84,8,0,219.4416
 7898,EMEA-2023-128363,8/14/2023,20230814,Joshua Glover,South Africa,Cape Town,EMEA,MEA,Sprint Nextel,1081,Communications,SMB,OneView,N2VB9E4US2,272.048,7,0.2,30.6054
 7899,EMEA-2023-128363,8/14/2023,20230814,Joshua Glover,South Africa,Cape Town,EMEA,MEA,Sprint Nextel,1081,Communications,SMB,ContactMatcher,6IVW7UPRQZ,1614.582,6,0.7,-1237.8462
 7900,EMEA-2023-128363,8/14/2023,20230814,Joshua Glover,South Africa,Cape Town,EMEA,MEA,Sprint Nextel,1081,Communications,SMB,Storage,SL2N0AZDJL,24.32,5,0.2,9.12
@@ -8258,9 +8258,9 @@ Row ID,Order ID,Order Date,Date Key,Contact Name,Country,City,Region,Subregion,C
 8257,AMER-2023-152310,8/13/2023,20230813,Boris Vance,Canada,Toronto,AMER,NAMER,State Farm Insurance Cos.,1082,Finance,SMB,Marketing Suite - Gold,J8QZBRAISD,46.74,3,0,11.685
 8258,AMER-2023-152310,8/13/2023,20230813,Boris Vance,Canada,Toronto,AMER,NAMER,State Farm Insurance Cos.,1082,Finance,SMB,Data Smasher,WED6CH8FFU,174.95,5,0,12.2465
 8259,AMER-2023-152310,8/13/2023,20230813,Boris Vance,Canada,Toronto,AMER,NAMER,State Farm Insurance Cos.,1082,Finance,SMB,ContactMatcher,FW8QPM9Z1X,100.704,6,0.2,37.764
-8260,AMER-2022-118101,6/27/2022,20220627,Jan Hemmings,Brazil,Bras°lia,AMER,LATAM,Mitsubishi,1050,Manufacturing,Enterprise,Support,F5W52R74WZ,368.91,9,0,180.7659
-8261,AMER-2022-118101,6/27/2022,20220627,Jan Hemmings,Brazil,Bras°lia,AMER,LATAM,Mitsubishi,1050,Manufacturing,Enterprise,ContactMatcher,Y55WSK5XFF,8.02,1,0,3.7694
-8262,AMER-2022-118101,6/27/2022,20220627,Jan Hemmings,Brazil,Bras°lia,AMER,LATAM,Mitsubishi,1050,Manufacturing,Enterprise,Marketing Suite - Gold,POEUG1IWWX,171.04,4,0,44.4704
+8260,AMER-2022-118101,6/27/2022,20220627,Jan Hemmings,Brazil,Bras¬°lia,AMER,LATAM,Mitsubishi,1050,Manufacturing,Enterprise,Support,F5W52R74WZ,368.91,9,0,180.7659
+8261,AMER-2022-118101,6/27/2022,20220627,Jan Hemmings,Brazil,Bras¬°lia,AMER,LATAM,Mitsubishi,1050,Manufacturing,Enterprise,ContactMatcher,Y55WSK5XFF,8.02,1,0,3.7694
+8262,AMER-2022-118101,6/27/2022,20220627,Jan Hemmings,Brazil,Bras¬°lia,AMER,LATAM,Mitsubishi,1050,Manufacturing,Enterprise,Marketing Suite - Gold,POEUG1IWWX,171.04,4,0,44.4704
 8263,EMEA-2022-100307,12/16/2022,20221216,Emma Langdon,United Arab Emirates,Dubai,EMEA,MEA,Samsung Electronics,1015,Tech,Enterprise,Support,TH4R0TNBXY,19.44,3,0,9.3312
 8264,EMEA-2021-138457,9/13/2021,20210913,Joanne Blake,Sweden,Gothenburg,EMEA,NOR,PepsiCo,1073,Consumer Products,SMB,ContactMatcher,8DKEHZC5L5,13.092,4,0.7,-10.0372
 8265,EMEA-2020-131800,12/30/2020,20201230,Adam James,United Kingdom,London,EMEA,UKIR,Oracle,1072,Tech,SMB,OneView,OWTPXJYI53,122.94,3,0,30.735
@@ -8426,7 +8426,7 @@ Row ID,Order ID,Order Date,Date Key,Contact Name,Country,City,Region,Subregion,C
 8425,AMER-2023-150091,10/13/2023,20231013,Stewart Marshall,Argentina,Buenos Aires,AMER,LATAM,Daimler,1052,Transportation,SMB,Marketing Suite,I73GEXV25H,2154.9,5,0,129.294
 8426,AMER-2022-137652,8/29/2022,20220829,Peter Knox,Mexico,Guadalajara,AMER,LATAM,Sprint Nextel,1081,Communications,Strategic,ContactMatcher,C5IFMYAB28,18.432,8,0.7,-12.288
 8427,EMEA-2021-128356,10/2/2021,20211002,Simon Payne,Russia,Moscow,EMEA,EU-EAST,Tyson Foods,1088,Consumer Products,SMB,Support,77MYTO2S6M,10.944,2,0.2,0.9576
-8428,AMER-2023-167017,11/24/2023,20231124,Joshua Glover,Brazil,Bras°lia,AMER,LATAM,Sprint Nextel,1081,Communications,SMB,Support,2MSPS77Y2V,4.36,2,0,0.1744
+8428,AMER-2023-167017,11/24/2023,20231124,Joshua Glover,Brazil,Bras¬°lia,AMER,LATAM,Sprint Nextel,1081,Communications,SMB,Support,2MSPS77Y2V,4.36,2,0,0.1744
 8429,AMER-2023-132220,11/13/2023,20231113,Fiona Allan,Chile,Puente Alto,AMER,LATAM,Ford Motor,1009,Manufacturing,Strategic,Data Smasher,HDC9D69N8G,62.352,6,0.2,-10.9116
 8430,EMEA-2022-118129,12/20/2022,20221220,Alexandra Dyer,France,Lyon,EMEA,EU-WEST,Walmart,1096,Retail,SMB,SaaS Connector Pack,VVTWODRBEQ,303.92,5,0.2,-30.392
 8431,EMEA-2020-113124,3/30/2020,20200330,Claire Springer,Luxembourg,Luxembourg,EMEA,EU-WEST,Airbus,1030,Manufacturing,SMB,Marketing Suite - Gold,23K398KCAK,129.3,2,0,6.465
@@ -8479,7 +8479,7 @@ Row ID,Order ID,Order Date,Date Key,Contact Name,Country,City,Region,Subregion,C
 8478,EMEA-2021-145758,10/30/2021,20211030,Colin Bell,United Kingdom,London,EMEA,UKIR,Enel,1013,Energy,Strategic,Big Ol Database,7OCNMPU0GR,1035.8,4,0,269.308
 8479,AMER-2023-158736,12/19/2023,20231219,Dan Rutherford,United States,Los Angeles,AMER,NAMER,Phillips 66,1056,Energy,Enterprise,ChatBot Plugin,IZVHNBAMOM,5.76,2,0,1.6704
 8480,AMER-2022-119270,3/13/2022,20220313,Connor Nolan,United States,New York City,AMER,NAMER,Allianz,1080,Finance,SMB,Support,MZG8H52433,19.98,2,0,8.991
-8481,AMER-2020-109890,7/21/2020,20200721,Charles Churchill,Costa Rica,San JosÇ,AMER,LATAM,Lowes,1060,Retail,SMB,Site Analytics,LGHA2Z9XUE,35.98,2,0,10.0744
+8481,AMER-2020-109890,7/21/2020,20200721,Charles Churchill,Costa Rica,San Jos‚Äö,AMER,LATAM,Lowes,1060,Retail,SMB,Site Analytics,LGHA2Z9XUE,35.98,2,0,10.0744
 8482,EMEA-2022-138583,5/25/2022,20220525,Rose Dyer,France,Paris,EMEA,EU-WEST,Apple,1008,Tech,Enterprise,ChatBot Plugin,PMLIM6PL6Z,16.656,3,0.2,3.3312
 8483,EMEA-2023-118535,2/12/2023,20230212,Fiona Allan,United Kingdom,London,EMEA,UKIR,Ford Motor,1009,Manufacturing,Strategic,FinanceHub,E3LOTG0VDS,20.7,2,0,9.936
 8484,AMER-2022-126284,9/21/2022,20220921,Frank Metcalfe,Brazil,S?o Paulo,AMER,LATAM,Itochu,1032,Finance,SMB,ContactMatcher,W5BJQBU588,83.7,5,0,41.013
@@ -8876,8 +8876,8 @@ Row ID,Order ID,Order Date,Date Key,Contact Name,Country,City,Region,Subregion,C
 8875,APJ-2023-142489,11/15/2023,20231115,Keith Paige,Japan,Tokyo,APJ,JAPN,Bank of America Corp.,1011,Finance,SMB,ContactMatcher,WKWMDXPJXT,21.99,5,0.8,-32.985
 8876,APJ-2022-141264,8/14/2022,20220814,Owen Ellison,Japan,Tokyo,APJ,JAPN,Johnson & Johnson,1055,Healthcare,SMB,Support,LUFLDV6L39,185.376,2,0.2,-34.758
 8877,APJ-2022-141264,8/14/2022,20220814,Owen Ellison,Japan,Tokyo,APJ,JAPN,Johnson & Johnson,1055,Healthcare,SMB,OneView,OS4VJXOOEC,58.924,1,0.8,-153.2024
-8878,AMER-2023-126928,9/18/2023,20230918,Penelope Peake,Argentina,C¢rdoba,AMER,LATAM,Trafigura Group,1100,Finance,SMB,Big Ol Database,7EXGHOR420,480,4,0,225.6
-8879,AMER-2023-126928,9/18/2023,20230918,Penelope Peake,Argentina,C¢rdoba,AMER,LATAM,Trafigura Group,1100,Finance,SMB,Marketing Suite - Gold,3SFG6LPAVK,34.05,3,0,9.534
+8878,AMER-2023-126928,9/18/2023,20230918,Penelope Peake,Argentina,C¬¢rdoba,AMER,LATAM,Trafigura Group,1100,Finance,SMB,Big Ol Database,7EXGHOR420,480,4,0,225.6
+8879,AMER-2023-126928,9/18/2023,20230918,Penelope Peake,Argentina,C¬¢rdoba,AMER,LATAM,Trafigura Group,1100,Finance,SMB,Marketing Suite - Gold,3SFG6LPAVK,34.05,3,0,9.534
 8880,AMER-2021-107944,3/23/2021,20210323,Kimberly North,United States,New York City,AMER,NAMER,Carrefour,1048,Retail,Strategic,Support,DI1INAMAJA,192.72,11,0,92.5056
 8881,AMER-2021-107944,3/23/2021,20210323,Kimberly North,United States,New York City,AMER,NAMER,Carrefour,1048,Retail,Strategic,Data Smasher,ZA74VCFFK2,239.97,3,0,86.3892
 8882,APJ-2022-135594,7/1/2022,20220701,Alexander Pullman,Australia,Melbourne,APJ,ANZ,Ford Motor,1009,Manufacturing,Enterprise,Data Smasher,3IXQXBNZ1P,50.12,7,0.2,-0.6265
@@ -9076,7 +9076,7 @@ Row ID,Order ID,Order Date,Date Key,Contact Name,Country,City,Region,Subregion,C
 9075,EMEA-2020-136336,4/21/2020,20200421,Victoria Wilkins,Ireland,Dublin,EMEA,UKIR,Valero Energy,1093,Energy,Strategic,Marketing Suite - Gold,D20XU4XR1P,828.84,6,0,0
 9076,AMER-2021-136259,11/5/2021,20211105,Caroline Greene,Mexico,Mexico City,AMER,LATAM,Daimler,1052,Transportation,SMB,ContactMatcher,6ZV5CMBYSD,7.218,3,0.7,-5.5338
 9077,AMER-2021-136259,11/5/2021,20211105,Caroline Greene,Mexico,Mexico City,AMER,LATAM,Daimler,1052,Transportation,SMB,Support,81A4XX29BO,27.2,4,0.2,2.04
-9078,AMER-2020-124625,11/3/2020,20201103,Gordon Graham,Costa Rica,San JosÇ,AMER,LATAM,Engie,1062,Energy,Strategic,Data Smasher,S9J0AOCDO2,89.97,3,0,18.8937
+9078,AMER-2020-124625,11/3/2020,20201103,Gordon Graham,Costa Rica,San Jos‚Äö,AMER,LATAM,Engie,1062,Energy,Strategic,Data Smasher,S9J0AOCDO2,89.97,3,0,18.8937
 9079,EMEA-2022-108105,2/16/2022,20220216,Adrian Walker,Ireland,Dublin,EMEA,UKIR,Amazon,1004,Tech,SMB,SaaS Connector Pack,2BBTCNP0OE,318.08,4,0,34.9888
 9080,EMEA-2022-108105,2/16/2022,20220216,Adrian Walker,Ireland,Dublin,EMEA,UKIR,Amazon,1004,Tech,SMB,ContactMatcher,BXMGRY8132,5.8,1,0,2.61
 9081,AMER-2023-166898,9/12/2023,20230912,Sebastian Brown,United States,Atlanta,AMER,NAMER,Phillips 66,1056,Energy,Strategic,Site Analytics,GBJ5YBY0JI,143.952,6,0.2,17.994
@@ -9133,9 +9133,9 @@ Row ID,Order ID,Order Date,Date Key,Contact Name,Country,City,Region,Subregion,C
 9132,APJ-2023-100055,5/29/2023,20230529,Vanessa Metcalfe,China,Suzhou,APJ,APAC,AmerisourceBergen,1007,Healthcare,Strategic,SaaS Connector Pack,WDHVWMW8PG,27.46,2,0,9.8856
 9133,APJ-2023-100055,5/29/2023,20230529,Vanessa Metcalfe,China,Suzhou,APJ,APAC,AmerisourceBergen,1007,Healthcare,Strategic,OneView,WTV727THZW,125.13,3,0,36.2877
 9134,AMER-2021-157805,8/31/2021,20210831,Max Skinner,United States,Seattle,AMER,NAMER,Bank of America Corp.,1011,Finance,Enterprise,Site Analytics,WWQZEIPZHZ,555.96,5,0.2,41.697
-9135,EMEA-2022-124254,4/13/2022,20220413,Cameron Miller,Sweden,Malmî,EMEA,NOR,Tyson Foods,1088,Consumer Products,Strategic,Marketing Suite - Gold,JW54NSW1GP,129.552,3,0.2,-22.6716
-9136,EMEA-2022-124254,4/13/2022,20220413,Cameron Miller,Sweden,Malmî,EMEA,NOR,Tyson Foods,1088,Consumer Products,Strategic,Marketing Suite - Gold,CZQVFU9977,51.984,1,0.2,-5.1984
-9137,EMEA-2022-124254,4/13/2022,20220413,Cameron Miller,Sweden,Malmî,EMEA,NOR,Tyson Foods,1088,Consumer Products,Strategic,Support,TXD2JYXX59,10.272,3,0.2,3.4668
+9135,EMEA-2022-124254,4/13/2022,20220413,Cameron Miller,Sweden,Malm‚Äù,EMEA,NOR,Tyson Foods,1088,Consumer Products,Strategic,Marketing Suite - Gold,JW54NSW1GP,129.552,3,0.2,-22.6716
+9136,EMEA-2022-124254,4/13/2022,20220413,Cameron Miller,Sweden,Malm‚Äù,EMEA,NOR,Tyson Foods,1088,Consumer Products,Strategic,Marketing Suite - Gold,CZQVFU9977,51.984,1,0.2,-5.1984
+9137,EMEA-2022-124254,4/13/2022,20220413,Cameron Miller,Sweden,Malm‚Äù,EMEA,NOR,Tyson Foods,1088,Consumer Products,Strategic,Support,TXD2JYXX59,10.272,3,0.2,3.4668
 9138,EMEA-2020-123400,2/3/2020,20200203,John Jones,Germany,Leipzig,EMEA,EU-WEST,Panasonic,1091,Tech,SMB,ContactMatcher,XK3WZG8IHY,18.336,2,0.7,-12.224
 9139,EMEA-2020-123400,2/3/2020,20200203,John Jones,Germany,Leipzig,EMEA,EU-WEST,Panasonic,1091,Tech,SMB,Site Analytics,5MU45EXXUJ,180.96,5,0.2,13.572
 9140,APJ-2020-106971,9/2/2020,20200902,Isaac Robertson,Australia,Brisbane,APJ,ANZ,Daimler,1052,Transportation,SMB,Data Smasher,NMTTRI4GXH,475.944,7,0.2,95.1888
@@ -9199,8 +9199,8 @@ Row ID,Order ID,Order Date,Date Key,Contact Name,Country,City,Region,Subregion,C
 9198,AMER-2020-103310,5/10/2020,20200510,Una Mackay,United States,Chicago,AMER,NAMER,Intel,1051,Tech,SMB,Site Analytics,J619AAPNDK,1432,5,0.2,125.3
 9199,AMER-2020-103310,5/10/2020,20200510,Una Mackay,United States,Chicago,AMER,NAMER,Intel,1051,Tech,SMB,Support,I9H0XVSZ7G,41.04,6,0,11.0808
 9200,AMER-2020-103310,5/10/2020,20200510,Una Mackay,United States,Chicago,AMER,NAMER,Intel,1051,Tech,SMB,FinanceHub,S1JLGM9SFV,256.784,1,0.2,32.098
-9201,AMER-2022-152688,10/18/2022,20221018,Amelia Lee,Argentina,C¢rdoba,AMER,LATAM,Nestle,1089,Consumer Products,SMB,Marketing Suite,1GXCQZVUHQ,120.98,1,0,12.098
-9202,AMER-2022-152688,10/18/2022,20221018,Amelia Lee,Argentina,C¢rdoba,AMER,LATAM,Nestle,1089,Consumer Products,SMB,ContactMatcher,Z5UMTNIP6X,315.98,1,0,148.5106
+9201,AMER-2022-152688,10/18/2022,20221018,Amelia Lee,Argentina,C¬¢rdoba,AMER,LATAM,Nestle,1089,Consumer Products,SMB,Marketing Suite,1GXCQZVUHQ,120.98,1,0,12.098
+9202,AMER-2022-152688,10/18/2022,20221018,Amelia Lee,Argentina,C¬¢rdoba,AMER,LATAM,Nestle,1089,Consumer Products,SMB,ContactMatcher,Z5UMTNIP6X,315.98,1,0,148.5106
 9203,EMEA-2022-153836,10/31/2022,20221031,Maria James,United Kingdom,London,EMEA,UKIR,Allianz,1080,Finance,Strategic,ContactMatcher,5Z8O944G47,28.752,3,0.2,10.0632
 9204,EMEA-2022-153836,10/31/2022,20221031,Maria James,United Kingdom,London,EMEA,UKIR,Allianz,1080,Finance,Strategic,ChatBot Plugin,2Q8ZAC4V3G,114.95,5,0,32.186
 9205,AMER-2022-104689,12/2/2022,20221202,Diana Ince,United States,New York City,AMER,NAMER,Humana,1049,Healthcare,Strategic,ChatBot Plugin,2M86D00RRY,23.04,8,0,6.912
@@ -9455,8 +9455,8 @@ Row ID,Order ID,Order Date,Date Key,Contact Name,Country,City,Region,Subregion,C
 9454,AMER-2021-129546,9/28/2021,20210928,Edward Berry,United States,New York City,AMER,NAMER,Sony,1028,Tech,Strategic,Support,NHGA7Z5R0M,47.19,3,0,13.6851
 9455,AMER-2021-129546,9/28/2021,20210928,Edward Berry,United States,New York City,AMER,NAMER,Sony,1028,Tech,Strategic,Site Analytics,AW11JUOJQN,36.784,2,0.2,-8.2764
 9456,EMEA-2022-140977,6/17/2022,20220617,Evan Ogden,South Africa,Johannesburg,EMEA,MEA,Oracle,1072,Tech,Enterprise,Big Ol Database,6DRB9W40NH,91.475,1,0.5,-1.8295
-9457,EMEA-2023-151855,5/28/2023,20230528,Ian Butler,Sweden,Malmî,EMEA,NOR,China National Petroleum,1023,Energy,Strategic,Data Smasher,C27AMJQXPH,27.192,3,0.2,0.3399
-9458,EMEA-2023-151855,5/28/2023,20230528,Ian Butler,Sweden,Malmî,EMEA,NOR,China National Petroleum,1023,Energy,Strategic,ContactMatcher,7PJ5S3UKCT,12.06,5,0.7,-10.05
+9457,EMEA-2023-151855,5/28/2023,20230528,Ian Butler,Sweden,Malm‚Äù,EMEA,NOR,China National Petroleum,1023,Energy,Strategic,Data Smasher,C27AMJQXPH,27.192,3,0.2,0.3399
+9458,EMEA-2023-151855,5/28/2023,20230528,Ian Butler,Sweden,Malm‚Äù,EMEA,NOR,China National Petroleum,1023,Energy,Strategic,ContactMatcher,7PJ5S3UKCT,12.06,5,0.7,-10.05
 9459,AMER-2020-138240,10/9/2020,20201009,Justin Randall,United States,Los Angeles,AMER,NAMER,Wells Fargo,1099,Finance,SMB,ChatBot Plugin,F9XW44HDT6,144.6,3,0,41.934
 9460,AMER-2020-138240,10/9/2020,20201009,Justin Randall,United States,Los Angeles,AMER,NAMER,Wells Fargo,1099,Finance,SMB,Site Analytics,E8F1BMV7H8,15.992,1,0.2,-2.9985
 9461,EMEA-2020-101833,11/17/2020,20201117,Owen Scott,United Kingdom,London,EMEA,UKIR,News Corp.,1071,Misc,Enterprise,Support,LQL8XW76AS,34.44,3,0,17.22
@@ -9485,7 +9485,7 @@ Row ID,Order ID,Order Date,Date Key,Contact Name,Country,City,Region,Subregion,C
 9484,AMER-2020-122679,7/22/2020,20200722,Nathan Marshall,United States,New York City,AMER,NAMER,Royal Dutch Shell,1031,Energy,Enterprise,ChatBot Plugin,3A42S48BSP,19.68,6,0,6.4944
 9485,APJ-2022-164770,12/3/2022,20221203,Pippa Edmunds,Japan,Tokyo,APJ,JAPN,BNP Paribas,1065,Finance,Strategic,Marketing Suite,SHM8ULIB3T,781.864,10,0.32,-137.976
 9486,APJ-2022-164770,12/3/2022,20221203,Pippa Edmunds,Japan,Tokyo,APJ,JAPN,BNP Paribas,1065,Finance,Strategic,Support,GZDHKE6LGO,30.816,9,0.2,9.63
-9487,EMEA-2023-130505,10/13/2023,20231013,Sean Rees,Iceland,Reykjav°k,EMEA,EU-WEST,Walgreens,1095,Retail,SMB,ContactMatcher,7SOKXN9SL3,673.344,3,0.3,-76.9536
+9487,EMEA-2023-130505,10/13/2023,20231013,Sean Rees,Iceland,Reykjav¬°k,EMEA,EU-WEST,Walgreens,1095,Retail,SMB,ContactMatcher,7SOKXN9SL3,673.344,3,0.3,-76.9536
 9488,AMER-2023-125213,12/12/2023,20231212,Jessica Langdon,Argentina,Mendoza,AMER,LATAM,Allianz,1080,Finance,Strategic,Storage,BOII7BI93K,6.54,3,0,2.1582
 9489,EMEA-2021-156566,10/1/2021,20211001,Angela Davies,Belgium,Brussels,EMEA,EU-WEST,Kroger,1057,Retail,SMB,Site Analytics,E6M737D9S9,572.8,2,0.2,50.12
 9490,EMEA-2022-102232,8/6/2022,20220806,Rose MacDonald,Portugal,Porto,EMEA,EU-WEST,Samsung Electronics,1015,Tech,Strategic,ChatBot Plugin,J1231FA1HF,197.05,7,0,59.115
@@ -9567,7 +9567,7 @@ Row ID,Order ID,Order Date,Date Key,Contact Name,Country,City,Region,Subregion,C
 9566,EMEA-2020-130428,3/31/2020,20200331,Natalie Nash,Germany,Cologne,EMEA,EU-WEST,Itochu,1032,Finance,SMB,FinanceHub,VHUK7DJMVN,1125.488,7,0.2,98.4802
 9567,EMEA-2020-130428,3/31/2020,20200331,Natalie Nash,Germany,Cologne,EMEA,EU-WEST,Itochu,1032,Finance,SMB,ContactMatcher,URZD6OJTJO,12.645,5,0.7,-10.116
 9568,EMEA-2020-130428,3/31/2020,20200331,Natalie Nash,Germany,Cologne,EMEA,EU-WEST,Itochu,1032,Finance,SMB,ChatBot Plugin,GL7BD2D27S,4.032,2,0.2,1.0584
-9569,AMER-2023-104388,7/6/2023,20230706,Elizabeth Young,Costa Rica,San JosÇ,AMER,LATAM,Procter & Gamble,1077,Consumer Products,Strategic,Site Analytics,6UA5TL96IA,79.96,4,0,22.3888
+9569,AMER-2023-104388,7/6/2023,20230706,Elizabeth Young,Costa Rica,San Jos‚Äö,AMER,LATAM,Procter & Gamble,1077,Consumer Products,Strategic,Site Analytics,6UA5TL96IA,79.96,4,0,22.3888
 9570,AMER-2021-113131,9/24/2021,20210924,Tracey Knox,Mexico,Mexico City,AMER,LATAM,Gazprom,1027,Energy,SMB,ContactMatcher,P3RFSSUWL3,6.732,6,0.7,-4.488
 9571,AMER-2021-113131,9/24/2021,20210924,Tracey Knox,Mexico,Mexico City,AMER,LATAM,Gazprom,1027,Energy,SMB,Marketing Suite - Gold,LSR2V3CNCW,33.568,2,0.2,1.6784
 9572,AMER-2021-113131,9/24/2021,20210924,Tracey Knox,Mexico,Mexico City,AMER,LATAM,Gazprom,1027,Energy,SMB,SaaS Connector Pack - Gold,1ULNES4DZS,15.84,2,0.2,5.544
@@ -9669,7 +9669,7 @@ Row ID,Order ID,Order Date,Date Key,Contact Name,Country,City,Region,Subregion,C
 9668,AMER-2022-126270,4/24/2022,20220424,Brian Peters,United States,Everett,AMER,NAMER,China National Petroleum,1023,Energy,SMB,ContactMatcher,RW5YI29G72,18.088,7,0.2,6.5569
 9669,AMER-2022-126270,4/24/2022,20220424,Brian Peters,United States,Everett,AMER,NAMER,China National Petroleum,1023,Energy,SMB,SaaS Connector Pack - Gold,25IHP2TRMB,71.97,3,0,35.985
 9670,EMEA-2023-145275,4/3/2023,20230403,Nathan Hughes,Portugal,Porto,EMEA,EU-WEST,Nissan Motor,1098,Transportation,SMB,FinanceHub,UE8JQPQI8T,14.94,3,0,6.8724
-9671,EMEA-2021-133396,8/13/2021,20210813,Phil Short,Sweden,Malmî,EMEA,NOR,Bosch,1076,Tech,Strategic,ChatBot Plugin,1PWJMDUM38,64.68,7,0.2,8.085
+9671,EMEA-2021-133396,8/13/2021,20210813,Phil Short,Sweden,Malm‚Äù,EMEA,NOR,Bosch,1076,Tech,Strategic,ChatBot Plugin,1PWJMDUM38,64.68,7,0.2,8.085
 9672,AMER-2023-140312,11/14/2023,20231114,Trevor Langdon,United States,Clinton,AMER,NAMER,Target,1085,Retail,SMB,Site Analytics,MSQZZ5QM4O,22,5,0.2,1.375
 9673,EMEA-2022-114867,12/24/2022,20221224,Una Hudson,France,Paris,EMEA,EU-WEST,AT&T,1010,Communications,Enterprise,Support,J9JMJ0450Z,7.968,2,0.2,2.6892
 9674,EMEA-2022-114867,12/24/2022,20221224,Una Hudson,France,Paris,EMEA,EU-WEST,AT&T,1010,Communications,Enterprise,Site Analytics,ZXARO4DUPC,1499.97,5,0.4,-374.9925
@@ -9735,7 +9735,7 @@ Row ID,Order ID,Order Date,Date Key,Contact Name,Country,City,Region,Subregion,C
 9734,EMEA-2020-114321,8/20/2020,20200820,Blake Hart,Spain,Barcelona,EMEA,EU-WEST,Ford Motor,1009,Manufacturing,Strategic,Support,2HRSHL2C7I,20.12,2,0,9.2552
 9735,EMEA-2020-114321,8/20/2020,20200820,Blake Hart,Spain,Barcelona,EMEA,EU-WEST,Ford Motor,1009,Manufacturing,Strategic,ContactMatcher,22BQV7G290,896.99,1,0,421.5853
 9736,EMEA-2020-128062,11/19/2020,20201119,Samantha Rampling,France,Paris,EMEA,EU-WEST,FedEx,1036,Transportation,Enterprise,Support,EPJ4ARKS3Y,5.88,1,0.2,1.9845
-9737,AMER-2021-100069,6/29/2021,20210629,Victor Gill,Costa Rica,San JosÇ,AMER,LATAM,Morgan Stanley,1068,Finance,Enterprise,Site Analytics,4G0ROE0TLR,269.98,2,0,72.8946
+9737,AMER-2021-100069,6/29/2021,20210629,Victor Gill,Costa Rica,San Jos‚Äö,AMER,LATAM,Morgan Stanley,1068,Finance,Enterprise,Site Analytics,4G0ROE0TLR,269.98,2,0,72.8946
 9738,AMER-2023-129294,3/17/2023,20230317,Irene Lambert,United States,New York City,AMER,NAMER,Banco Santander,1101,Finance,Strategic,Marketing Suite - Gold,7U0G6VHKB2,310.12,2,0,80.6312
 9739,AMER-2023-129294,3/17/2023,20230317,Irene Lambert,United States,New York City,AMER,NAMER,Banco Santander,1101,Finance,Strategic,ContactMatcher,E1KKZ4YDK9,70.464,6,0.2,22.9008
 9740,AMER-2023-129294,3/17/2023,20230317,Irene Lambert,United States,New York City,AMER,NAMER,Banco Santander,1101,Finance,Strategic,ContactMatcher,BYD1AZ1PFO,19.68,5,0.2,6.888

@@ -1,7 +1,3 @@
-SET SQL_SAFE_UPDATES = 0;
-
--- Purpose: Disables safe updates mode, allowing updates and deletes without a WHERE clause or on keys.
-
 # NORMALIZATION
 
 -- Step 1: Create a temporary table "INV" for data cleaning

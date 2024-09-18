@@ -67,7 +67,7 @@ You can view the Tableau dashboard with all the visualizations and insights from
 ## Dependencies
 - **MySQL**: Database management system for processing the data.
 - **Tableau**: For building data visualizations and dashboards.
-- **Kaggle**: Data source for the AWS sales data used in this project.
+- **Kaggle**: Data source for the AWS sales data used in this project.[Kaggle Link](https://www.kaggle.com/datasets/nnthanh101/aws-saas-sales)
 
 ## Future Enhancements
 - Automating the ETL process using a pipeline tool.
